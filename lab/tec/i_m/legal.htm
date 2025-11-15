@@ -1,0 +1,137 @@
+<HTML>
+
+<!-- Copyright © 37 Laboratorio Eudemonia -->
+
+<HEAD>
+
+<link rel=stylesheet href="i_m_1.css" type="text/css">
+
+<meta name="description" content="">
+
+<meta name="keywords" content="">
+
+<TITLE>THE INTERNET MERIDIAN - Eudaemony Laboratory</TITLE>
+
+<script language="javascript">
+
+<!-- Local & Internet Time Clocks script V1.7    -->
+<!-- Copyright © 35 Eudaemony Laboratory         -->
+<!-- Use it at your own risk                     -->
+<!-- and by quoting this copyright note          -->
+<!-- Web Works by Hyper Linker                   -->
+
+function clocks(){
+
+var date = new Date()
+
+var hours = date.getHours()
+var minutes = date.getMinutes()
+var seconds = date.getSeconds()
+
+var month = date.getMonth();
+var day = date.getDate();
+
+var tzos = date.getTimezoneOffset()/60
+
+var cali = hours + (date.getTimezoneOffset()/60) - 8   // Pacific dayligh saving time
+
+
+if (((month == 3 && day < 21) || (month < 3)) && ((month > 9 && day > 21) || (month > 9)))
+    cali = cali - 1
+
+if (hours < 10)
+    hours = "0" + hours;
+if (minutes < 10)
+    minutes = "0" + minutes;
+if (seconds < 10)
+    seconds = "0" + seconds;
+
+if (cali < 7)
+    cali = cali + 24
+if (cali >= 24)
+    cali = cali - 24
+if (cali < 10)
+    cali = "0" + cali
+
+document.clocks.local.value = hours + ":" + minutes + ":" + seconds
+document.clocks.internet.value = cali + ":" + minutes + ":" + seconds
+
+setTimeout("clocks()",1000)
+
+}
+
+</script>
+
+</HEAD>
+
+<BODY onload="clocks()" bgcolor="#000040" text="white" LINK="#fef9cf" ALINK="#fbfaf8" VLINK="white">
+
+<CENTER>
+
+<table bgcolor="#000040" width="100%" height="100%"><tr><td align="center" valign="middle">
+
+<table bgcolor="black" bordercolor="#808000" border="1" width="700pt">
+
+<tr><td align="left" valign="top">
+
+<img src="banner_en.jpg">
+
+<table bgcolor="black" width="700pt" cellpadding="33pt">
+
+<tr><td align="left" valign="top">
+
+<FONT FACE="VERDANA" COLOR="WHITE" SIZE="2">
+
+<div align="justify">
+
+The matter inside the website THE INTERNET MERIDIAN is work and property of the Eudaemony Laboratory. Except for the excerpts (text and image) from the book <i><a class="simple" href="../index.htm">The Earth Calendar</a></i>, reproductions are permitted by reporting the source and the Internet references.
+
+<br><br>
+
+We grant the use of the <a class="simple" href="internet_meridian_script.txt">script</a> at the conditions there reported.
+
+<br><br>
+
+The image of the Earth is courtesy of the NASA. The map of the zone times is courtesy of the University of Texas Libraries, The University of Texas at Austin.
+
+<br><br><br><br>
+
+<center>
+
+<FONT FACE="VERDANA" color="#00ffff" SIZE="2">
+
+<form name="clocks">
+Internet Time:<img src="blank.gif"><img src="blank.gif"><input type="text" name="internet" size="7" value="internet time">
+<img src="blank.gif"><img src="blank.gif"><img src="blank.gif"><img src="blank.gif">
+Local Time:<img src="blank.gif"><img src="blank.gif"><input type="text" name="local" size="7" value="local time">
+</form>
+
+</FONT>
+
+</center>
+
+</div>
+
+</FONT>
+
+<br><br>
+
+<center>
+
+<FONT face="verdana" color="#00ff00" size="1"><i><a class="linkhs" HREF="index.htm">THE INTERNET MERIDIAN</a><br>
+<a class="linkhs" HREF="legal.htm">Copyright ©</a> <a class="linkhs" href="../../eulab/index.htm" target="Eudaemony Laboratory">Eudaemony Laboratory</a>. <a class="linkhs" HREF="legal.htm">Some rights granted</a><br>
+<a class="linkhs" HREF="story.htm">WebSite active since</a> <a class="linkhs" HREF="../years.htm">37</a> - <a class="linkhs" href="../../index.htm" target="HyperLinker">WebWorks by HyperLinker</a>
+</FONT>
+
+</center>
+
+</td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+</CENTER>
+
+</BODY>
+</HTML>

@@ -1,0 +1,113 @@
+Date:    07/02/2009 4.04
+From:    Laboratorio Eudemonia
+To:      mazziniani@yahoogroups.com
+Copy:    
+Subject: [mazziniani] Una questione di Etica
+
+Received: (qmail 10014 invoked from network); 7 Feb 2009 04:04:34 -0800
+Received: from n17b.bullet.sp1.yahoo.com (69.147.64.125) by 206.41.120.28 with SMTP; 7 Feb 2009 04:04:34 -0800
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1234008281; bh=yQGObM7BXjkgi9mSBp0h7MDIvYUrf/JqxpYAICg/1Ac=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type; b=AvX+A5VLt2p9Hsu8PxDjRGRnvydffj6v7tA4HpEoA4+CsqrSpsNu6JLhUGPVCTgp2ll/UfvyOmHAftY/7beJfOpjEi833pDQVvDIEUSQwxC/VpT8Vm5j+bvBM5+erBer
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=Vqvt+l67jhF5b6nYFfq0zCAPcewOtxXICRjeBAZi1zYMKp5Ye+OjvFGAlx7CSSO+7wLBINsW7HbWy/9z5kJBYKvWBmXhrpgsPgQM5q0cOwM6UVVJNhq6qw2shQVZvCUd;
+Received: from [69.147.65.151] by n17.bullet.sp1.yahoo.com with NNFMP; 07 Feb 2009 12:04:41 -0000
+Received: from [66.218.66.158] by t5.bullet.mail.sp1.yahoo.com with NNFMP; 07 Feb 2009 12:04:41 -0000
+X-Yahoo-Newman-Id: 14819286-m1777
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: mazziniani@yahoogroups.com
+X-Received: (qmail 37068 invoked from network); 7 Feb 2009 12:04:39 -0000
+X-Received: from unknown (66.218.67.97) by m54.grp.scd.yahoo.com with QMQP; 7 Feb 2009 12:04:39 -0000
+X-Received: from unknown (HELO smtp-out113.alice.it) (85.37.17.113) by mta18.grp.scd.yahoo.com with SMTP; 7 Feb 2009 12:04:39 -0000
+X-Received: from FBCMMO03.fbc.local ([192.168.68.197]) by smtp-out113.alice.it with Microsoft SMTPSVC(6.0.3790.1830);	Sat, 7 Feb 2009 13:04:40 +0100
+X-Received: from FBCMCL01B01.fbc.local ([192.168.69.82]) by FBCMMO03.fbc.local with Microsoft SMTPSVC(6.0.3790.1830);	Sat, 7 Feb 2009 13:04:35 +0100
+X-Received: from out.alice.it ([79.53.183.131]) by FBCMCL01B01.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Sat, 7 Feb 2009 13:04:39 +0100
+Message-ID: <200902071304240828.00A56186@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: mazziniani@yahoogroups.com
+X-OriginalArrivalTime: 07 Feb 2009 12:04:40.0007 (UTC) FILETIME=[410A8D70:01C9891C]
+X-Originating-IP: 85.37.17.113
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: danhyp
+Sender: mazziniani@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list mazziniani@yahoogroups.com; contact mazziniani-owner@yahoogroups.com
+Delivered-To: mailing list mazziniani@yahoogroups.com
+List-Id: <mazziniani.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:mazziniani-unsubscribe@yahoogroups.com>
+Date: Sat, 07 Feb 2009 13:04:24 +0100
+Subject: [mazziniani] Una questione di Etica
+Reply-To: mazziniani@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-ff-m
+Content-Type: multipart/alternative; boundary="hrEe2JwClZuttKGbOU2ptbsn32LlMmLXqVbvA6Y"
+
+
+
+
+
+--------------------------
+  Una questione di Etica
+--------------------------
+
+
+
+"... Oggi di etica parlano tutti. Ma tutti in realtà si limitano a richiamarsi ad essa per affermare quel ch'è invece soltanto una linea di condotta propria, interna al proprio gruppo culturale di appartenenza. Oggi si affermano principi morali che dovrebbero essere etici ed invece son solo rappresentativi di questo o quel gruppo religioso, si affermano pure "etiche" laiche od atee, "etiche" politiche, retrograde o progressiste, "etiche" economiche, di crescita o di decrescita, liberiste o restrittive, perfino "etiche" ambientaliste e di ogni altro settore e tipo, addirittura relative ad epoche e popoli scomparsi da tempo.
+
+Ciò che però viene metodicamente dimenticato, propriamente ignorata, è l'Etica. Sarebbe a dire quell'insieme di valori allo stato elementare, quindi puro, assolutamente non corrotto dall'influenza di individuo o gruppo alcuno, bensì nello stato in cui essi sono apparsi ai primi che li estrapolarono dalla indistinta materia intellettuale ed ancora potrebbero apparire a chiunque fosse disposto a far tacere od accantonare, almeno per un momento, l'acculturamento ricevuto, l'inculcamento subito, la fidelizzazione accettata, attivando invece i propri sensi in una diretta, non mediata, ricerca personale sul genuino senso delle cose ..."
+
+
+
+Tratto da:
+
+http://Una-questione-di-Etica.hyperlinker.org
+
+
+
+Danilo D'Antonio
+
+Laboratorio Eudemonia
+Piazza del Municipio
+64010 Rocca S. M.
+TE - Abruzzo
+
+tel. 339 5014947
+tel. 328 0472332
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

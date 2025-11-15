@@ -1,0 +1,11 @@
+/*                 The Internet Meridian style sheet                 */
+/* http://internet_meridian.hyperlinker.org - tec(at)hyperlinker.com */
+
+
+a.linkhs {color: #00ff00; text-decoration: none}
+.linkhs:hover {color: yellow; text-decoration: underline}
+
+
+a.simple {color: white; text-decoration: undeline}
+.simple:hover {color: yellow; text-decoration: none}
+

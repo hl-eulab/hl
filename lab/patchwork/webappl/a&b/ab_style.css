@@ -1,0 +1,15 @@
+/* Laboratorio Eudemonia style sheet */
+
+
+a.noline {text-decoration: none}
+.noline:hover {text-decoration: underline}
+
+a.underline {text-decoration: underline}
+.underline:hover {text-decoration: none}
+
+
+a.linkub {text-decoration: underline}
+.linkub:hover {color: #navy; text-decoration: none}
+
+a.linkubred {text-decoration: underline}
+.linkubred:hover {color: red; text-decoration: none}

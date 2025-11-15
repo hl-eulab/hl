@@ -1,0 +1,74 @@
+/***        TEC_EN_1.JS - Copyright © 34 Eudaemony Laboratory             ***/
+
+/***                 Script for the short date of                         ***/
+/***                      The Earth Calendar                              ***/
+/***     http://www.hyperlinker.tk/tec/ - hl.srvc(at)protonmail.ch        ***/
+
+/*** This script can be used to show the date of "The Earth Calendar"     ***/
+/*** both on the desktop of one's own computer and on one's own web site. ***/
+/*** This script can be modified provided that no change will be made     ***/
+/*** to the date of "The Earth Calendar", protecting its standard,        ***/
+/*** and that will be fully respected and reported all the terms of       ***/
+/*** this agreement.                                                      ***/
+
+/*** The logo of the almanac of "The Earth Calendar",                     ***/
+/*** with its original nomenclature, is trademark of the                  ***/
+/*** Eudaemony Laboratory. Its commercial or simply public use,           ***/
+/*** therefore also of the new nomenclature adopted by                    ***/
+/*** "The Earth Calendar", is granted at condition of the subscription    ***/
+/*** and of the full respect of the special license available             ***/
+/*** at http://www.hyperlinker.tk/tec/license_1.htm                       ***/
+
+/*** Copyright and trademark: http://www.hyperlinker.tk/tec/legal.htm     ***/
+
+/*** No warranty of good working is furnished to this script.             ***/
+/*** Therefore use it at your own risk. Notes on its installation,        ***/
+/*** and the eventual updates, are available at:                          ***/
+/*** http://www.hyperlinker.tk/tec/lines.htm                              ***/
+
+/*** TEC_EN_1.JS - Script Version 1.0.2                                   ***/
+
+
+today = new Date
+
+var oey=today.getFullYear()
+var ney=oey-1969
+var yos=ney%7
+
+noy = new Array("Moonyear", "Atomyear", "Wateryear", "Windyear", "Fireyear", "Earthyear", "Sunyear")
+
+moy = new Array("first month", "second month", "third month", "fourth month", "fifth month", "sixth month", "seventh month", "eighth month", "ninth month", "tenth month", "eleventh month", "twelfth month")
+
+dow = new Array("Sunday", "Moonday", "Atomday", "Waterday", "Winday", "Fireday", "Earthday")
+
+document.write("<a class='tec_en_1' href='http://www.hyperlinker.tk/tec/' style='text-decoration: none' target='TheEarthCalendar' title='The Earth Calendar'>Today is " + dow[today.getDay()] + " " + today.getDate() + ", " + moy[today.getMonth()] + ", " + noy[yos] + " " + ney + "</a>")
+
+
+// second string computation
+
+// get the current date
+var today = new Date();
+
+// get the year of the current date
+var year = today.getFullYear();
+
+// create a new Date object with the first day of the year
+var first_day = new Date(year, 0, 1);
+
+// calculate the number of milliseconds between the current date and the first day of the year
+var delta = today - first_day;
+
+// convert the number of milliseconds to days (86400000 milliseconds in a day)
+var day_of_year = Math.floor(delta / 86400000) + 1;
+
+
+pod = new Array("0", "good mood", "virtuosity", "conscience", "robustness", "decision", "imagination", "skill", "dexterity", "fidelity", "happiness", "compassion", "generosity", "altruism", "attention", "liveliness", "consistency", "excellence", "perspicacity", "self-criticism", "splendor", "delicacy", "credibility", "speed", "brilliance", "certainty", "planning", "shrewdness", "remembrance", "hospitality", "scrupulousness", "indefatigability", "mastery", "diplomacy", "intrepidity", "providence", "flexibility", "distinction", "honor ", "independence", "expertise", "agreement", "lucidity", "verification", "kindness", "gratitude", "truthfulness", "meditation", "solicitude", "concreteness", "direction", "musicality", "bliss", "cohesion", "completeness", "elegance", "temper", "cordiality", "nobility", "vigor", "harmony", "correctness", "humility", "frugality", "intuition", "reconciliation", "virtue", "precision", "purity", "wealth", "foresight", "exactness", "delight", "equanimity", "vitality", "wit" , "gaiety", "self-discipline", "enthusiasm", "protection", "timeliness", "subtlety", "synthesis", "joy", "inventiveness", " simplicity", "initiative", "forgiveness", "prudence", "discernment", "foresight", "concordance", "magnanimity", "observation", "receptivity" , "variety", "kindness", "quietness", "intelligence", "breadth", "playfulness", "mercy", "placidity", "rhythm", "zeal", "versatility", "sociability", "tolerance", "calm", "acceptance", "resolution", "interest", "incisiveness", "reflection" , "dignity", "charisma", "efficacy", "justice", "measurement", "greatness", "acumen", "quickness", "authoritativeness", "sincerity", "vastness", "balance", "utility", "concentration", "logic", "temperance", "saving", "accuracy", "diligence", "contemplation", "order", "freshness", "respect", "good will", "industry", "good natured", "harmony", "beauty", "demeanor", "inspiration", "elevation", "decency", "consideration", "discretion", "repentance", "charity", "agility", "philanthropy", "righteousness", "humor", "sensitivity", "objectivity", "honesty", "calmness", "cooperation", "impartiality", "fecundity", "modesty", "clemency", "consistency", "maturity", "significance", "readiness", "boldness", "love", "criterion", "lovingness", "authenticity", "humanity", "unity", "abnegation", "gratitude", "influence", "joviality", "diligence", "moderation", "solidarity", "security", "freedom", "weight", "validity", "industriousness", "adaptability" , "endurance", "sophistication", "industriousness", "respectability", "tenacity", "wisdom", "meekness", "benevolence", "imperturbability", "evaluation", "munificence", "concision", "determination", "conscientiousness", "long-suffering", "eloquence", "analysis", "learning", "genius" , "valor", "heroism", "tact", "positivity", "sagacity", "understanding", "universality", "silence", "wonder", "perfection", "self-esteem", "pity", "confidence", "gentleness", "good", "tirelessness", "naturalness", "ingenuity", "union ", "immensity", "deduction", "punctuality", "knowledge", "optimism", "awareness", "fairness", "caution", "consideration", "confidence", "goodness", "contentment", "evolution", "power", "grace", "judgment", "creativity", "magnificence", "indulgence", "pleasantness", "mysticism", "tranquility", "blamelessness", "peace", "originality", "mediation", "perseverance", "synchrony", " personality", "sensitivity", "courage", "sacredness", "common sense", "reasonableness", "sympathy", "cheerfulness", "patience", "timing", "ardour", "well-being", "reasoning", "elegance", "fulfilment", "importance", "clarity", "spontaneity", "energy", "conspicuity", "sweetness", "competence", "animation", "will", "vigilance", "loveliness", "devotion", "reliability", "preciousness ", "constancy", "liberality", "loyalty", "speed", "friendship", "reviving", "regularity", "renewal", "good taste", " solidity", "frankness", "seriousness", "manners", "serenity", "stability", "care", "politeness")
+
+document.write("<br><a class='tec_en_2' href='http://www.hyperlinker.tk/tec/' style='text-decoration: none' target='TheEarthCalendar' title='The Earth Calendar'><i>Soul Power of the day: " + pod[day_of_year] + "</i></a>")
+
+
+// end
+
+
+
+

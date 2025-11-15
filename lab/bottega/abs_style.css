@@ -1,0 +1,58 @@
+/* Laboratorio Eudemonia style sheet */
+
+a  { text-decoration: none }
+
+a.lightlink {}
+.lightlink:hover {background: white; text-decoration: underline}
+
+
+a.ll01 {text-decoration: none}
+.ll01:hover {background: blue; text-decoration: none}
+
+a.ll02 {text-decoration: none}
+.ll02:hover {text-decoration: underline}
+
+
+a.underline {text-decoration: underline}
+.underline:hover {text-decoration: none}
+
+.noline {text-decoration: none}
+.noline:hover {text-decoration: underline}
+
+.nolinegreen {color: #0a674a; text-decoration: none}
+.nolinegreen:hover {color: red; text-decoration: underline}
+
+
+a.redline {color: red; text-decoration: underline}
+.redline:hover {color: navy; text-decoration: none}
+
+a.blueline {color: blue; text-decoration: underline}
+.blueline:hover {color: navy; text-decoration: none}
+
+a.greenline {color: green; text-decoration: underline}
+.greenline:hover {color: navy; text-decoration: none}
+
+a.violetline {color: 8000ff; text-decoration: underline}
+.violetline:hover {color: navy; text-decoration: none}
+
+a.violetnoline {color: 400080; text-decoration: none}
+.violetnoline:hover {color: red; text-decoration: underline}
+
+a.rednoline {color: red; text-decoration: none}
+.rednoline:hover {color: navy; text-decoration: underline}
+
+
+a.prodotti {color: 8000ff; text-decoration: underline}
+.prodotti:hover {color: blue; text-decoration: none}
+
+
+a.prezzi {color: red; text-decoration: underline}
+.prezzi:hover {color: blue; text-decoration: none}
+
+
+a.gold {color: #7D5A0F; text-decoration: none}
+.gold:hover {color: black; text-decoration: underline}
+
+
+
+

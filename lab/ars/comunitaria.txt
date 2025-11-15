@@ -1,0 +1,129 @@
+Date:    24/05/2009 0.23
+From:    Laboratorio Eudemonia
+To:      generazioneeuropa@yahoogroups.com
+Copy:    
+Subject: [G.E.] La qualità comunitaria del pubblico  impiego
+
+Received: (qmail 18229 invoked from network); 24 May 2009 00:23:15 -0700
+Received: from n72d.bullet.mail.sp1.yahoo.com (98.136.45.97) by 206.41.120.28 with SMTP; 24 May 2009 00:23:14 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1243149794; bh=f1mQhQyUbL5eckQg4XYv8ySy+Ni3LQe7FKlRY8XiSDU=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type; b=jZRpmKBLKM7phax4b75Y1Y852shTTpKiVoIlRRzbMPMP33nCcMnprGCOmm95y2UT5ifoFnRTDmgUg8gbfYTN98rok8uTyMFgLdTNsgfWxN4n83Bp5PFiFbY5nr/JDpwm
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=Qc1UmhhitLU+mbbHE8eGHkRrsSgSXtjuulBZ6ygYG7p5elOvOdA8NCQOgnjGDKmXxA9LdkFkZgwNxO7heuAfN9z7HCm5jzTcCqSwztbak87neK+dx4C9laNzQIBAiPE3;
+Received: from [69.147.65.151] by n72.bullet.mail.sp1.yahoo.com with NNFMP; 24 May 2009 07:23:14 -0000
+Received: from [69.147.108.199] by t5.bullet.mail.sp1.yahoo.com with NNFMP; 24 May 2009 07:23:14 -0000
+X-Yahoo-Newman-Id: 19543062-m4733
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: generazioneeuropa@yahoogroups.com
+X-Received: (qmail 94799 invoked from network); 24 May 2009 07:23:02 -0000
+X-Received: from unknown (69.147.108.200) by m8.grp.re1.yahoo.com with QMQP; 24 May 2009 07:23:02 -0000
+X-Received: from unknown (HELO cp-out8.libero.it) (212.52.84.108) by mta1.grp.re1.yahoo.com with SMTP; 24 May 2009 07:23:02 -0000
+X-Received: from mail.libero.it (151.80.136.52) by cp-out8.libero.it (8.5.107) id 4A11224C00F7977D for generazioneeuropa@yahoogroups.com; Sun, 24 May 2009 09:19:53 +0200
+Message-ID: <200905240919490968.00840378@mail.libero.it>
+References: <200905240919180390.0083881E@mail.libero.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: generazioneeuropa@yahoogroups.com
+X-Originating-IP: 212.52.84.108
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: dan_hyperlinker
+Sender: generazioneeuropa@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list generazioneeuropa@yahoogroups.com; contact generazioneeuropa-owner@yahoogroups.com
+Delivered-To: mailing list generazioneeuropa@yahoogroups.com
+List-Id: <generazioneeuropa.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:generazioneeuropa-unsubscribe@yahoogroups.com>
+Date: Sun, 24 May 2009 09:19:49 +0200
+Subject: [G.E.] =?ISO-8859-1?Q?La_qualit=E0_comunitaria_del_pubblico_?= impiego
+Reply-To: generazioneeuropa@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-ff-m
+Content-Type: multipart/alternative; boundary="m9070wskr1WLZz20cKhPLXe4E0qwJgkzvU0aobu"
+
+
+
+
+
+-------------------------------------------
+La qualità comunitaria del pubblico impiego
+-------------------------------------------
+
+
+
+
+Alla voce "pubblico" Wikipedia recita:
+
+"Nell'ambito del diritto, il termine pubblico identifica un bene materiale od immateriale accessibile a tutte le persone senza condizioni, in opposizione a ciò che è di proprietà di un privato, e che è mantenuto e protetto a servizio e godimento della collettività senza l'ingerenza di interessi privati."
+
+Da queste chiarissime parole deriva immediatamente che ciò che giuridicamente viene qualificato come "pubblico" non può assolutamente essere concesso in modo definitivo a qualcuno in particolare pena la decadenza della sua stessa qualità giuridica. Questa è la ragione, in verità non solo giuridica ma a norma di ogni buon senso, filosofia e logica, per la quale il bene pubblico dei ruoli, poteri e redditi della cosiddetta Pubblica Amministrazione non può essere assegnato a vita e nei fatti appartenere ad alcuno, poiché esso va "mantenuto e protetto a servizio e godimento della collettività".
+
+
+Come è potuto dunque accadere che la collettività abbia ceduto a singoli individui particolari la proprietà di fatto esclusiva di un determinato bene pubblico quale è appunto ogni singolo pubblico impiego? Non avrebbe la società dovuto proteggere questo suo primario bene? Non sarebbe essa andata contro ogni suo interesse ed avrebbe perfino esercitato un'azione al di là dei suoi stessi immediati poteri, poiché un complessivo bene collettivo, così importante come l'intero potere esecutivo e funzionale della Res Pubblica, non poteva essere certo ceduto pena il decadere stesso di quest'ultima?
+
+Ed ancora: qualsiasi governo, delegato da un popolo a fare i suoi interessi collettivi, prima di cedere a vita un ruolo, un potere, un reddito della Repubblica, non avrebbe dovuto interpellare quel suo stesso popolo davanti ad un atto che avrebbe così profondamente dequalificato e ricondotto all'indietro nel tempo l'intera società? I vari governi che si sono succeduti nella storia della nostra Repubblica non avrebbero dovuto porre un sì ponderoso e pregno quesito ai loro rappresentati, prima di permettersi qualsiasi azione deliberativa in proposito?
+
+
+Ebbene tutto inizia a chiarirsi risalendo ai primi momenti della nostra Repubblica, quando già sulle pagine dei lavori preparatori della Costituzione leggiamo che "[gli articoli] non innovano nè infirmano nulla di ciò che è stata finora la prassi del reclutamento degli impiegati pubblici e privati", riferendosi con ciò, per quanto qui trattato, al concorso pubblico per accedere ai pubblici uffici. Non si fa alcun riferimento alla durata temporale dell'impiego ma si riprende pari pari il precedente sistema statalista, in cui l'assegnazione a vita dei ruoli della PA creava una casta di statali in vario modo e misura privilegiati rispetto agli altri cittadini.
+
+In effetti nella società pre-repubblicana l'attività svolta dai lavoratori pubblici non è un compito genuino e libero come qualsiasi altro quanto la realizzazione concreta e fedele di ciò che la monarchia pensa: i pubblici addetti sono il braccio, lo Stato è la mente. Il fulcro del rapporto che li lega è una interessata fedeltà reciproca: in cambio del cieco, muto, sordo e mentalmente atrofico contributo del pubblico dipendente la monarchia assicura a questi un ruolo stabile. Solo così infatti essa è in grado di garantirsi un gruppo di sempre obbedienti, fidati perché immutabili, servitori.
+
+Questo legame caratterizza il rapporto tra Stato monarchico e pubblico dipendente sin dalla sua origine. E ripercorrendo la nostra storia, dalla Legge Cavour del 1853, al Fascismo, alle riforme degli anni '50 ed '80, fino alle numerose riforme degli anni '90, per giungere ad oggi, in tutti i casi le successive leggi sono sempre attentissime a non cambiare la sostanza del rapporto. Il pubblico dipendente permane docile strumento di un potere centrale assoluto che però nel frattempo ha cessato di esistere con la fine della monarchia e l'inizio della repubblica!
+
+Proprio con l'avvento di questa si sarebbe dovuta affermare una generale e verace partecipazione democratica. Il concetto di Repubblica coincide infatti con quello di una società/comunità che si autogestisce, autogoverna ed autorinnova in continuazione per il tramite di una partecipazione popolare che si esprime innanzitutto in fase esecutiva, per un iniziale apprendimento di ognuno dei modi del vivere comune, e poi, per i migliori, nella più impegnativa fase deliberativa. Com'è, dunque, che tale estesa partecipazione ancora oggi invece manca, così come ancora manca la consapevolezza della pregna essenza di un moderno pubblico impiego?
+
+
+Purtroppo nei frenetici giorni della nascita della Repubblica non fu possibile, date le vitali urgenze di quei giorni, sviluppare queste riflessioni. Vedendo scorrere i filmati dell'epoca è evidente la condizione di estrema precarietà del Paese che si doveva innanzitutto risolvere. Una volta superate le emergenze si sarebbe potuto e dovuto, allora sì, affrontare con decisione questi temi. Ma l'abietta letargìa cerebrale da indebito privilegio, che aveva caratterizzato fin dalla nascita il pubblico impiego, mantenne il sopravvento sulle necessità della giovane Repubblica.
+
+Coloro, che per titoli, incarichi, retribuzioni ed onori ricevuti avrebbero dovuto trainare in avanti la società con le loro ricerche, studi e riflessioni, prima di altri i professori e poi anche le professoresse, via via sempre più numerose, si guardarono bene dal compiere il loro dovere. Ed ancor oggi, sìa eterna loro vergogna, ad un potere deliberante reso effettivamente conforme all'ideale repubblicano sessant'anni fa non fu poi mai affiancato un complessivo potere esecutivo e funzionale, una pubblica amministrazione, resa conforme anch'essa a tale ideale comunitario.
+
+
+La Repubblica Italiana fu di fatto realizzata soltanto per metà ed ancor oggi versa in quelle precarie condizioni. Proprio per questa ragione vera democrazia non si è mai potuta affermare e godere perché vera partecipazione mai c'è stata nè mai ci potrà essere fintantoché esisterà la casta degli statali.
+
+
+Dubbio alcuno non v'è che oggi, in un tempo in cui Internet ha dato ad ogni cittadino la possibilità di ricercare e studiare al di fuori dei fuorvianti e sterili percorsi indicati da baroni e baronesse, tenutari dell'incultura del vecchio Stato ottocentesco all'interno di Università ancora non rese davvero pubbliche, tocchi proprio a noi semplici esseri umani e persone qualunque, emeriti signori nessuno, portare a termine un processo di evoluzione sociale avviato tanto tempo fa ed ormai sul punto straordinario di giungere a pieno compimento.
+
+Sta a noi semplici cittadini, prima che gli statali finiscano per ricondurre l'Italia alle originarie condizioni pre-repubblicane, raccontare ad ogni amico e conoscente cosa è successo finora e cosa sta finalmente per accadere. Sta a noi persone qualsiasi coinvolgere tutti quei signori e quelle signore che han fatto finora da frenante guida al movimento progressista invitandoli ad occuparsi della qui presentata fondamentale Questione Pubblica. Sta a noi italiani scrivere ai redattori delle pubblicazioni di cui ci siamo erroneamente fidati per dir loro: basta con le fesserie ed andiamo finalmente al sodo!
+
+
+Sta a noi pensare fin d'ora ai grandi festeggiamenti che coroneranno non soltanto questo presente nostro importante lavoro collettivo ma anche quello di tutti coloro che ci hanno preceduti e che nel lungo scorrere del tempo, col loro impegno, coi loro sacrifici, col loro entusiasmo, hanno sempre fatto avanzare l'umana società.
+
+
+
+Sandra dei Sorrisi
+Danilo delli Abbracci
+
+
+
+
+http://it.wikipedia.org/wiki/Pubblico
+
+http://www.nascitacostituzione.it/05appendici/01generali/00/03/03-giua.htm
+
+http://equo-impiego-pubblico-a-rotazione.hyperlinker.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

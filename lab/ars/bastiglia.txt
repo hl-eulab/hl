@@ -1,0 +1,103 @@
+Date:    14/07/2009 3.10
+From:    Laboratorio Eudemonia
+To:      bastaguerra@yahoogroups.com
+Copy:    
+Subject: [bastaguerra] Dalla violenza dei disordini alla regola pacifica
+
+Received: (qmail 22078 invoked from network); 14 Jul 2009 03:10:11 -0700
+Received: from n50c.bullet.mail.sp1.yahoo.com (66.163.168.184) by 206.41.120.28 with SMTP; 14 Jul 2009 03:10:05 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1247566203; bh=lANREGVBNDCAHtqhEpgbzkmJPaqSh5VJFIcnmS8bsyE=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type; b=MYPdTe42AgXcuWRG1Kke63D5CBGVCgHri8gIDb+zXEqf8MwqHD/+CJM2f4FX5HA/6jWW9Pa/jHZyTtwCKhuPEnIW82KNXftZbTsg1XiPXTKfWmqW1Tsc/bVNEbbo2Wd7
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=He8RmExzA/MhLAdLtwE9pPKk2EVWMSFfTwpG78Mbx6VTGg+tq7OUOD41P/hNDTLiBA0VNV/AKOQMo6Xla5C7HP5nn0hxncp6zBEgciBfZPMIxBL5NUUr3sRRt9EMYgGA;
+Received: from [69.147.65.171] by n50.bullet.mail.sp1.yahoo.com with NNFMP; 14 Jul 2009 10:10:03 -0000
+Received: from [69.147.108.198] by t13.bullet.mail.sp1.yahoo.com with NNFMP; 14 Jul 2009 10:10:03 -0000
+X-Yahoo-Newman-Id: 4189098-m8778
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: bastaguerra@yahoogroups.com
+X-Received: (qmail 79868 invoked from network); 14 Jul 2009 10:09:48 -0000
+X-Received: from unknown (69.147.108.201) by m7.grp.re1.yahoo.com with QMQP; 14 Jul 2009 10:09:48 -0000
+X-Received: from unknown (HELO smtp-OUT05A.alice.it) (85.33.3.5) by mta2.grp.re1.yahoo.com with SMTP; 14 Jul 2009 10:09:47 -0000
+X-Received: from FBCMMO03.fbc.local ([192.168.68.197]) by smtp-OUT05A.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Tue, 14 Jul 2009 12:09:26 +0200
+X-Received: from FBCMCL01B08.fbc.local ([192.168.171.46]) by FBCMMO03.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Tue, 14 Jul 2009 12:09:25 +0200
+X-Received: from out.alice.it ([79.47.183.216]) by FBCMCL01B08.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Tue, 14 Jul 2009 12:09:24 +0200
+Message-ID: <200907141209260218.00AAEDD0@out.alice.it>
+References: <43C8F6320EE64E66B19DA245A50B1102@maest8a79c749d> <200907121108310281.0030E7C6@out.alice.it> <200907141157160218.009FCA40@out.alice.it> <200907141205270187.00A74818@out.alice.it> <200907141206440828.00A87761@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: bastaguerra@yahoogroups.com
+X-OriginalArrivalTime: 14 Jul 2009 10:09:24.0252 (UTC) FILETIME=[29C8D5C0:01CA046B]
+X-Originating-IP: 85.33.3.5
+X-eGroups-Msg-Info: 2:3:4:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: dan_hyperlinker
+Sender: bastaguerra@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list bastaguerra@yahoogroups.com; contact bastaguerra-owner@yahoogroups.com
+Delivered-To: mailing list bastaguerra@yahoogroups.com
+List-Id: <bastaguerra.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:bastaguerra-unsubscribe@yahoogroups.com>
+Date: Tue, 14 Jul 2009 12:09:26 +0200
+Subject: [bastaguerra] Dalla violenza dei disordini alla regola pacifica
+Reply-To: bastaguerra@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-ff-u
+Content-Type: multipart/alternative; boundary="DEZjSdVWkhBEozTxiHJjsvtstVVOnbF8Qa38b0Z"
+
+
+
+
+
+-------------------------------------------------
+Dalla violenza dei disordini alla regola pacifica
+-------------------------------------------------
+
+
+
+Il 14 luglio 1789 avveniva la presa della Bastiglia: un evento ben rappresentativo della più ampia serie di avvenimenti che oggi chiamiamo "rivoluzione francese". In quei tempi iniziò il percorso che con alterne vicende condusse la Francia all'affermazione definitiva della Repubblica.
+
+
+220 anni sono trascorsi da quel giorno. E 220 anni sono invero troppi, perché ciò che oggi chiamiamo Repubblica è in effetti ancora ben distante dall'essere una piena, compiuta forma sociale repubblicana. Oppressi dalle dittature, nei momenti più critici della loro storia, i popoli si son potuti concentrare sul cambiamento della mera forma di governo. Successivamente coloro che avrebbero dovuto sviluppare l'idea repubblicana e portare a compimento il PROCESSO di REPUBBLICANIZZAZIONE della società, estendendo tale tipo di organizzazione all'intera gestione della Cosa Pubblica, hanno ceduto alle lusinghe dei privilegi della loro categoria, rimasta come ai tempi delle monarchie.
+
+Gli innumerevoli docenti, professori, ricercatori umanisti, i filosofi, i giuristi, i costituzionalisti, tutti emeriti STATALI, hanno tranquillamente accettato anch'essi di farsi assumere a vita in quei ruoli che avrebbero dovuto invece essere periodicamente redistribuiti tra la popolazione. E così la celebre frase "L'état, c'est moi", "Lo Stato sono io", attribuita al re di Francia, Luigi XIV, che accentrò i poteri dello Stato nella propria persona, ancor oggi riecheggia pari pari nei Pubblici Uffici indebitamente occupati dalla CASTA STATALE.
+
+"LO STATO SIAMO NOI!": questo grida l'indegno comportamento di coloro che si sono impossessati di un pezzo del sacro Bene Comune. Dimentichi che ben sessantatre anni sono passati da quando il popolo italiano optò per l'ordinamento Repubblicano. Abbandonati da coloro che per ruolo, onori e redditi avrebbero dovuto trainare in avanti la società, mentre invece han fatto da ermetico tappo al progresso, noi semplici cittadini abbiamo oggi l'onore di affermare la verità che lo Stato, l'accentramento del potere nelle mani di una inamovibile ed immutabile Elite, non esiste più dal 1946! ma che, purtroppo, gli STATALI son rimasti come nulla fosse accaduto!
+
+
+Sta a noi, semplici meravigliose persone, che mai abbiamo nemmeno pensato di impossessarci di qualcosa che per sua stessa natura giuridica non poteva essere assegnato a vita, continuare quel processo iniziato 220 anni fa, e, stavolta pacificamente, legalmente, civilmente, affermare l'improrogabilità di un:
+
+http://EQUO-IMPIEGO-PUBBLICO-A-ROTAZIONE.hyperlinker.org
+
+Non foss'altro perché l'unico modo per evitare un'aperiodica sanguinosa rivoluzione è quella di istituirne una regolare: la rotazione è esattamente una pacifica rivoluzione costante.
+
+
+Danilo D'Antonio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

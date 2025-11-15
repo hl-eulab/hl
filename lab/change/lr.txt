@@ -1,0 +1,181 @@
+Date:    17/04/09 5.37
+From:    Laboratorio Eudemonia
+To:      ateismoantagonista@yahoogroups.com
+Copy:    
+Subject: [ateismoantagonista] Libertà risorga! (L'Aquila, tra statali  ed ambientalisti)
+
+Received: (qmail 32300 invoked from network); 17 Apr 2009 05:37:06 -0700
+Received: from n44c.bullet.mail.sp1.yahoo.com (66.163.168.178) by 206.41.120.28 with SMTP; 17 Apr 2009 05:37:06 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1239971829; bh=F9zv1euilqjToRMHspQbIhufqwmYiY1WLZA5bA9hoaE=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=NlsYCplZesz19gNstFGDvoN+aK4AJd7+0CPK+LtmwhTEEQ1KihwKXCfRPEFDLhq34NN/VbhlzNCvIwTwXi/HOBDYt2jPMayviLhIPAV3ItMUcdKxCzlb8TQyMYS9ZrWz
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=DYlnPgLi3oAnsZgmRy04O4Lv14HFmkvONYiwfT6Su7se9Ly7fSdMF5hxVkBrDmCgoCL/PXOdmdfe7JYkI2lGeYd7tnoJWWlpANkAysItWtkXgQsRcxkaUB4cgVHduXaX;
+Received: from [69.147.65.150] by n44.bullet.mail.sp1.yahoo.com with NNFMP; 17 Apr 2009 12:37:09 -0000
+Received: from [98.137.34.37] by t7.bullet.mail.sp1.yahoo.com with NNFMP; 17 Apr 2009 12:37:09 -0000
+X-Yahoo-Newman-Id: 4453074-m4918
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: ateismoantagonista@yahoogroups.com
+X-Received: (qmail 17463 invoked from network); 17 Apr 2009 12:37:07 -0000
+X-Received: from unknown (69.147.108.200) by m1.grp.sp2.yahoo.com with QMQP; 17 Apr 2009 12:37:07 -0000
+X-Received: from unknown (HELO smtp-out25.alice.it) (85.33.2.25) by mta1.grp.re1.yahoo.com with SMTP; 17 Apr 2009 12:37:07 -0000
+X-Received: from FBCMMO02.fbc.local ([192.168.68.196]) by smtp-out25.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 17 Apr 2009 14:36:45 +0200
+X-Received: from FBCMCL01B07.fbc.local ([192.168.171.45]) by FBCMMO02.fbc.local with Microsoft SMTPSVC(6.0.3790.1830);	Fri, 17 Apr 2009 14:36:44 +0200
+X-Received: from out.alice.it ([87.6.156.242]) by FBCMCL01B07.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 17 Apr 2009 14:31:17 +0200
+Message-ID: <200904171236360080.0022061C@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+To: ateismoantagonista@yahoogroups.com
+X-OriginalArrivalTime: 17 Apr 2009 12:31:18.0015 (UTC) FILETIME=[6807F8F0:01C9BF58]
+X-Originating-IP: 85.33.2.25
+X-eGroups-Msg-Info: 1:6:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+Sender: ateismoantagonista@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list ateismoantagonista@yahoogroups.com; contact ateismoantagonista-owner@yahoogroups.com
+Delivered-To: mailing list ateismoantagonista@yahoogroups.com
+List-Id: <ateismoantagonista.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:ateismoantagonista-unsubscribe@yahoogroups.com>
+Date: Fri, 17 Apr 2009 12:36:36 +0200
+Subject: [ateismoantagonista] =?ISO-8859-1?Q?Libert=E0_risorga!_(L'Aquila,_tra_statali_?= ed ambientalisti)
+Reply-To: ateismoantagonista@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-m
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+--------------------
+  Libertà risorga!
+--------------------
+
+
+
+L'Aquila è una di quelle Province itagliane i cui STATALI, assunti ed eletti a vita, hanno privato l'essere umano di uno dei suoi diritti naturali più importanti. Se noi tutti siamo oggi vivi e ben messi, in quanto ad ogni genere di necessità, lo dobbiamo in particolare al fatto che gli umani che ci hanno preceduto, i nostri antenati, fino ai nostri nonni e genitori, hanno avuto la possibilità di insediarsi in un territorio, sulla loro terra, su di una loro proprietà, e lì fondarci la propria vita: costruirci la propria casa, avviarci una attività, non necessariamente agricola ma di qualsiasi tipo, e svolgervi ogni tipo di pratica creativa e vitale.
+
+Ebbene, gli STATALI aquilani, insieme agli STATALI di altre Province e Regioni itagliane, hanno da qualche anno iniziato a proibire a noi esseri umani ciò che i nostri genitori hanno potuto fare in piena tranquillità. Nel totale silenzio dei giornaletti alternativi e del cinquepermille, nel totale disinteresse dell'intero mondo finto-progressista, col totale appoggio degli ambientalisti, i quali avrebbero invece dovuto avvertire per tempo la popolazione italiana del fatto che sul nostro territorio la densità demografica era diventata troppo alta, si è perpetrato un orrendo crimine liberticida.
+
+A noi esseri umani, uomini, donne, semplici persone, è stato fatto divieto di costruire una casa sulla nostra terra e di viverci e lavorarvi felici. Al contrario le imprese, non solo agricole ma come vedremo subito d'ogni altro tipo, possono continuare tranquillamente a realizzare le proprie costruzioni e condurre le proprie attività, spesso oltremodo opprimenti e debilitanti il territorio e gli umani. La situazione reale, non ufficializzata sugli atti pubblici ma evidente dallo stato reale delle cose, emerge chiara già dalle poche parole del seguente trafiletto:
+
+
+###
+
+"L'ospedale a L'Aquila? Sconosciuto al catasto"
+
+Il San Salvatore, evacuato poche ore dopo il sisma, non ha mai avuto il certificato di agibilità
+La procura ha aperto un fascicolo contro ignoti per disastro e omicidio colposo plurimo
+"L'ospedale a L'Aquila? Sconosciuto al catasto"
+
+http://www.repubblica.it/2009/04/sezioni/cronaca/sisma-aquila-5/ospedale-aquila/ospedale-aquila.html
+
+###
+
+
+Così stan esattamente le cose: gli STATALI, assunti ed eletti a vita, a noi esseri umani, a noi singole persone, a noi semplici cittadini ordinano, impongono e proibiscono, mentre loro fan il PROCIO (di Ulissea memoria) vergognoso comodo loro. Con la complicità degli ambientalisti, degni compari di questa brutta gente, essendo spesso loro stessi, anzi, degli STATALI, viene proibito alle persone, ai cittadini, agli esseri umani di VIVERE SULLA PROPRIA TERRA per MANDARLE a MORIRE nei palazzi costruiti dalle imprese in quale modo l'abbiamo purtroppo tutti visto!
+
+(Non dimenticando che L'Aquila sarebbe dovuta essere annessa, per sua storia, tra i territori ad alto rischio sismico, mentre, per le pressioni della lobby dei costruttori, è stata classificata all'interno di una più tranquilla "zona 2").
+
+
+Ebbene, STATALI ed ambientalisti, che forse, nella vostra oscena visione del mondo e della vita, si ha diritto di esistere soltanto se si è imprenditori? Quale dovrebbe essere secondo voi il destino di noi semplici esseri umani? Essere docile preda dei tanti spegiudicati di cui oggi si è popolata la società?!
+
+
+La verità è che STATALI ed ambientalisti, spesso tutt'uno, hanno di fatto avviato un vergognoso processo d'incasellamento, irregimentazione e schiavizzazione di noi esseri umani. Impedendoci di vivere e lavorare liberamente sulla nostra terra, vietandoci di svolgervi una libera attività creativa, relegandoci nei pollai urbani ed offrendoci striminziti lotti edificabili, in cui non v'è spazio nemmeno per un orto, a prezzi impossibili, hanno estremamente ridotto la nostra libertà e resici schiavi di fabbriche ed uffici, schiavi dei cosiddetti capitalisti, schiavi di imprese ed industrie.
+
+Coi loro Piani Regolatori, fatti esattamente da questa gente con questa stessa esatta competenza e professionalità:
+
+
+###
+
+"L'ospedale a L'Aquila? Sconosciuto al catasto"
+
+Il San Salvatore, evacuato poche ore dopo il sisma, non ha mai avuto il certificato di agibilità
+La procura ha aperto un fascicolo contro ignoti per disastro e omicidio colposo plurimo
+"L'ospedale a L'Aquila? Sconosciuto al catasto"
+
+http://www.repubblica.it/2009/04/sezioni/cronaca/sisma-aquila-5/ospedale-aquila/ospedale-aquila.html
+
+###
+
+
+(un resoconto che evidenzia una situazione composta non da pochi colpevoli ma da un intero marcio sistema statalista) non solo a L'Aquila ma dappertutto in Itaglia allo stesso indegno modo, STATALI ed ambientalisti hanno innanzitutto creato i presupposti per ogni genere di speculazione, edilizia e non, ed hanno poi privato noi umani di un fondamentale diritto naturale che fa esattamente la differenza tra UOMINI e DONNE LIBERI e POLLI d'ALLEVAMENTO. Permettendoci solo brevi visite nella natura a pagamento presso agriturismi divenuti, per questo loro sfruttamento degli umani, ributtanti.
+
+
+Ebbene: è giunto il tempo per noi esseri umani di liberarci dalla sopraffazione di STATALI indebitamente sopravvissuti alla caduta dei regimi dittatoriali. Se è più che giusto che norme ben fatte regolamentino la nostra vita per evitare che i più forti sopraffacciano i più deboli, se è più che giusto proteggere il territorio da chi lo massacra per davvero: le imprese e le industrie, non se ne parla neanche di continuare a permettere che ai deboli venga ordinato, obbligato e proibito ciò che non andrebbe affatto ordinato, obbligato e proibito.
+
+L'assegnazione a vita dei ruoli, poteri e redditi pubblici, dei ruoli, poteri e redditi della Res Publica, di ciò che appartiene a TUTTI noi cittadini, deve essere interrotta. Ruoli, poteri e redditi pubblici devono essere periodicamente redistribuiti tra la popolazione idonea e desiderosa di averli. Al fine che di questo schifo:
+
+
+###
+
+"L'ospedale a L'Aquila? Sconosciuto al catasto"
+
+Il San Salvatore, evacuato poche ore dopo il sisma, non ha mai avuto il certificato di agibilità
+La procura ha aperto un fascicolo contro ignoti per disastro e omicidio colposo plurimo
+"L'ospedale a L'Aquila? Sconosciuto al catasto"
+
+http://www.repubblica.it/2009/04/sezioni/cronaca/sisma-aquila-5/ospedale-aquila/ospedale-aquila.html
+
+###
+
+
+non rimanga altra traccia che sui vecchi libri di una storia da tramandarsi solo come monito.
+
+
+Liberando la Res Publica, il nostro Paese, l'Italia, dagli STATALI, tutto andrà al suo giusto posto ed ogni cosa inizierà a funzionare per bene. Perché la forma che la nostra società avrà finalmente così assunto non sarà più quella di un retrogrado STATO ma di una evoluta COMUNITA'!
+
+Ed eliminando il presente sistema statale colluso con un sistema economico privato ormai divenuto massimamente criminale, a beneficio di un sistema comunitario equamente bilanciato con un sistema privato:
+
+PUBBLICO IMPIEGO A ROTAZIONE
+COMPRENDENTE ATTIVITÀ ECONOMICHE
+PER UNA METÀ DELL'INTERO
+
+anche l'ambientalismo e l'intero sistema del volontariato smetteranno di essere stampella di un marcio sistema statale, e le loro funzioni potranno essere del tutto integrate all'interno di pubbliche attività in cui a turno potremo alternarci tutti noi cittadini. In modo che anche il presente volontariato, un vero obbrobrio umano, in quanto di fatto istituzionalizza la sofferenza dimenticando che essa imprevista e rara eccezione deve rimanere, scompaia per sempre tra i flutti di un penoso ricordo.
+
+
+
+Danilo D'Antonio
+Terra e Libertà!
+
+
+
+
+http://Societa-Democratica.hyperlinker.org
+
+http://Volontariato-della-Nuova-Era.hyperlinker.org
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+Per annullare l'iscrizione a questo gruppo, manda una mail all'indirizzo: 
+ateismoantagonista-unsubscribe@yahoogroups.com
+
+Link utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/ateismoantagonista/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/ateismoantagonista/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:ateismoantagonista-digest@yahoogroups.com 
+    mailto:ateismoantagonista-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    ateismoantagonista-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

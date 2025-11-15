@@ -1,0 +1,136 @@
+Date:    27/08/2009 0.36
+From:    Laboratorio Eudemonia
+To:      Medicina-e-Cultura@yahoogroups.com
+Copy:    
+Subject: [Medicina-e-Cultura] Che ne pensate della suina?
+
+Received: (qmail 1977 invoked from network); 27 Aug 2009 00:36:45 -0700
+Received: from n48a.bullet.mail.sp1.yahoo.com (66.163.168.142) by 206.41.120.28 with SMTP; 27 Aug 2009 00:36:42 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1251358508; bh=t8euAm8qh1EBi3PYsdUmschwfKifcKPmKGVcRfSWgQg=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=kQYPynBQDTiA4j93YyDQFGZ/HAtBI1VBA6IA3r1wqIb186yVAMq+axPvVuM9Zy/4s5AelUGlhlb4hlDkTRJBLx6eVLNlsN7OhdHTPoU2hVK95J62z3GFRIeOZ+qVc+JE
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=G+ssCPbBIh7v5cbmIWUBXepjEG+KaQV4+tG0VfQbrgW+NbVKzaXYFlaHO7SvyVWg7lkxk/w+quKpkoVtFOsRpkMJAhHAhy5tQHPYre4rw3tV5WsCjgyQEMZfgYx2+qMa;
+Received: from [69.147.65.151] by n48.bullet.mail.sp1.yahoo.com with NNFMP; 27 Aug 2009 07:35:08 -0000
+Received: from [69.147.108.198] by t5.bullet.mail.sp1.yahoo.com with NNFMP; 27 Aug 2009 07:35:08 -0000
+X-Yahoo-Newman-Id: 17132071-m2561
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: Medicina-e-Cultura@yahoogroups.com
+X-Received: (qmail 97032 invoked from network); 27 Aug 2009 07:35:03 -0000
+X-Received: from unknown (69.147.108.201) by m7.grp.re1.yahoo.com with QMQP; 27 Aug 2009 07:35:03 -0000
+X-Received: from unknown (HELO smtp-out28.alice.it) (85.33.2.28) by mta2.grp.re1.yahoo.com with SMTP; 27 Aug 2009 07:35:03 -0000
+X-Received: from FBCMMO01.fbc.local ([192.168.68.195]) by smtp-out28.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Thu, 27 Aug 2009 09:34:56 +0200
+X-Received: from FBCMCL01B07.fbc.local ([192.168.171.45]) by FBCMMO01.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Thu, 27 Aug 2009 09:34:56 +0200
+X-Received: from out.alice.it ([79.47.182.99]) by FBCMCL01B07.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Thu, 27 Aug 2009 09:34:55 +0200
+Message-ID: <200908270934550875.0025EDA7@out.alice.it>
+References: <832209.54355.qm@web110109.mail.gq1.yahoo.com> <200908270011520546.001F02C8@out.alice.it> <200908270932440140.0023EB11@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: Medicina-e-Cultura@yahoogroups.com
+X-OriginalArrivalTime: 27 Aug 2009 07:34:55.0690 (UTC) FILETIME=[DF7782A0:01CA26E8]
+X-Originating-IP: 85.33.2.28
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: danhyp
+Sender: Medicina-e-Cultura@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list Medicina-e-Cultura@yahoogroups.com; contact Medicina-e-Cultura-owner@yahoogroups.com
+Delivered-To: mailing list Medicina-e-Cultura@yahoogroups.com
+List-Id: <Medicina-e-Cultura.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:Medicina-e-Cultura-unsubscribe@yahoogroups.com>
+Date: Thu, 27 Aug 2009 09:34:55 +0200
+Subject: [Medicina-e-Cultura] Che ne pensate della suina?
+Reply-To: Medicina-e-Cultura@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-m
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+Negli USA c'è già chi fugge per non sottoporsi al vaccino ed è comparsa pure una canzone, "Don’t Inject Me Swine Flu Vaccine":
+
+http://www.examiner.com/x-10438-Peace-Studies-Examiner~y2009m8d25-H1N1-agenda-high-profile-protester-releases-Dont-Inject-Me-Swine-Flu-Vaccine-Song?cid=examiner-email
+
+In Itaglia (con la g di gnoranza) pare che presto arrivino le vaccinazioni coatte.
+
+Voi che ne pensate?
+
+
+Danilo D'Antonio
+
+
+Realtà d'amianto e bufale suine
+http://www.hyperlinker.com/ars/suina.htm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+Attenzione: Rispondete a questo messaggio soltanto se la risposta è da giudicarsi interessante per tutto il Gruppo, ed è attinente al tema del Gruppo stesso. Altrimenti, inviate un messaggio al solo mittente del messaggio stesso. La stessa cosa per ogni questione o comunicazione personale e non interessante per tutti, o non attinente al tema del Gruppo.Link utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/Medicina-e-Cultura/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/Medicina-e-Cultura/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:Medicina-e-Cultura-digest@yahoogroups.com 
+    mailto:Medicina-e-Cultura-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    Medicina-e-Cultura-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

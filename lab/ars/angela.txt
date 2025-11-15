@@ -1,0 +1,35 @@
+
+
+Return-Path: <superquark@rai.it>
+Received: from nns.rai.it ([193.76.127.10]) by fep01-svc.tin.it
+          (InterMail v4.0 201-221-105) with ESMTP
+          id <19990416074948.BAWV25079.fep01-svc@nns.rai.it>
+          for <eulab@tin.it>; Fri, 16 Apr 1999 09:49:48 +0200
+Received: from LOCALNAME ([193.70.13.231]) by nns.rai.it (8.7.6/8.7.3-RAI01) with SMTP id JAA07118 for <eulab@tin.it>; Fri, 16 Apr 1999 09:52:16 +0200 (METDST)
+Date: Fri, 16 Apr 1999 09:52:16 +0200 (METDST)
+Message-Id: <199904160752.JAA07118@nns.rai.it>
+X-Sender: superquark@rai.it
+X-Mailer: Windows Eudora Light Version 1.5.2
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: eulab@tin.it
+From: redazione di Superquark <superquark@rai.it>
+Subject: Piero Angela
+
+gentile sig. D'Antonio,
+
+ho letto la sua lettera e il relativo allegato. La ringrazio per i
+complimenti che mi ha fatto riguardo a Superquark.
+La ringrazio ma non firmero' la petizione.
+
+cordiali saluti
+Piero Angela
+
+
+
+
+
+
+
+
+

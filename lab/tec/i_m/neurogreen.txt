@@ -1,0 +1,89 @@
+Date:    31/12/06 1.48
+From:    Laboratorio Eudemonia
+To:      neurogreen@liste.rekombinant.org
+Copy:    
+Subject: [neurogreen] Il meridiano di Internet
+
+Return-Path: <neurogreen-owner@liste.rekombinant.org>
+Delivered-To: 189-eulab@hyperlinker.com
+Received: (qmail 30438 invoked from network); 31 Dec 2006 01:48:26 -0800
+Received: from ns.comodino.org (HELO smtp.comodino.org) (83.103.115.17) by 206.41.120.28 with (AES256-SHA encrypted) SMTP; 31 Dec 2006 01:48:26 -0800
+Received-SPF: none (206.41.120.28: domain at liste.rekombinant.org does not designate permitted sender hosts)
+Received: from sympa by smtp.comodino.org with local (Exim 4.50)	id 1H0xId-0001SR-DK; Sun, 31 Dec 2006 10:48:15 +0100
+Received: from community26.interfree.it ([213.158.70.76])	by smtp.comodino.org with esmtp (Exim 4.50)	id 1H0xIS-0001S8-2n	for neurogreen@liste.rekombinant.org; Sun, 31 Dec 2006 10:48:08 +0100
+Received: (qmail 1325 invoked by uid 320); 31 Dec 2006 09:48:04 -0000
+Received: from 80.104.209.85 by community26.interfree.it (envelope-from <eulab@hyperlinker.com>, uid 0) with qmail-scanner-2.01  (clamdscan: 0.70rc.   Clear:RC:1(80.104.209.85):.  Processed in 1.462628 secs); 31 Dec 2006 09:48:04 -0000
+Received: from unknown (HELO mail.interfree.it) (80.104.209.85) by mail.interfree.it with SMTP; 31 Dec 2006 09:48:02 -0000
+Message-ID: <200612311046290480.0018B5E9@mail.interfree.it>
+References: <200612301747130290.00AF523B@mail.interfree.it> <200612301748410770.00B0ABE2@mail.interfree.it> <200612301813300200.00C76305@mail.interfree.it> <200612301815010050.00C8C5E6@mail.interfree.it> <200612302129220170.001CE3C5@mail.interfree.it> <200612302245100330.00624CB1@mail.interfree.it> <200612302248460080.00659796@mail.interfree.it> <200612311036410500.000FBCAA@mail.interfree.it> <200612311037180240.00104C61@mail.interfree.it> <200612311040470240.00137CB3@mail.interfree.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+Date: Sun, 31 Dec 2006 10:46:29 +0100
+Reply-To: eulab@hyperlinker.com
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+To: neurogreen@liste.rekombinant.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Comodino-Rusco-Score: -2.3
+X-Loop: neurogreen@liste.rekombinant.org
+X-Sequence: 13221
+Errors-to: neurogreen-owner@liste.rekombinant.org
+Precedence: list
+X-no-archive: yes
+List-Id: <neurogreen.liste.rekombinant.org>
+List-Help: <mailto:sympa@liste.rekombinant.org?subject=help>
+List-Subscribe: <mailto:sympa@liste.rekombinant.org?subject=subscribe%20neurogreen>
+List-Unsubscribe: <mailto:sympa@liste.rekombinant.org?subject=unsubscribe%20neurogreen>
+List-Post: <mailto:neurogreen@liste.rekombinant.org>
+List-Owner: <mailto:neurogreen-request@liste.rekombinant.org>
+List-Archive: <http://liste.rekombinant.org/wws/arc/neurogreen>
+Subject: [neurogreen] Il meridiano di Internet
+
+
+
+
+Un piccolo fuori argomento,
+per un piccolo omaggio
+to the Gaia brain:
+
+
+
+"... Fin dai primi tempi di Internet è sorta la necessità di risolvere il problema della sincronia tra persone, in luoghi del globo lontani tra loro, che si fossero date un appuntamento on line.
+
+Negli anni sono state presentate varie proposte, anche di stampo smaccatamente commerciale, a fini quasi esclusivamente utilitaristici e non invece di utilità, insieme ad altre più veraci, esprimenti il genuino desiderio di trovare la miglior soluzione. Tutte comunque introducevano nuovi elementi nei sistemi esistenti di misurazione del tempo, aggiungendo complessità e quindi difficoltà di utilizzo.
+
+Eppure esiste un modo estremamente semplice, funzionale, ed anche del tutto giustificato, logico e corretto, per risolvere con successo il problema di darci un appuntamento on line con gente dall'altra parte del Pianeta ..."
+
+continua su: http://il-meridiano-di-internet.hyperlinker.org
+
+
+
+aloha, dan_hyperlinker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[][][][]][
+NEUROGREEN
+ecologie sociali, strategie radicali
+negli anni zerozero della catastrofe
+http://liste.rekombinant.org/wws/subrequest/neurogreen

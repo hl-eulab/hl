@@ -1,0 +1,104 @@
+Date:    04/12/05 5.09
+From:    Laboratorio Eudemonia
+To:      neurogreen@liste.rekombinant.org
+Copy:    
+Subject: [neurogreen] Desktop di confronto e delibera: ecco il primo software
+
+Return-Path: <neurogreen-owner@liste.rekombinant.org>
+Received: from ms007msg.fastweb.it (ms007msg.fastweb.it [213.140.2.37])	by hyperlinker.com (8.11.6/8.11.6) with ESMTP id jB4B91B13910	for <eulab@hyperlinker.com>; Sun, 4 Dec 2005 05:09:01 -0600
+Received: from liste.bfsf.info (81.208.42.129) by ms007msg.fastweb.it (7.2.069.1) id 437B38F7002344AD; Sun, 4 Dec 2005 12:05:40 +0100
+Received: from sympa by liste.bfsf.info with local (Exim 3.36 #1 (Debian))	id 1Eirga-0003Qa-00; Sun, 04 Dec 2005 12:05:40 +0100
+Received: from hyperlinker.com ([69.64.43.36])	by liste.bfsf.info with esmtp (Exim 3.36 #1 (Debian))	id 1EirgV-0003QJ-00	for <neurogreen@liste.rekombinant.org>; Sun, 04 Dec 2005 12:05:35 +0100
+Received: from p4 (host101-207.pool80104.interbusiness.it [80.104.207.101])	by hyperlinker.com (8.11.6/8.11.6) with ESMTP id jB4B3iB20609	for <neurogreen@liste.rekombinant.org>; Sun, 4 Dec 2005 05:03:44 -0600
+Message-ID: <200512041148070230.00522275@hyperlinker.com>
+X-Mailer: Calypso Version 3.00.01.00 (2)
+Date: Sun, 04 Dec 2005 11:48:07 +0100
+Reply-To: eulab@hyperlinker.com
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+To: neurogreen@liste.rekombinant.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+X-Loop: neurogreen@liste.rekombinant.org
+X-Sequence: 5635
+Errors-to: neurogreen-owner@liste.rekombinant.org
+Precedence: list
+X-no-archive: yes
+List-Id: <neurogreen.liste.rekombinant.org>
+List-Help: <mailto:sympa@liste.rekombinant.org?subject=help>
+List-Subscribe: <mailto:sympa@liste.rekombinant.org?subject=subscribe%20neurogreen>
+List-Unsubscribe: <mailto:sympa@liste.rekombinant.org?subject=unsubscribe%20neurogreen>
+List-Post: <mailto:neurogreen@liste.rekombinant.org>
+List-Owner: <mailto:neurogreen-request@liste.rekombinant.org>
+List-Archive: <http://liste.rekombinant.org/wws/arc/neurogreen>
+Subject: [neurogreen] Desktop di confronto e delibera: ecco il primo software
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by hyperlinker.com id jB4B91B13910
+
+
+
+-------------------------------------------------------
+Desktop di confronto e delibera: ecco il primo software
+-------------------------------------------------------
+
+
+Saluto tutti i presenti.
+
+Al secondo mese dell'anno ancora in corso mi è apparsa forte la consapevolezza che Internet, pur disponendo di canali potenti quali il web, l'email, la mailing list, il forum, in grado di permettere una agevolissima comunicazione, era ancora carente di una importante funzionalità. Le persone infatti ancor oggi possono, sì, scambiarsi idee ed informazioni a volontà, ma sono poi abbandonate a sè stesse, non disponendo di un adeguato strumento, quando si tratta di condurre tutto questo bagaglio di sapere verso un traguardo decisionale.
+
+L'email ed il web, ed i loro diretti derivati: la mailing list ed il forum, consentono, sì, di confrontarsi quanto si vuole, ma non essendo essi stati concepiti per avere altra specifica finalità che non la semplice esposizione delle informazioni, non consentono quell'importante, decisivo passo ulteriore, direi conclusivo, che è la singola presa di posizione da parte di un individuo nei confronti di una questione, di una mozione, di una proposta, tanto interna ad un gruppo che sociale.
+
+Da qualche anno sono pure sorti dei sistemi per effettuare sondaggi. Tuttavia si tratta di strumenti molto elementari tesi a pesare il complessivo parere pubblico su di una questione posta: l'individuo in questi sistemi non compare affatto e si riduce ad essere una semplice unità numerica che si aggiunge alle altre per costituire infine, diciamo così, un peso, una grossolana, inanimata ponderanza democratica.
+
+Mancava quindi uno strumento complesso in grado di far esprimere positivamente o negativamente un individuo su un dato argomento, permettergli di confrontare questa sua presa di posizione con quelle di altri individui, permettergli pure di cambiarla in parte o del tutto in base ai feedback ricevuti. Mancava uno strumento in grado di favorire e mostrare con immediatezza tutto questo processo decisionale tramite una esposizione grafica, precisamente una tabella interattiva che mantenesse agganciato ad ogni individuo il proprio rispettivo parere.
+
+Dopo aver iniziato una campagna in lingua italiana in favore della realizzazione di questo nuovo strumento e nuovo canale Internet (in quanto concepito in modo che con opportuni standard ogni singola tabella si fosse potuta collegare a tutte le altre, potendo ottenere il complessivo sentimento di una intera società sulle varie questioni che questa si fosse voluta porre) senza però aver ottenuto altro che segnali d'interesse, tradotto il manifesto in lingua inglese e contattate alcune persone che ritenevo avrebbero potuto essere interessate o coinvolgibili, ho subito incontrato il parere entusiasta del pioniere Internet (autore di The Virtual Community) e futurista Howard Rheingold ("I think this has great potential! How do you think I might be helpful?") ed ottenuto di essere messo in contatto con persona in grado di sviluppare la prima applicazione di questo nuovo, possibile, universo deliberativo.
+
+E' così che ho incontrato David Johnson, programmatore in Austin, Texas, ("I have been working for some time on graphical groupware of various types. When Howard pointed me to your idea for a table based layout, I couldn't resist beginning to develop a prototype") il quale tramite la tecnologia di sviluppo software chiamata Runtime Revolution ha iniziato a sviluppare una "client side application".
+
+Oggi il lavoro di David è già ben formato, visibile e testabile in forma di pre-beta:
+
+http://www.altuit.com/webs/clients/GroupGrok/Downloads.htm
+
+per PC e MAC. Chi lo desidera può fare il download del software, aprire una sua sessione per sé ed il suo gruppo oppure inserire i seguenti dati:
+
+name: visitatore
+password: visitatore
+
+per accedere alla sessione chiamata Proposte Progressiste. Se interessato ad esprimersi su quelle specifiche proposte richieda un suo account personale.
+
+Si tratta di una prima versione, con funzionalità ancora limitate, ma è già un ottimo inizio. Per la qual cosa invito le menti più in grado di accogliere le innovazioni a provarla e ad inviare feedback che possano essere di aiuto per ben indirizzare la nascita di questo bebè. In particolare sono apprezzate considerazioni sulla comunicazione con altri possibili futuri software dello stesso tipo. Perchè se già ora la cosa è interessante lo sarà ancor di più quando più software di questo tipo (quindi quando più persone appartenenti a più gruppi) potranno far interagire le loro rispettive prese di posizione.
+
+Torno allora ad invitare la comunità open source italiana a trattare e sviluppare anch'essa questo sistema di confronto e delibera, possibilmente con una soluzione basata sul web, usando ad esempio MySQL; si veda in proposito quest'esempio privo di funzionalità:
+
+http://www.hyperlinker.com/change/cdd_0.htm
+
+Più menti si confronterano in questo delicato momento iniziale meglio risulterà il prodotto finale e più velocemente esso sarà messo a disposizione della società.
+
+So bene quanto lavoro occorrerà per realizzare tutto questo, ma pensate che se le nostre società, se noi stessi vogliamo evolvere, sganciandoci dalla primitiva, rozza, rudimentale, incolta democrazia e relativa idea di politica che oggi ci attanagliano, se vogliamo far un balzo in avanti verso una democrazia, una società, una vita, progredite, evolute, complessivamente migliori, bhè, non abbiamo grandi scelte: dobbiamo concretizzare nuovi strumenti che le permettano di nascere, nuovi canali su cui le sia possibile scorrere.
+
+Danilo D'Antonio
+
+Laboratorio Eudemonia
+Piazza del Municipio
+64010 Rocca S. M. (TE) - Italy
+
+
+Per un Desktop di Confronto e Delibera
+http://desktop-di-confronto-e-delibera.hyperlinker.org
+
+Per un'Assemblea Telematica del Movimento
+http://per-assemblea-telematica.hyperlinker.org
+
+
+
+
+
+
+
+
+
+[][][][]][
+NEUROGREEN
+ecologie sociali, strategie radicali
+negli anni zerozero della catastrofe
+http://liste.rekombinant.org/wws/subrequest/neurogreen

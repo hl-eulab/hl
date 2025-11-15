@@ -1,0 +1,35 @@
+/* Laboratorio Eudemonia style sheet */
+
+
+a.lightlink {}
+.lightlink:hover {background: red}
+
+a.lightlinky {}
+.lightlinky:hover {background: blue}
+
+a.ll01 {text-decoration: none}
+.ll01:hover {background: blue; text-decoration: none}
+
+a.ll02 {text-decoration: none}
+.ll02:hover {text-decoration: underline}
+
+a.underline {text-decoration: underline}
+.underline:hover {text-decoration: none}
+
+a.noline {text-decoration: none}
+.noline:hover {text-decoration: underline}
+
+a.sentiero {text-decoration: none}
+.sentiero:hover {background: yellow; text-decoration: none}
+
+a.om_sign {text-decoration: none; color: #afafaf}
+.om_sign:hover {text-decoration: underline}
+
+
+
+/* not used */
+
+.sign {font-family: verdana; color: yellow; font-size: 8pt; text-decoration: none}
+
+
+

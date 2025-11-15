@@ -1,0 +1,168 @@
+Date:    27/09/06 11.17
+From:    Laboratorio Eudemonia
+To:      sciresp@area.bo.cnr.it
+Copy:    
+Subject: [Sciresp] Dalla palude della politica, alle vette dell'eccellenza
+
+Return-Path: <sciresp-bounces@area.bo.cnr.it>
+Delivered-To: 189-eulab@hyperlinker.com
+Received: (qmail 31805 invoked from network); 27 Sep 2006 11:17:48 -0700
+Received: from jolly.bo.cnr.it (192.167.160.13) by 206.41.120.28 with SMTP; 27 Sep 2006 11:17:48 -0700
+Received-SPF: none (206.41.120.28: domain at area.bo.cnr.it does not designate permitted sender hosts)
+Received: from localhost (localhost.localdomain [127.0.0.1])	by jolly.bo.cnr.it (Postfix) with ESMTP id B71335BDF9	for <eulab@hyperlinker.com>; Wed, 27 Sep 2006 20:27:02 +0200 (CEST)
+Received: from jolly.bo.cnr.it ([127.0.0.1]) by localhost (jolly.bo.cnr.it [127.0.0.1]) (amavisd-new, port 10024) with ESMTP id 28319-03 for <eulab@hyperlinker.com>; Wed, 27 Sep 2006 20:26:58 +0200 (CEST)
+Received: from jolly.bo.cnr.it (localhost.localdomain [127.0.0.1])	by jolly.bo.cnr.it (Postfix) with ESMTP id 38E245BDF5	for <eulab@hyperlinker.com>; Wed, 27 Sep 2006 20:26:58 +0200 (CEST)
+X-Original-To: sciresp@jolly.bo.cnr.it
+Delivered-To: sciresp@jolly.bo.cnr.it
+Received: from localhost (localhost.localdomain [127.0.0.1])	by jolly.bo.cnr.it (Postfix) with ESMTP id A37175BDF5	for <sciresp@jolly.bo.cnr.it>; Wed, 27 Sep 2006 20:26:56 +0200 (CEST)
+Received: from jolly.bo.cnr.it ([127.0.0.1])	by localhost (jolly.bo.cnr.it [127.0.0.1]) (amavisd-new, port 10024)	with ESMTP id 28319-02 for <sciresp@jolly.bo.cnr.it>;	Wed, 27 Sep 2006 20:26:54 +0200 (CEST)
+Received: from web2.risingnet.net (web2.risingnet.net [206.41.120.108])	by jolly.bo.cnr.it (Postfix) with ESMTP id 723315BDF4	for <sciresp@jolly.bo.cnr.it>; Wed, 27 Sep 2006 20:26:53 +0200 (CEST)
+Received: (qmail 30586 invoked from network); 27 Sep 2006 11:17:29 -0700
+Received: from host49-206-static.104-80-b.business.telecomitalia.it (HELO	mail.hyperlinker.com) (80.104.206.49)	by 206.41.120.28 with SMTP; 27 Sep 2006 11:17:29 -0700
+Message-ID: <200609272009590190.007F8659@mail.hyperlinker.com>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+Date: Wed, 27 Sep 2006 20:09:59 +0200
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+To: sciresp@area.bo.cnr.it
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Virus-Scanned: by amavisd-new at jolly.bo.cnr.it
+X-Spam-Status: No, hits=-2.286 required=5 tests=AWL, BAYES_00
+X-Spam-Level: 
+Subject: [Sciresp] Dalla palude della politica, alle vette dell'eccellenza
+X-BeenThere: sciresp@area.bo.cnr.it
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: eulab@hyperlinker.com
+List-Id: Lista di discussione gruppo Scienziati Responsabili CNR	<sciresp.area.bo.cnr.it>
+List-Unsubscribe: <http://www.bo.cnr.it/mailman/listinfo/sciresp>,	<mailto:sciresp-request@area.bo.cnr.it?subject=unsubscribe>
+List-Archive: <http://www.bo.cnr.it/pipermail/sciresp>
+List-Post: <mailto:sciresp@area.bo.cnr.it>
+List-Help: <mailto:sciresp-request@area.bo.cnr.it?subject=help>
+List-Subscribe: <http://www.bo.cnr.it/mailman/listinfo/sciresp>,	<mailto:sciresp-request@area.bo.cnr.it?subject=subscribe>
+Sender: sciresp-bounces@area.bo.cnr.it
+Errors-To: sciresp-bounces@area.bo.cnr.it
+X-Virus-Scanned: by amavisd-new at jolly.bo.cnr.it
+
+
+
+
+-----------------------------------------------------------
+  Dalla palude della politica, alle vette dell'eccellenza 
+-----------------------------------------------------------
+
+
+Immaginiamo di disporre, d'un tratto, di un innovativo strumento di partecipazione civile: un originale mezzo per esercitare una forma di democrazia diretta tramite cui ad un semplice cittadino si renda possibile presentare una o più proposte relative all'ordinamento giuridico del suo Paese. 
+
+Ed immaginiamo pure che, tramite questo stesso dispositivo d'intervento politico, ognuno abbia facoltà di esprimersi direttamente in favore di quelle proposte, presentate da altri cittadini, che lo entusiasmino, potendo lasciare in una ignota oscurità le altre.
+
+Ad un certo punto, quelle proposte, che avessero incontrato il favore di un numero pre-stabilito di persone, sarebbero automaticamente portate all'attenzione dei tradizionali Organi di Governo per una considerazione finalizzata ad una loro promulgazione, dopo un adeguato perfezionamento, o ad un rigetto. Essendo tali organi tenuti, comunque andassero le cose, a condurre uno studio, ed a consegnare ai proponenti una relazione, sulla questione in oggetto. 
+
+Non sarebbe stupendo disporre di una simile opportunità?
+
+Essa ci permetterebbe di integrare l'oligarchica forma rappresentativa della nostra presente struttura, ancora solo vagamente democratica, con una partecipazione popolare attiva e diretta. 
+
+Inoltre, la ricca ricompensa spettante a chi avesse ideato una nuova tecnologia sociale che fosse infine approvata dal Governo, renderebbe tale partecipazione folta ed appassionata, soprattutto stimolata a concepire interventi di qualità sempre crescente. Nulla a che vedere coi tristi apporti, con le faziose furberie, che oggi provengono da formazioni politiche che, comunque agiscano, rimangono sempre in auge, perché non è prevista altra scelta. Bensì interventi contenenti genuine e veraci idee, il cui livello qualitativo si eleverebbe sempre più proprio in virtù della selezione operata dagli stessi cittadini.
+
+
+Già da un bel po' di tempo, quando ci occorre, o semplicemente desideriamo, un oggetto materiale, per averlo non dobbiamo far altro che recarci in un qualche negozio. Qui ci guardiamo intorno, chiediamo informazioni, verifichiamo quali sono le varie possibilità, magari concedendoci pure di rimandare l'acquisto ad una data successiva per avere l'opportunità di conoscere meglio la materia e di rifletterci un po' su. Dopodiché, quando abbiamo deciso, torniamo all'emporio ad acquistare l'oggetto, lo paghiamo, e ce lo portiamo a casa, iniziando da subito a goderci i benefici che esso introduce nella nostra vita. 
+
+Il fatto che qualcuno tragga un guadagno dal nostro acquisto, che vi sia chi ne ricaverà un beneficio economico, non ci impensierisce affatto, preoccupandoci noi soltanto del fatto che l'oggetto sia di buona qualità e che il prezzo sia quello giusto, per non ceder più di quanto riceviamo. Ma il principio del "do ut des", del fatto che ringraziamo qualcuno, premiandolo, per ciò che ha saputo realizzare, non è da noi messo minimamente in discussione. 
+
+Anzi, ci rendiamo conto che il pagamento è cosa semplicemente dovuta, ma soprattutto che è proprio l'esistenza di un mercato, in cui sia possibile selezionare l'oggetto che si preferisce, in cui sia possibile scegliere il miglior prodotto al miglior prezzo, ad aver fatto, ed a far ancora, progredire così tanto lo strumentario materiale che utilizziamo giorno dopo giorno. 
+
+
+Ebbene: esiste un solo motivo per il quale questo stesso sistema basato sulla libera scelta personale non possa essere usato per procacciarci gli elementi di quello strumentario immateriale che sono i nostri ordinamenti giuridici, che per giunta una così onnipresente, e sempre più pesante, influenza hanno ormai nella nostra vita? La nostra risposta è: no, non sussiste alcun impedimento a che ciò accada.
+
+Non dimentichiamo infatti che il nostro sistema di governo non ci offre più, già da tempo, la possibilità di compiere una vera scelta. I politici, non solo i nostri ma non a caso anche quelli degli altri Paesi sviluppati, essendo stata loro permessa una prolungata, stabile permanenza nel ristretto ambiente dei luoghi del potere, non si differenziano più gli uni dagli altri, e le idee e proposte da loro partorite sono ormai prive di vero valore, specie se relazionate alle urgenti necessità della realtà che stiamo vivendo.
+
+Allo stato attuale delle cose possiamo dire che, più che essere inseriti in un ordinamento democratico, siamo invece sottoposti ad una forma di oligarchia, un governo di pochi che malconducono e spesso sopraffanno le vite di molti. 
+
+
+Proviamo, solo per un attimo, a pensare alla raccapricciante ipotesi che anche nel campo degli oggetti materiali fossimo sottoposti ad un sistema produttivo avente le stesse regole del nostro sistema di governo. Come pensate sarebbe la qualità di un elettrodomestico, di un'auto, di un computer, di un vino, di un pane, di un qualsiasi prodotto che provenisse da ditte ed aziende che fossero impostate ed agissero come partiti politici? 
+
+Perché è proprio questo il punto! Che frigorifero pensate vi riportereste a casa senza aver mai avuto alcuna reale possibilità di scelta? Che prodotto pensate vi toccherebbe se non disponeste di quel meccanismo che vi consente di versare il vostro denaro con precisione nelle tasche di chi ha fatto un buon lavoro, evitandovi al contempo di doverlo distribuire ad una canea di incapaci? Solo un rottame, solo uno sfasciume, potremmo ricavare da un sistema di questo tipo! 
+
+Pensiamo, allora, che per le leggi, per gli ordinamenti, le norme, i disegni, i progetti, le tecniche, le procedure di quelle strutture che ci tengono insieme, che ci danno la forma, e da cui quindi spesso non possono non derivare i nostri stessi sentimenti, avviene proprio così. Oggi deleghiamo TUTTO il nostro potere a chi è così ambizioso e superbo da ritenere di poterci rappresentare. Per noi stessi, manteniamo solo il potere di scegliere questo o quel presuntuoso, mentre altro e più preciso e conveniente atto di scelta, nonostante i progressi compiuti dalla popolazione in campo culturale, non ci è stato ancora reso possibile, i sistemi di ripiego quali le petizioni, gli esposti, etc. non potendo certo permettere espressioni di sufficiente creatività e novità.
+
+
+Oggi continuiamo a pagare politici (immersi in un sistema basato su continui scambi di favori, che, non foss'altro per questo motivo, non può non rovinare tutto ciò cui si avvicina) retribuendoli sempre, quali che siano i risultati del loro "lavoro". Al contrario, non abbiamo possibilità di proporre, scegliere e premiare alcun singolo intervento, con questo non avendo modo di incentivare qualità e ricchezza dell'offerta propositiva. Ciò che è possibile ottenere da un simile sistema non può certo essere un prodotto di qualità, bensì soltanto di scarto, qualcosa che in un sistema di mercato nemmeno verrebbe guardato, o se lo fosse lo sarebbe solo per l'ilarità che susciterebbe.
+
+Al contrario, proviamo ad immaginare cosa potremmo ottenere se quelle stesse capacità e qualità umane che rendono possibili così tanti ed incredibili conseguimenti nel mondo della scienza e della tecnologia industriale, se quelle stesse genialità che sono alla base dei tanti capolavori che si realizzano nel campo dell'arte e dello spettacolo, se quelle stesse doti di coraggio e tenacia che permettono così elevate performance nel campo dello sport e dell'avventura, venissero utilizzate allo scopo di far evolvere la nostra società. Continue scoperte, affascinanti meraviglie e record crescenti anche nel campo dell'evoluzione sociale: ecco cosa otterremmo! 
+
+Perché: cos'è che genera scoperte, capolavori e record? E' certo, sì, una passione intrinseca alla persona, ma è anche e soprattutto la possibilità di un adeguato premio alla fine di tante fatiche.
+
+
+Premi congrui dobbiamo allora offrire a chiunque vorrà usare il suo ardore per fornirci i modi per tirarci fuori dalla nauseabonda palude in cui siamo finiti. Premi considerevoli siano concessi a chi userà la sua genialità per trasformare questo osceno film dell'orrore di infima categoria in un entusiasmante film d'avventura e d'amore di prim'ordine a lieto, lietissimo fine. 
+
+Lungi dall'invocare una modifica di peso eccessivo, ben consapevoli che altrove competitività, mercato e privato vanno invece abbondantemente ridotti, semplicemente diretti a stabilire un equilibrio nel nostro sistema di governo con l'introduzione di un valido strumento di partecipazione democratica, soprattutto desiderosi di aprire una via maestra all'innovazione sociale, attualmente vergognosamente posta al bando, costretta all'esilio a vita, auspichiamo la nascita di un indispensabile quanto urgente Mercato delle Innovazioni Sociali.
+
+
+
+I migliori saluti,
+
+Danilo D'Antonio
+
+Laboratorio Eudemonia
+Piazza del Municipio
+64010 Rocca S. M. (TE) - Italy
+
+
+
+http://il-mercato-delle-innovazioni-sociali.hyperlinker.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_______________________________________________
+Sciresp mailing list
+Sciresp@area.bo.cnr.it
+http://www.bo.cnr.it/mailman/listinfo/sciresp

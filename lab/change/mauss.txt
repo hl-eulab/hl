@@ -1,0 +1,183 @@
+Date:    26/09/05 16.36
+From:    mauss_italia@yahoogroups.com
+To:      mauss_italia@yahoogroups.com
+Copy:    
+Subject: [mauss_italia] Digest Number 157
+
+Return-Path: <sentto-10888237-157-1127770592-eulab=hyperlinker.com@returns.groups.yahoo.com>
+Received: from n15a.bulk.scd.yahoo.com (n15a.bulk.scd.yahoo.com [66.94.237.32])	by hyperlinker.com (8.11.6/8.11.6) with SMTP id j8QLalH26581	for <eulab@hyperlinker.com>; Mon, 26 Sep 2005 16:36:50 -0500
+Comment: DomainKeys? See http://antispam.yahoo.com/domainkeys
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=A5fv37UfsuHnszdo7NkP8DKK9K7IdZTHZKa4n6McrB9cCMdMUUZ5sGD1+gCL+FCD/LZr2OhykDGD3Tubp7Ml3DKownQwO7huTVrtt1qkXCwOrR+se+DULHIXKGgBy1ni;
+Received: from [66.218.69.6] by n15.bulk.scd.yahoo.com with NNFMP; 26 Sep 2005 21:36:33 -0000
+Received: from [66.218.66.160] by mailer6.bulk.scd.yahoo.com with NNFMP; 26 Sep 2005 21:36:32 -0000
+X-Yahoo-Newman-Property: groups-digest
+MIME-Version: 1.0
+Message-ID: <1127770592.213.2733.m20@yahoogroups.com>
+Mailing-List: list mauss_italia@yahoogroups.com; contact mauss_italia-owner@yahoogroups.com
+Delivered-To: mailing list mauss_italia@yahoogroups.com
+List-Id: <mauss_italia.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:mauss_italia-unsubscribe@yahoogroups.com>
+Date: 26 Sep 2005 21:36:32 -0000
+From: mauss_italia@yahoogroups.com
+To: mauss_italia@yahoogroups.com
+Subject: [mauss_italia] Digest Number 157
+Reply-To: mauss_italia@yahoogroups.com
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by hyperlinker.com id j8QLalH26581
+
+Questo numero contiene 1 messaggio.
+
+Gli argomenti di questo numero:
+
+      1. Re: Re: scuola >>> Per un desktop di confronto e delibera
+           Da: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+
+
+________________________________________________________________________
+________________________________________________________________________
+
+Messaggio: 1         
+     Data: Sun, 25 Sep 2005 20:00:57 +0200
+       Da: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+  Oggetto: Re: Re: scuola >>> Per un desktop di confronto e delibera
+
+>Messaggio: 2         
+>     Data: Sat, 24 Sep 2005 23:11:19 +0200
+>       Da: Osvaldo Pieroni <o.pieroni@unical.it>
+>  Oggetto: Re: Re: scuola
+>
+>
+>Questa lista non è un granché per dialogare. Vero. Facciamo un blog o più blog 
+>linkati tra loro e gestiti da un blogghista che scriva e si faccia carico di 
+>postare documenti che non solo gli arrivano, ma che riesce a recuperare in 
+>rete o da riviste, quotid., lettere, ecc.
+>ciao
+>
+>Osvaldo
+>
+
+
+
+Che ne direste di fare un piccolo passo avanti rispetto al blog?
+
+Se permettete, riposto un intervento di qualche tempo fa.
+
+Saluti, Danilo
+
+
+
+--------------------------------------
+Per un desktop di confronto e delibera
+--------------------------------------
+
+Un nuovo strumento per associazioni,
+gruppi e semplici mailing list
+
+
+Ognuno di noi, appartenente contemporaneamente alla società civile ed al popolo dei cibernauti, probabilmente già oggi partecipa a più d'una, e forse anche a parecchie, di quelle continue riunioni telematiche che vengono chiamate "mailing list", e magari vi si impegna pure tanto, riservandovi molte delle proprie energie. E' cosa certamente oltremodo positiva perchè l'uso di un tale evoluto strumento di comunicazione non potrà non condurci col tempo, oltre che verso altre mille buone direzioni, anche verso una democrazia più progredita dell'attuale.
+
+Tuttavia, pur essendo la mailing list, od il forum, che è il suo equivalente sul WEB, uno strumento di comunicazione già molto potente, bisogna riconoscere che ad essi manca ancora qualcosa di importante. Precisamente manca quell'ulteriore livello di utilizzo in grado di agevolare, se non proprio permettere, i processi decisionali in genere, tanto a livello individuale, di singolo partecipante, che collettivo, dell'intero gruppo, e questo sia per quanto riguarda le adesioni alle proprie iniziative che a quelle promosse da altri.
+
+La mancanza è quindi notevole, in quanto si rischia spesso di rimanere in un ambito, in un flusso, di pura riflessione o di semplice informazione, essendo poi sul più bello costretti a rinunciare proprio a quel passo: una presa di posizione chiaramente, nettamente, pubblicamente espressa, che ci permetta di avanzare verso la concretizzazione dei nostri ideali, dei nostri sogni, di tutto ciò che ci sta più a cuore.
+
+E' infatti proprio il prendere posizione rispetto alle cose, è proprio il momento della decisione ed il renderla pubblica, che spesso fà sì che da un certo momento in poi le cose in relazione ad un certa questione, tanto per noi quanto per gli osservatori esterni, non risultino più le stesse, bensì mutate, diverse rispetto a prima. Ed è chiaro che per quanto riguarda le questioni sociali, questioni che coinvolgono ben più che qualche individuo bensì intere moltitudini, la differenza spesso può esser tutta qui.
+
+Proviamo allora ad immaginare un nuovo strumento cibernetico, telematico, che ci permetta di colmare questa lacuna e progredire più agevolmente verso il mondo che ci auguriamo arrivi.
+
+Immaginiamo una speciale pagina WEB, da abbinare alla mailing list dell'associazione o gruppo di cui siamo parte, in cui appaia una speciale tabella. Su di un lato (nell'esempio schematizzato qui sotto: a sinistra in verticale) vi è la lista delle proposte, delle decisioni da prendere, degli appelli, delle perorazioni, etc. (ma se vogliamo anche speciali sezioni contenenti semplicemente temi generici da chiarire). Su di un lato perpendicolare al primo (qui: in alto in orizzontale), appare la lista dei singoli membri della mailing list, o dell'associazione, gruppo o che altro, che si sia reso disponibile ad esprimere le proprie preferenze pubblicamente, in modo che in corrispondenza di ogni argomento in discussione possa apporre il proprio voto.
+
+Quindi, qualcosa del genere:
+
+             | Vincenzo | AnnaPaola | Sandra | Danilo | etc. etc. etc.
+
+appello
+bolkestein   |     sì   |     no    |    sì  |    sì
+
+razionamento
+carburanti   |     no   |     sì    |    sì  |    sì
+
+rotazione
+pub. impiego |     sì   |     no    |    sì  |    sì
+
+------------- ---------- ----------- -------- --------
+
+turismo
+responsabile |     boh  |     ok    |    ko  |    ko
+
+
+Naturalmente in corrispondenza del nome di ogni questione, appello, etc. vi è un link che rimanda al documento prodotto dalla persona o dal gruppo (ma anche da una specifica commissione delegata) per esporre la faccenda. Così pure in corrispondenza di ogni nome vi è un link per sapere chi è la persona che ha espresso quella preferenza, e così pure, se si vuole, in corrispondenza di ogni singola decisione od espressione, in modo da conoscerne le ragioni, le obiezioni ed eventuali dubbi o punti rimasti irrisolti.
+
+Con una pagina di questo tipo si ottiene un quadro generale immediatamente visibile con una sola, semplice occhiata. La geografia decisionale appare subito in tutta la sua estensione. E viene anche permessa tutta una ricchezza di sfumature che solo l'apporto di ogni singola persona, di ogni sensibilità e conoscenza individuale, può aggiungere al tema in questione.
+
+La cosa davvero importante, addirittura determinante, è però il fatto che questa tabella non deve esser concepita come qualcosa di inanimato, di statico, morto. Tutt'altro: dobbiamo vederla invece come qualcosa di dinamico, in continua evoluzione, ben vivo, addirittura un piacevole luogo di ritrovo collettivo, da frequentare anche quotidianamente, come un club, ma anche e principalmente una specie di scrivania, di tavolo da lavoro comune, di desktop di confronto, sul quale, in base alle decisioni e contributi di ognuno, ognuno possa anche rivedere e cambiare le proprie decisioni prima di giungere a quella definitiva.
+
+Periodicamente quelle decisioni che raggiungessero il generale accordo sarebbero pubblicate con risalto e rese note ad altri gruppi, alla stampa, etc. Quelle decisioni che incontrassero ancora disaccordo dovrebbero invece attendere che ulteriori riflessioni e contributi portassero al risultato di un pensiero comunemente sentito.
+
+In verità ad uno strumento di questo tipo è facile aggiungere almeno con l'immaginazione :) tutta una serie di complementi. La cosa del resto è tutta da costruire con il contributo di chiunque ne percepisca l'utilità. Qui aggiungiamo soltanto la possibilità di ordinare in vario modo (per adesioni, per negazioni, per ordine alfabetico, per data, etc.) l'intera tabella (da realizzare con la tecnica del database condiviso on line) in modo da agevolarne la consultazione, e naturalmente varie statistiche (percentuali di adesione, etc.).
+
+L'immaginazione ci porta però ancora ad aggiungere che nel caso questo desktop, dinamico e permanente, di confronto e delibera risultasse realmente utile, per la qual cosa il suo utilizzo si dovesse diffondere, si potrebbero concepire man mano luoghi cibernetici analoghi dove raccogliere ad un livello superiore i dati complessivi dei vari singoli gruppi. Nella quale ipotesi una qualche forma di standardizzazione sarebbe oltremodo utile fin dal suo sviluppo iniziale, in modo da permettere in breve tempo, tramite appositi spider (ragni informatici) successivamente prediposti, l'estrapolazione di un sentimento complessivo nazionale in relazione ad una qualsiasi questione all'ordine del giorno.
+
+Il risultato complessivo di questo insieme di possibilità potrebbe essere un vero e proprio strumento di democrazia evoluta partecipata telematicamente. Qualcosa di ben diverso da ciò che ci attende prossimamente (l'apposizione di una "X" accanto ad un nome su di una scheda elettorale) e continuerà ad attenderci se non ci daremo da fare per abbandonare quest'epoca di analfabetismo democratico.
+
+Internet è oggi vastissima e non possiamo quindi esser sicuri che quanto sopra descritto non esista e sia già operativo. Nel caso un simile strumento fosse già disponibile ringraziamo fin d'ora chi vorrà indirizzarci ad esso. Qualora fosse invece ancora da realizzare, la comunità progressista degli sviluppatori di software potrebbe trovarsi di fronte ad un progetto piuttosto interessante da realizzare. Per la qual cosa, da parte nostra ci poniamo a piena disposizione di chi vorrà parteciparvi.
+
+Col nostro miglior saluto,
+
+Danilo D'Antonio
+
+Laboratorio Eudemonia
+Piazza del Municipio
+64010 Rocca S. M. (TE) - Italy
+
+tel.: 0861 415655
+mobile: 328 0472332
+
+Per un Desktop di Confronto e Delibera
+http://desktop-di-confronto-e-delibera.hyperlinker.org
+
+Per un'Assemblea Telematica del Movimento
+http://per-assemblea-telematica.hyperlinker.org
+
+DCD V1.1 - 06/03/36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________________________________________________
+________________________________________________________________________
+
+
+Per annullare l'iscrizione a questo gruppo, manda una mail all'indirizzo: 
+mauss_italia-unsubscribe@yahoogroups.com
+
+
+------------------------------------------------------------------------
+Link utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/mauss_italia/
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    mauss_italia-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html
+ 
+------------------------------------------------------------------------
+
+

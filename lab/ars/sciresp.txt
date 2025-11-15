@@ -1,0 +1,101 @@
+Date:    03/10/07 9.12
+From:    Laboratorio Eudemonia
+To:      sciresp@area.bo.cnr.it
+Copy:    
+Subject: [Sciresp] Casta Statale
+
+Return-Path: <sciresp-bounces@area.bo.cnr.it>
+Delivered-To: 189-eulab@hyperlinker.com
+Received: (qmail 14078 invoked from network); 3 Oct 2007 09:12:48 -0700
+Received: from area.bo.cnr.it (192.167.160.13) by 206.41.120.28 with SMTP; 3 Oct 2007 09:12:47 -0700
+Received-SPF: none (206.41.120.28: domain at area.bo.cnr.it does not designate permitted sender hosts)
+Received: from localhost (localhost.localdomain [127.0.0.1])	by area.bo.cnr.it (Postfix) with ESMTP id B53D95BEE7	for <eulab@hyperlinker.com>; Wed,  3 Oct 2007 18:33:26 +0200 (CEST)
+Received: from area.bo.cnr.it ([127.0.0.1]) by localhost (area.bo.cnr.it [127.0.0.1]) (amavisd-new, port 10024) with ESMTP id 06629-02 for <eulab@hyperlinker.com>; Wed,  3 Oct 2007 18:33:21 +0200 (CEST)
+Received: from area.bo.cnr.it (localhost.localdomain [127.0.0.1])	by area.bo.cnr.it (Postfix) with ESMTP id 617255BEB4	for <eulab@hyperlinker.com>; Wed,  3 Oct 2007 18:33:21 +0200 (CEST)
+X-Original-To: sciresp@area.bo.cnr.it
+Delivered-To: sciresp@area.bo.cnr.it
+Received: from localhost (localhost.localdomain [127.0.0.1])	by area.bo.cnr.it (Postfix) with ESMTP id 95AE95BEE7	for <sciresp@area.bo.cnr.it>; Wed,  3 Oct 2007 18:33:19 +0200 (CEST)
+Received: from area.bo.cnr.it ([127.0.0.1])	by localhost (area.bo.cnr.it [127.0.0.1]) (amavisd-new, port 10024)	with ESMTP id 06610-01 for <sciresp@area.bo.cnr.it>;	Wed,  3 Oct 2007 18:33:15 +0200 (CEST)
+X-Greylist: delayed 401 seconds by postgrey-1.27 at area.bo.cnr.it;	Wed, 03 Oct 2007 18:33:15 CEST
+Received: from community21.interfree.it (out4.interfree.it [213.158.71.4])	by area.bo.cnr.it (Postfix) with ESMTP id 422DC5BDB2	for <sciresp@area.bo.cnr.it>; Wed,  3 Oct 2007 18:33:15 +0200 (CEST)
+Received: (qmail 3620 invoked by uid 320); 3 Oct 2007 16:05:53 -0000
+Received: from 80.104.205.16 by community21.interfree.it (envelope-from	<eulab@hyperlinker.com>, uid 0) with qmail-scanner-2.01 	(clamdscan: 0.70rc.  Clear:RC:1(80.104.205.16):. 	Processed in 1.602386 secs); 03 Oct 2007 16:05:53 -0000
+Received: from unknown (HELO mail.interfree.it) (80.104.205.16)	by mail.interfree.it with SMTP; 3 Oct 2007 16:05:51 -0000
+Message-ID: <200710031757080190.00A5DEC9@mail.interfree.it>
+References: <200709221604590760.001BB75F@mail.interfree.it>	<200709221606340340.001D28D5@mail.interfree.it>	<200710031752470400.00A1E400@mail.interfree.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+Date: Wed, 03 Oct 2007 17:57:08 +0200
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+To: sciresp@area.bo.cnr.it
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Virus-Scanned: by amavisd-new at area.bo.cnr.it
+X-Spam-Status: No, hits=-2.065 required=5 tests=AWL, BAYES_00
+X-Spam-Level: 
+Subject: [Sciresp] Casta Statale
+X-BeenThere: sciresp@area.bo.cnr.it
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: eulab@hyperlinker.com
+List-Id: Lista di discussione gruppo Scienziati Responsabili CNR	<sciresp.area.bo.cnr.it>
+List-Unsubscribe: <http://www.bo.cnr.it/mailman/listinfo/sciresp>,	<mailto:sciresp-request@area.bo.cnr.it?subject=unsubscribe>
+List-Archive: <http://www.bo.cnr.it/pipermail/sciresp>
+List-Post: <mailto:sciresp@area.bo.cnr.it>
+List-Help: <mailto:sciresp-request@area.bo.cnr.it?subject=help>
+List-Subscribe: <http://www.bo.cnr.it/mailman/listinfo/sciresp>,	<mailto:sciresp-request@area.bo.cnr.it?subject=subscribe>
+Sender: sciresp-bounces@area.bo.cnr.it
+Errors-To: sciresp-bounces@area.bo.cnr.it
+X-Virus-Scanned: by amavisd-new at area.bo.cnr.it
+
+
+
+
+-----------------
+  CASTA STATALE
+-----------------
+
+
+Di recente due eventi, l'uno culturale l'altro politico, hanno posto sotto i riflettori dei media il circo dei politici, venendo questo qualificato come una vera e propria casta: persone inamovibili che traggono profitto da ingiustificati privilegi senza rendere un valido servigio alla società.
+
+Valutazione questa più che corretta, che ci porta pure ad osservare come quella dei politici sia solo una piccola parte di una ben più ampia, anacronistica ed ingiustificata, casta statale.
+
+Ci riferiamo naturalmente all'intero settore del Pubblico Impiego, in cui i ruoli sono assegnati a vita a pochi eletti da un vetusto ordinamento (non ammodernato dai politici appunto perché di loro particolare comodità) per il tramite di un sistema selettivo tanto inaffidabile quanto escludente una ampia rosa di altri cittadini aventi pieno diritto di partecipare alle attività di gestione della cosa pubblica.
+
+Si tratta di una questione di fondamentale importanza, in quanto risorse appartenenti all’intera comunità, per loro stessa origine e definizione di pubbliche attività, non solo redditi ed emolumenti vari ma soprattutto funzioni e poteri, vengono assegnati a vita a persone che, per l'organizzazione stessa in cui sono inseriti, invece di adoprarsi per una società più giusta e funzionale restituendo ai governanti preziosi stimolanti feedback, rimangono invece silenziosi quanto assenzienti loro fedeli servi sottomessi.
+
+
+Oggi si parla tanto di partecipazione civica, giungendo al paradosso che tanta brava gente, sacrificando molto tempo ai propri personali interessi e dedicandolo invece al bene comune, è costretta a fare gratuitamente il lavoro che sarebbe compito specifico dei ben pagati membri della casta statale, governanti e pubblici amministratori.
+
+Cosa aspettiamo dunque per stabilire una corretta, evoluta, moderna situazione in cui ogni cittadino possa dare il suo contributo, non sdegnosamente emarginato in una categoria di impotenti volontari bensì giustamente integrato all'interno del sistema di gestione della loro società?
+
+
+Cortesemente chiedo venga considerata l'ipotesi di una Armonica Rotazione Sociale: una nuova forma organizzativa di base, dinamica ed insieme stabilizzante, tesa ad equilibrare la tradizionale tendenza delle umane società a cristallizzarsi in forme che, per il loro forzato immobilismo, non riescono a far fronte alle esigenze sempre diverse della realtà, trovandosi periodicamente a destabilizzarsi tragicamente da sole, ed infine perendo per sempre:
+
+http://armonica-rotazione-sociale.hyperlinker.org/
+
+
+Con viva cordialità,
+
+Danilo D'Antonio
+Laboratorio Eudemonia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_______________________________________________
+Sciresp mailing list
+Sciresp@area.bo.cnr.it
+http://www.bo.cnr.it/mailman/listinfo/sciresp

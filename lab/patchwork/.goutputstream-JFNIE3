@@ -1,0 +1,100 @@
+<HTML>
+
+<HEAD>
+
+<meta charset="utf-8">
+
+<link rel=stylesheet href="pw_style.css" type="text/css">
+
+<TITLE>The Patchwork Model - Laboratorio Eudemonia</TITLE>
+
+</HEAD>
+
+<BODY bgcolor="white" background="bg1.gif" text="navy" link="navy" alink="navy" VLINK="navy">
+
+<center><table bgcolor="white" width="700pt" height="90%" cellpadding="44pt"><tr><td width="100%" height="100%" align="center" valign="middle">
+
+<FONT FACE="VERDANA">
+
+<img src="tpm_2.jpg"> &#8482;
+
+<br><br><br>
+
+<font face="verdana" size="5"><b><i>Applausi e fischi</i></b></font>
+
+<div align="justify">
+
+<br><br>
+
+Fino a questo momento, quando le persone iscritte ad una mailing list leggono un messaggio ricevuto da un altro iscritto, esse non hanno la possibilità di esprimere rapidamente il loro consenso o dissenso per quanto riguarda quello specifico messaggio.
+
+<br><br>
+
+Lasciateci immaginare, invece, che alla fine del messaggio siano riportate queste due righe:
+
+<br><br><br><br>
+
+<center><font size="2"><b>
+
+<font color="red">fischi -</font><img src="blank.gif">
+
+<a href="patchwork_it.htm" title="I completely disagree"><img src="red.gif" border="1"></a><img src="blank.gif">
+
+<a href="patchwork_it.htm" title="I partially disagree"><img src="yellow.gif" border="1"></a><img src="blank.gif">
+
+<a href="patchwork_it.htm" title="I am indifferent"><img src="white.gif" border="1"></a><img src="blank.gif">
+
+<a href="patchwork_it.htm" title="I partially agree"><img src="green_y.gif" border="1"></a><img src="blank.gif">
+
+<a href="patchwork_it.htm" title="I completely agree"><img src="green.gif" border="1"></a><img src="blank.gif">
+
+<font color="green">- applausi</font>
+
+<br><br>
+
+- <a class="underline" href="patchwork_it.htm" title="Go to see the whole audience response">Vai a vedere il responso dell'intera audience</a> -
+
+</b></font></center>
+
+<br><br><br>
+
+In questo modo, semplicemente cliccando un link, ogni membro di una lista può esprimere la sua opinione e può esser condotto ad una pagina dove il risultato è mostrato in una tabella colorata, in accordo col <b><i>patchwork model</i></b>, il cui concetto è brevemente riportato <a class="underline" href="patchwork_it.htm">qui</a>.
+
+<br><br><br>
+
+Ciò è molto differente da una anonima votazione, perché ogni quadratino colorato nella risultante tabella corrisponde ad un singolo membro, e solo il programmatore può decidere il livello di complessità da dare al sistema. Per esempio, una piccola foto del membro può mostrarsi al passar sopra del mouse.
+
+<br><br><br>
+
+<b><i>The patchwork model</i></b> permette in verità un ben più completo progetto per un nuovo servizio specificatamente disegnato per appelli e perorazioni con un alto livello di interattività. Forse si tratta di un progetto un po' troppo complesso per esser realizzato immediatamente. Così in questa pagina l'abbiamo ridotto nello schema di questa piccola applicazione (<i>Applausi e fischi</i>) facile da realizzarsi e da aggiungersi ad ogni mailing list.
+
+</div>
+
+<br><br><br>
+
+<hr color="red" size="1">
+<center><font face="verdana" color="navy" size="2"><b><a href="index_it.htm">S O M M A R I O</a></b></font></center>
+<hr color="red" size="1">
+
+</FONT>
+
+<br><br>
+
+<center><b>
+
+<font face="verdana" color="navy" size="1">
+
+<a class="ll02" HREF="index.htm">T H E <img src="blank.gif" border="0"> P A T C H W O R K <img src="blank.gif" border="0"> M O D E L</a> <img src="blank.gif" border="0"> ™<br>
+
+<a class="ll02" HREF="legal_en.htm">Copyright © since 2005 </a> <a class="ll02" href="../eulab/addresses.htm">Laboratorio Eudemonia</a>. <A class="ll02" HREF="legal_en.htm">Some rights granted</a><br>
+
+<a class="ll02" href="story.htm">Website active since <a class="ll02" href="../tec/index.htm" target="earthcal">35</a> - <a class="ll02" href="../index.htm" target="hyperlinker">Webworks by HyperLinker.org</a>
+
+</font>
+
+</b></center>
+
+</tr></td></table></center>
+
+</BODY>
+</HTML>

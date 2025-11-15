@@ -1,0 +1,136 @@
+Date:    10/24/2008 03:14
+From:    Laboratorio Eudemonia
+To:      dw-pedagogia@yahoogroups.com
+Copy:    
+Subject: [dw-pedagogia] Progresso in 4 punti
+
+Received: (qmail 29732 invoked from network); 24 Oct 2008 03:14:11 -0700
+Received: from n29c.bullet.sp1.yahoo.com (209.131.38.251) by 206.41.120.28 with SMTP; 24 Oct 2008 03:14:10 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1224843253; bh=/Ci+tqVKLgiZdalX6n+ht+GjQo9c6/QW3VS+qd4lSL8=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:Message-ID:In-Reply-To:References:X-Mailer:To:X-Originating-IP:X-eGroups-Msg-Info:From:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=jSGjiTgM0FJIyPpDh1sF7ZJVSodr6XR3AjKaeDW8/GrsCrkm3mkOIZK2TzEBPuSYJO9U6upLpVw2F3twDxltKOOuc83gWzcThbt0g1U2WWiLtWcWxhJhX2mva0uidwRL
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=MBxUmvPOfqZVqw15bMrAQ3XW244swDSs+Oijh5ux4YynPyNFmZBlcNBifLY8F4clm7ojAxVWmJtuHcuHmB6n5ygCv0U7idiUA7+MgaFw5WT9eE4fKCOmywO+3shFVIXt;
+Received: from [69.147.65.173] by n29.bullet.sp1.yahoo.com with NNFMP; 24 Oct 2008 10:14:13 -0000
+Received: from [66.218.66.96] by t15.bullet.mail.sp1.yahoo.com with NNFMP; 24 Oct 2008 10:14:13 -0000
+X-Yahoo-Newman-Id: 1657617-m1477
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: dw-pedagogia@yahoogroups.com
+X-Received: (qmail 12038 invoked from network); 24 Oct 2008 10:14:10 -0000
+X-Received: from unknown (66.218.67.96) by m56.grp.scd.yahoo.com with QMQP; 24 Oct 2008 10:14:10 -0000
+X-Received: from unknown (HELO cp-out10.libero.it) (212.52.84.110) by mta17.grp.scd.yahoo.com with SMTP; 24 Oct 2008 10:14:10 -0000
+X-Received: from mail.libero.it (151.83.15.111) by cp-out10.libero.it (8.5.014) id 48DCA0E6043291AA for dw-pedagogia@yahoogroups.com; Fri, 24 Oct 2008 12:14:09 +0200
+Message-ID: <200810241214070390.005FDCA6@mail.libero.it>
+In-Reply-To: <11d2bbdc6d0.franpiem1@virgilio.it>
+References: <11d2bbdc6d0.franpiem1@virgilio.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: dw-pedagogia@yahoogroups.com
+X-Originating-IP: 212.52.84.110
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+Sender: dw-pedagogia@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list dw-pedagogia@yahoogroups.com; contact dw-pedagogia-owner@yahoogroups.com
+Delivered-To: mailing list dw-pedagogia@yahoogroups.com
+List-Id: <dw-pedagogia.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:dw-pedagogia-unsubscribe@yahoogroups.com>
+Date: Fri, 24 Oct 2008 12:14:07 +0200
+Subject: [dw-pedagogia] Progresso in 4 punti
+Reply-To: dw-pedagogia@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-u
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+In merito a quanto accade in questi giorni, intorno e nelle scuole ed università, si spera che i fatti contingenti si risolvano nel modo migliore e nel tempo più breve. Superata la contingenza, occorrerà però iniziare a considerare questioni di base mai affrontate prima, senza risolvere le quali non si può minimamente sperare in una felice evoluzione sociale.
+
+
+Brevemente, mi si permetta di esporre un auspicabile progresso in quattro punti:
+
+1) Il pubblico impiego assegnato a vita è ANTIDEMOCRATICO ed ANTIREPUBBLICANO: tutti gli incarichi dello Stato, perfino la Presidenza della Repubblica, devono essere rimessi al POPOLO dopo un certo numero di anni, mentre un dipendente del Catasto, del Comune, della Provincia, della Regione, della Pubblica Istruzione, dei tanti Uffici dello Stato, dell'ASL, della RAI, delle Forse dell'Ordine, etc. etc. possono rimanere al LORO posto, di fatto accaparrandoselo, per tutta la vita, a volte perfino trasferendoci poi i propri figli! Nei fatti l'Italia non è ancora una Res Publica bensì è Cosa Loro, dei pubblici dipendenti a vita.
+
+2) Quando nacque la nostra Costituzione, c'era fretta di riprendere il normale corso delle cose e l'ordinamento del pubblico impiego non potè essere sviluppato come di dovere. Tuttavia i padri fondatori della nostra Res Pubblica, consapevoli della necessità di una evoluzione, scrissero apposta il benedetto Articolo 3: "... E' compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese ...".
+
+3) E' proprio questa ANOMALIA DEMOCRATICA, questo retaggio d'epoca borbonica, questo rimasuglio oligarchico dell'assegnazione a vita di un BENE COMUNE, della proprietarizzazione di una PUBBLICA RISORSA, a creare la quasi totalità dei problemi d'oggi. Questo è l'elenco delle pubbliche amministrazioni: http://www.istat.it/strumenti/definizioni/elenco_amministrazioni_pubbliche/elencoS13.pdf ed è pure l'elenco degli Enti che andrebbero completamente reinterpretati nei metodi e negli scopi sotto ben altri influssi e con ben altre visioni che quelle attuali.
+
+4) ATTENZIONE! Si badi che il pubblico impiego a rotazione non licenzia bensì ASSUME!!! Infatti esso prevede il riassorbimento nel settore pubblico di molte delle attività economiche oggi private. Questa è infatti l'estrema sintesi del complessivo progetto: PUBBLICO IMPIEGO A ROTAZIONE COMPRENDENTE ATTIVITÀ ECONOMICHE PER UNA METÀ DELL'INTERO. La nostra economia è fortemente squilibrata verso il privato proprio perché anche il solo pensare ad un pubblico impiego più corposo mentre è ancora sottomesso all'assegnazione a vita, alla CASTA STATALE, alla MAFIA di STATO, quindi ad ogni genere di corruzione, è qualcosa che fa male solo a pensarlo! Ma una volta restituito alla cittadinanza, il pubblico impiego potrà riprendere consistenza riacquisendo tante attività di primaria importanza come la gestione dell'acqua, dell'energia, della telefonia, dei trasporti, etc. etc.
+
+
+Ecco allora che il progetto di un pubblico impiego a rotazione si rivela portatore del sacro diritto di ogni cittadino all'effettiva partecipazione all'organizzazione politica, economica e sociale del Paese, proprio come auspicato dalla Costituzione. E si rivela pure unica garanzia di un http://lavoro-minimo-garantito.hyperlinker.org assistito a sua volta dal più tradizionale reddito da cittadinanza.
+
+Per tutto ciò ai gentilissimi Presenti mi permetto oggi offrire la splendida opportunità di studiare e pronunciarsi in favore di un progetto che è stato forgiato negli anni avendo l'obiettivo di realizzare ciò che oggi, nella generale confusione, può apparire impossibile: condurre TUTTI, nessuno escluso, ad un grado di FELICITA' e SICUREZZA di gran lunga, nettamente superiore rispetto ad oggi.
+
+
+HTTP://EQUO-IMPIEGO-PUBBLICO-A-ROTAZIONE.HYPERLINKER.ORG
+
+
+Buone cose.
+
+Danilo D'Antonio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+moderatore: Francesca Piemonte (francesca.piemonte@tiscali.it)
+
+didaweb per una scuola solidale, collaborativa, libera e gratuita
+Per spedire messaggi, indirizzare a: dw-pedagogia@yahoogroups.com
+Per cancellarsi, spedire un messaggio vuoto a:  dw-pedagogia-unsubscribe@yahoogroups.com
+
+Link utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/dw-pedagogia/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/dw-pedagogia/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:dw-pedagogia-digest@yahoogroups.com 
+    mailto:dw-pedagogia-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    dw-pedagogia-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

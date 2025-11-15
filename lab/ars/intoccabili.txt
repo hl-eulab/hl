@@ -1,0 +1,165 @@
+Date:    02/04/09 13.21
+From:    Laboratorio Eudemonia
+To:      cantiere_della_democrazia@yahoogroups.com
+Copy:    
+Subject: Cantiere della democrazia: La DEMOCRAZIA per PREMIO
+
+Received: (qmail 26048 invoked from network); 2 Apr 2009 13:21:08 -0700
+Received: from n48c.bullet.mail.sp1.yahoo.com (66.163.168.182) by 206.41.120.28 with SMTP; 2 Apr 2009 13:21:08 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1238703666; bh=qQPEndmTfnyXJYdbueznhlPzdLZc9ypQZMrBGAkAk8Y=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=CAM35/DLxcvikJH15Vriru3YoJYgylj1n1hoYQtz1BLLNmm5ymafdQucUhLvMIy914Ka8RfZhj1ndAAzVXYQ+16Of6DHjymp1h7p4FcNsSy23Bl7DDiV5Zd3LNbn4EIm
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=a41k3iUeLg5GpcFd1RQxN3gnIDAeZ7euJEBEnSaugQyQFyGDnZpXJsEVy3aYmO5YiFBH7hsCbPfQwmYjSm18eSrch7Kdb7xO+4oEfNih705przZ1h3kdi7sza41n2WkA;
+Received: from [69.147.65.149] by n48.bullet.mail.sp1.yahoo.com with NNFMP; 02 Apr 2009 20:21:06 -0000
+Received: from [98.137.34.37] by t9.bullet.mail.sp1.yahoo.com with NNFMP; 02 Apr 2009 20:21:06 -0000
+X-Yahoo-Newman-Id: 10416371-m2222
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: cantiere_della_democrazia@yahoogroups.com
+X-Received: (qmail 54491 invoked from network); 2 Apr 2009 20:21:05 -0000
+X-Received: from unknown (69.147.108.202) by 98.137.34.37 with QMQP; 2 Apr 2009 20:21:05 -0000
+X-Received: from unknown (HELO smtp-out25.alice.it) (85.33.2.25) by mta3.grp.re1.yahoo.com with SMTP; 2 Apr 2009 20:21:04 -0000
+X-Received: from FBCMMO02.fbc.local ([192.168.68.196]) by smtp-out25.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Thu, 2 Apr 2009 22:09:47 +0200
+X-Received: from FBCMCL01B03.fbc.local ([192.168.69.84]) by FBCMMO02.fbc.local with Microsoft SMTPSVC(6.0.3790.1830);	Thu, 2 Apr 2009 22:09:47 +0200
+X-Received: from out.alice.it ([79.31.36.200]) by FBCMCL01B03.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Thu, 2 Apr 2009 22:09:47 +0200
+Message-ID: <200904022009450350.0037FA52@out.alice.it>
+References: <200904021958310860.002DB322@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+To: cantiere_della_democrazia@yahoogroups.com
+X-OriginalArrivalTime: 02 Apr 2009 20:09:47.0298 (UTC) FILETIME=[F8A53020:01C9B3CE]
+X-Originating-IP: 85.33.2.25
+X-eGroups-Msg-Info: 1:6:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: danhyp
+Sender: cantiere_della_democrazia@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list cantiere_della_democrazia@yahoogroups.com; contact cantiere_della_democrazia-owner@yahoogroups.com
+Delivered-To: mailing list cantiere_della_democrazia@yahoogroups.com
+List-Id: <cantiere_della_democrazia.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:cantiere_della_democrazia-unsubscribe@yahoogroups.com>
+Date: Thu, 02 Apr 2009 20:09:45 +0200
+Subject: Cantiere della democrazia: La DEMOCRAZIA per PREMIO
+Reply-To: cantiere_della_democrazia@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-u
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+------------------------------------------
+Volontari, capitalisti, politici e STATALI
+------------------------------------------
+        
+
+
+Vi è mai capitato di vedere un qualche film in cui il cattivo, allo scopo di rallentare il buono che lo insegue, dà una spinta ad una carrozzina condotta da una madre e con dentro un bimbo, facendola correre verso ripide scale? Ricordate che il buono senza esitare si slancia ad afferrare la carrozzina, salva il bimbo e lo restituisce indenne alla madre? Ricordate anche che il buono, ed è qui che assurge a vero eroe, non si sofferma un sol attimo ma si slancia ancora in avanti, questa volta teso ad acciuffare il cattivo che infine agguanta e rende incapace di far ancora del male?
+
+Quella del cattivo che sfugge con malevoli artifici è una situazione abbastanza tipica nella cinematografia, che si rivede spesso pari pari nella stessa realtà. Ed infatti il VOLONTARIATO è un po' come quel buono che cerca di salvare il piccolo. Guaio è che, concentrato esclusivamente su questa sua buona azione, manco s'avvede del cattivo il quale, rimanendo libero, può continuare a far del male a destra ed a manca, creando ovunque situazioni di disperazione e rendendo vano tutto il buon impegno. Di fatto più volontari ci sono peggio vanno le cose, appunto perché sempre più forze sono dirette a salvare quel piccolo e sempre meno son quelle determinate a proseguire il lavoro per trovare il cattivo e catturarlo. PER RENDERE FINALMENTE INUTILE IL VOLONTARIATO!
+
+
+Dite la verità: vedete qualcuno oggi al mondo che si trova a due passi dall'agguantare il mostro? Per quanto vi guarderete intorno, non troverete nessuno, all'interno dei tradizionali ambienti d'intervento politico e sociale, che manco s'avvicina a capire chi davvero vada a costituire quel mostro che tanto male ha ridotto la società. Infatti si limitano tutti ad incolpare esclusivamente CAPITALISTI impossibili da raggiungere, perché quasi mai si riuniscono e nemmeno si sa come son fatti, e POLITICI impossibili da cacciare, perché eletti dalla maggioranza, mentre rimangono completamente ignari dell'importante ruolo svolto da persone che si trovano sullo stesso nostro piano di semplici cittadini ed a noi immediatamente vicini.
+
+Costoro, codesti compartecipi del perfido piano dei capitalisti e dei politici, sono precisamente gli STATALI. Nel composito e malefico gioco condotto da capitalisti e politici essi hanno un ruolo importantissimo. E, per spiegarlo con un unico esempio lampante, lasciatemi porre la domanda: avete mai visto un capitalista dare una manganellata ad un dimostrante? Avete mai visto un uomo al governo infierire su di un cittadino indifeso che cerca di far giungere alla pubblica attenzione le sue giuste istanze? Può darsi che nessuno dei presenti, me compreso, abbia mai avuto, per ora, la sfortuna di beccarsi una manganellata. E buon per noi. Ma di sicuro c'è ne tanta cui è già toccata la padronale sferza menata loro dagli STATALI.
+
+
+Sì, perché le cose stanno indubitabilmente e precisamente così:
+
+1) il capitalista manovra il politico,
+2) il politico commissiona lo STATALE,
+3) lo STATALE infligge la manganellata!
+
+
+In verità l'intera categoria degli STATALI, per difendere i loro piccoli o grandi ma sempre vergognosi privilegi di appartenenti alla CASTA e MAFIA di STATO, è da sempre al CIECO, MUTO e SORDO SERVIZIO di capitalisti e politici. Essi tutto odono, tutto vedono, tutto sanno di quanto accade nei chiusi palazzi del potere. Ed in tutti questi decenni avrebbero potuto denunciare ed opporsi non solo alle mille e mille irregolarità avvenute ma anche alle continue aggressioni al buon senso della vita che capitalisti e politici si sono permessi di compiere ed ancora si permettono solo perché hanno l'intera categoria degli STATALI in pugno. Compresa ed innanzitutto quella brutta masnada di BARONI e BARONESSE che avallano col timbro di una loro presunta quanto inesistente superiorità intellettuale ogni atto commesso a danno della società.
+
+
+Ed a questo punto torniamo veloci alla categoria dalla quale siamo partiti: quella del volontariato. Questi son giorni di destinazione del cinquepermille. Ebbene: teniamo innanzitutto presente che gran parte del volontariato è espressione dello stesso marcio sistema cultural/economico/politico/superstizioso travestito da qualcos'altro che altro scopo non ha però se non mantenere se stesso al potere. Spesso non è altro che una dependance dell'ottopermille. La restante minor parte, che effettivamente cerca di salvare come meglio può quel povero bimbo in pericolo, non può non incontrare, questa SI', la nostra piena gratitudine e simpatia e ad essa vada dunque il nostro contributo.
+
+Ciò fatto, non dimentichiamo di rialzare immediatamente lo sguardo dalla nostra buona azione per puntarlo dritto su coloro che costituiscono il nodo più debole della SUPERTRIADE mafiosa fatta di capitalisti, politici e STATALI. Perché son proprio loro, gli STATALI, ad occupare luoghi, ruoli e poteri che più legittimamente noi semplici cittadini possiamo pretendere e reclamare come nostri e così facendo toglierli dall'asservimento a ciò che è corrotto, ingiusto e sbagliato. Non continuiamo nell'errore di limitarci a salvare il pupo! Questa è soltanto una emergenza e, pur essendo noi tenuti a soddisfarla meglio che possiamo, non dobbiamo distogliere nemmeno un attimo il nostro sguardo dall'obiettivo socialmente più importante: rendere inoffensivo il mostro a tre teste con la piena e definitiva realizzazione di quella Res Publica che, acclamata dal Popolo Italiano nel referendum di sessantatrè anni fa, zoppica sempre più penosamente poiché ancor oggi in larga parte letteralmente posseduta dagli STATALI.
+
+
+Carissime persone comuni, che come me NON siete capitalisti, NON siete politici, NON siete STATALI. Vi prego di osservare che sempre più oggi si odono offerte di partecipazione presentate da STATALI assunti od eletti a vita. Badiamo bene che si tratta di una partecipazione posticcia, superficiale e di nessun conto. Non cadiamo nella loro trappola, guardiamo dritto negli occhi quei BARONI e quelle BARONESSE che nei convegni si spacciano per nostri amici ed invece, per conto di capitalisti e politici, ci offrono di continuo null'altro che dei contentini per cercare di tenerci buoni. Non lasciamoci abbindolare. Una vera PARTECIPAZIONE non può che attuarsi in un sol modo: redistribuendo periodicamente ruoli, poteri e redditi della Res Publica. Solo così, solo facendo ognuno la nostra parte, avremo come meritato premio la possibilità di vivere in una:
+
+http://Societa-Democratica.hyperlinker.org
+
+
+Felice Primavera!
+
+
+Danilo D'Antonio
+
+Laboratorio Eudemonia
+Piazza del Municipio
+64010 Rocca S. M.
+TE - Abruzzo
+
+tel. 339 5014947
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+Per iscriversi: cantiere_della_democrazia-subscribe@yahoogroups.com
+Per cancellarsi: cantiere_della_democrazia-unsubscribe@yahoogroups.com
+
+Link utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/cantiere_della_democrazia/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/cantiere_della_democrazia/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:cantiere_della_democrazia-digest@yahoogroups.com 
+    mailto:cantiere_della_democrazia-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    cantiere_della_democrazia-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

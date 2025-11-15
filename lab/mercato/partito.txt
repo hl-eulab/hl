@@ -1,0 +1,217 @@
+Date:    03/11/2008 08:48
+From:    Laboratorio Eudemonia
+To:      democraziapopolare@yahoogroups.com
+Copy:    
+Subject: [democraziapopolare] Partito telematico: il tempo è ormai  maturo
+
+Received: (qmail 11525 invoked from network); 11 Mar 2008 08:48:42 -0700
+Received: from n19c.bullet.sp1.yahoo.com (69.147.64.132) by 206.41.120.28 with SMTP; 11 Mar 2008 08:48:42 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+Comment: DomainKeys? See http://antispam.yahoo.com/domainkeys
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=bRVi9cHd7nYAwoc6hzO9nCmlhZOW4HVGMU+n6LdWDtvz4uoQC5XheOYUdRbTOHqRgfz1EUiDqg6kb9KwS2fNeyoKDIkaM2d7E0z1baM3nuc2BIUR665l0JFEKBSdcHqM;
+Received: from [216.252.122.218] by n19.bullet.sp1.yahoo.com with NNFMP; 11 Mar 2008 15:48:41 -0000
+Received: from [66.218.69.3] by t3.bullet.sp1.yahoo.com with NNFMP; 11 Mar 2008 15:48:41 -0000
+Received: from [66.218.66.157] by t3.bullet.scd.yahoo.com with NNFMP; 11 Mar 2008 15:48:41 -0000
+X-Yahoo-Newman-Id: 4197875-m1918
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: democraziapopolare@yahoogroups.com
+X-Received: (qmail 24424 invoked from network); 11 Mar 2008 15:48:39 -0000
+X-Received: from unknown (66.218.67.95) by m53.grp.scd.yahoo.com with QMQP; 11 Mar 2008 15:48:39 -0000
+X-Received: from unknown (HELO smtp-out2.libero.it) (212.52.84.42) by mta16.grp.scd.yahoo.com with SMTP; 11 Mar 2008 15:48:38 -0000
+X-Received: from MailRelay10.libero.it (192.168.32.119) by smtp-out2.libero.it (7.3.120) id 4688F31B19293B19 for democraziapopolare@yahoogroups.com; Tue, 11 Mar 2008 16:48:38 +0100
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsoGAI9G1keXURCB/2dsb2JhbACIYKML
+X-Received: from unknown (HELO mail.libero.it) ([151.81.16.129]) by outrelay-b10.libero.it with ESMTP; 11 Mar 2008 16:48:32 +0100
+Message-ID: <200803111648360390.0046D53D@mail.libero.it>
+References: <200803101858070515.0043C87A@mail.libero.it> <200803101859480421.004552A4@mail.libero.it> <200803101900410890.00462381@mail.libero.it> <200803101902080593.00477630@mail.libero.it> <200803101905100296.004A3BF7@mail.libero.it> <200803111433070937.002BECC0@mail.libero.it> <200803111611250406.0024CA75@mail.libero.it> <200803111635470703.003B1A8D@mail.libero.it> <200803111646400718.00451165@mail.libero.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: democraziapopolare@yahoogroups.com
+X-Originating-IP: 212.52.84.42
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: eulab_groups
+Sender: democraziapopolare@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list democraziapopolare@yahoogroups.com; contact democraziapopolare-owner@yahoogroups.com
+Delivered-To: mailing list democraziapopolare@yahoogroups.com
+List-Id: <democraziapopolare.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:democraziapopolare-unsubscribe@yahoogroups.com>
+Date: Tue, 11 Mar 2008 16:48:36 +0100
+Subject: [democraziapopolare] =?ISO-8859-1?Q?Partito_telematico:_il_tempo_=E8_ormai_?= maturo
+Reply-To: democraziapopolare@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-u
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+Gentilissimi Presenti,
+
+spero stiate tutti fantasticamente!
+
+Mi azzardo a chiedervi un po' d'attenzione per presentare un'idea che potrebbe, almeno spero, esser di comune interesse.
+
+
+Grandi cose per formarsi abbisognano di diversi elementi di grandezza minore. Sono del parere, e spero perdonerete il mio entusiasmo forse un po' fastidioso ma sicuramente onesto, verace, che potremmo avere davanti a noi materia a sufficienza per costruire qualcosa di altamente innovativo ed allo stesso tempo buono e grande.
+
+Col permesso che spero mi concederete riporto di seguito i vari componenti.
+
+Tanto in ambito nazionale che estero, allo stato attuale delle cose disponiamo di:
+
+- varie iniziative per coinvolgere il cittadino in questioni di governo;
+
+- vari tentativi di realizzare delle assemblee on line;
+
+- altre iniziative ancora tese a costituire un vero e proprio movimento politico che si realizzi attraverso l'aggregazione di persone in Internet;
+
+- alcuni nuovi accordi statutari che obbligano la persona delegata a rappresentarne altre nei luoghi istituzionali a compiere esattamente le azioni decise in precedenza dai cittadini stessi.
+
+
+In più, pur trovandosi ancora solo ad un livello progettuale ma ritendendole indispensabili per far sì che quanto sopra possa evolvere a sufficienza evitando il fenomeno comunemente detto fuoco di paglia, mi permetto di ricordare due proposte tratte dal mio personale apporto ideativo, precisamente:
+
+- un progetto per uno strumento telematico di proposizione e delibera che si differenzia da tutti gli altri, permettendo esso di esprimere non un voto chiuso, morto, sterile, bensì aperto al confronto, vivo e capace di sviluppi: fino alla data di chiusura stabilita per la votazione i partecipanti possono interagire con facilità focalizzandosi su ogni singolo voto intervenendo dialetticamente con la persona che l'ha espresso, ognuno accresciute le infomazioni in suo possesso potendo cambiare parere fino al raggiungimento di un accordo completo;
+
+- un progetto per incentivare la partecipazione popolare al punto che il cittadino non provi solo uno specifico quanto limitato interesse d'ordine contingente ma si adopri continuativamente in uno studio alacre delle varie questioni di interesse comune per poter giungere ad una complessiva preparazione che gli/le permetta di presentare proposte di elevato valore, ciò grazie alla concreta possibilità che il Governo infine "acquisti" il suo prodotto, sarebbe a dire grazie alla garanzia che verrà concessa adeguata ricompensa in denaro sonante nel caso la proposta venisse approvata dapprima dagli altri cittadini ed infine dai tradizionali organi di Governo.
+
+
+Ora so bene che occorre del tempo per conoscere ed assimilare queste diverse, complesse e ricche iniziative e progetti (link a piè di foglio), ed ancor più per mettere bene a fuoco il disegno complessivo che son qui a chiedere di considerare, forse spudoratamente ma pure con la convinzione che tutto ciò potrebbe innescare una evoluzione diffusamente auspicata. Sperando quindi vi sia possibile farlo, provo ad accennare una sintesi della nostra situazione:
+
+- come ben sappiamo la presente politica non permette grandi avanzamenti e quindi il sistema dei partiti, all'origine della scomposta e faziosa azione dei governi, non può essere scavalcato, per la qual cosa noi cittadini dobbiamo almeno momentanemente uniformarci ad esso;
+
+- l'evoluzione, realizzata per lo più dalle sopraddette iniziative tese a coinvolgere i cittadini, avanza con difficoltà, in quanto è difficile accettare l'idea che gente espressamente pagata per far certe cose d'interesse comune non solo non le fa ma fa esattamente il contrario, pure arricchendosi indebitamente con raggiri e truffe, mentre noi "persone comuni" dovremmo darci tanto da fare per cercare di porre rimedio ai problemi sociali senza aver alcun potere e senza ricevere altra ricompensa se non quella di poter sopravvivere fino alla prossima lotta;
+
+- in Rete un cospicuo numero di progressisti, di attivisti, di ricercatori e di persone comuni, molti essendosi già raccolti ed aggregati intorno a qualcuno o qualcosa altri procedendo ancora in solitaria, letteralmente scalpitano attendendo il momento in cui potranno passare dalle parole ai fatti concreti, mancando loro, a noi tutti mancando ancora uno strumento d'importanza primaria che ci faccia non più soltanto esprimere le nostre idee ma propriamente costruire qualcosa di buono.
+
+
+La proposta che mi azzardo allora a presentare è quella di costituire un "partito" che dalla Rete tragga elementi umani e modi tecnologici, servendoci, oltre che degli strumenti già abbondantemente sperimentati in dodici anni di diffusione di Internet a livello popolare, anche di nuovi strumenti, in particolare dei due da me sintetizzati appunto dopo prolungata osservazione di questi fenomeni. Il "patchwork model" concederebbe infatti estrema attrattiva e facilità d'uso al modulo WEB necessario a questo progetto per realizzarsi, mentre il sistema partecipativo del "mercato delle innovazioni sociali" su cui questo progetto si baserebbe darebbe motivazioni forti abbastanza da spingere non solo gli adepti del volontariato, non solo i tradizionali attivisti politici, ma anche e soprattutto le persone comuni (la cui partecipazione è ciò che ancora maggiormente manca ed è attesa) a coinvolgersi, a studiare, ad analizzare, a prepararsi ed infine a sintetizzare e proporre loro stessi e votare in merito alle proposte altrui.
+
+Ciò che qui complessivamente e sommariamente azzardo a presentare è il progetto non di una tradizionale "forza politica", che basa il suo successo sul numero delle persone che ignorano i fatti pure plagiate e pilotate dai leader, bensì di una nuova struttura che potremmo definire di "intelligenza politica", che prevede che ogni avente diritto al voto disponga di ogni informazione necessaria a permettergli di esprimersi genuinamente in base alle ragioni obiettive. Se oggi lobby e cricche s'appendono pesantemente dalla loro parte sbilanciando il nostro avanzare facendoci dolere e rischiando di farci cadere ad ogni passo, scomponendo le vecchie aggregazioni che poggiano ancora su rozzi blocchi ideologici e riconducendoci ad essere semplici individui e persone alla pari, ognuna di eguale peso politico rispetto all'altra, potremo ottenere una politica ben più raffinata, sensibile e funzionale ed enormemente più avente diritto di esser definita democratica.
+
+Se fino ad oggi al centro dell'attenzione vi sono state le persone, i personaggi, le macchiette, da domani potranno invece esservi le idee, le creazioni dell'intelletto, la serietà, una sana competizione avvenendo dunque tra queste ultime, piena pace potendosi invece mantenere tra le prime. Ognuno potrà dire la sua e le questioni che più ci importano, quei temi tanto importanti quanto finora evitati, avranno finalmente occasione di salire alla ribalta con beneficio collettivo. Finalmente non avrà più tanta importanza il nome di chi presenterà la mozione quanto il contenuto ed il senso della mozione stessa.
+
+Finalmente si potrà dire: entrino le idee e vincano le migliori!
+
+
+La complessità dell'intero meccanismo qui proposto è facilmente immaginabile. Tuttavia costruire insieme questo nuovo partito non di parte sarà per tutti un sicuro piacere, oltre che un serio dovere.
+
+Con estrema sintesi allora la proposta è questa:
+
+- riuniamoci on line ed iniziamo a delineare punto per punto il progetto del futuro partito telematico o come altro si deciderà di chiamarlo;
+
+- stiliamo il suo statuto comprendente il fondamentale patto che la persona che verrà prescelta a rappresentarci s'impegnerà per veder realizzate le riforme più votate dai cittadini sul sito, rispettando anche un ordine di priorità, tra le tante che emergeranno una volta rimosso il tappo del leaderismo, espresso sempre dai cittadini;
+
+- contestualmente uno degli scopi primari del partito sarà quello di garantire ai proponenti i progetti di legge un adeguato premio in denaro allo scopo di mettere in moto un motore partecipativo che non si spegnerà mai più;
+
+- autofinanziamo il progetto per realizzare il sito web strumento fondamentale del partito telematico e per le altre esigenze;
+
+- diamoci da fare per farlo conoscere ed iniziamo a riversarvi dentro le nostre proposte;
+
+- attiviamo la procedura per renderlo legalmente operativo prima che sia possibile.
+
+
+Posso solo immaginare quanto voi tutti abbiate da fare, ma dedicarci collettivamente a questa cosa potrebbe essere di grande interesse tanto per le singole cause di cui ci facciamo ognuno portavoce quanto per far compiere un complessivo buon passo in avanti alla società di cui siam parte, per cui spero non la disdegnerete ma vorrete analizzarla a fin di realizzazione.
+
+Profondamente grato per l'attenzione, vi saluto caramente rimanendo in attesa di graditissime vostre parole di risposta.
+
+
+Danilo D'Antonio
+
+Laboratorio Eudemonia
+Piazza del Municipio
+64010 Rocca S. M.
+TE - Abruzzo
+
+tel. 328 0472332
+tel. 339 5014947
+
+
+
+
+LINK:
+
+a vari siti di democrazia diretta presenti sul pianeta (estremamente parziale, solo per avere una vaga idea del fenomeno, da approfondire personalmente):
+
+http://democracybythepeople.googlepages.com/direct-participatory-democracy-links
+
+
+ciò che ritengo essere la più avanzata forma di democrazia diretta nell'ambito locale nel nostro Paese:
+
+http://www.listapartecipata.it/
+
+
+le normali forme di democrazia diretta stanno ad una cinquecento come il sottopresentato "mercato" sta al motore del Saturno 5 (il razzo che ci ha portato fin sulla Luna):
+
+http://il-mercato-delle-innovazioni-sociali.hyperlinker.org/
+
+
+il sistema più divertente e funzionale per la proposizione, il confronto e la delibera di proposte d'innovazione sociale:
+
+http://the-patchwork-model.hyperlinker.org/
+
+
+
+
+Partito telematico: il tempo è ormai maturo. - V 1.0 - 11/03/39
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Per annullare l'iscrizione a questo gruppo, manda una mail all'indirizzo: 
+democraziapopolare-unsubscribe@yahoogroups.com
+
+ 
+Link utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/democraziapopolare/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/democraziapopolare/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:democraziapopolare-digest@yahoogroups.com 
+    mailto:democraziapopolare-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    democraziapopolare-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html
+ 

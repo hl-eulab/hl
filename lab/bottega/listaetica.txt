@@ -1,0 +1,119 @@
+Date:    29/01/07 3.31
+From:    Laboratorio Eudemonia
+To:      listaetica@yahoogroups.com
+Copy:    
+Subject: Re: [ listaetica ] Informazione
+
+Return-Path: <sentto-2418668-3940-1170070308-laboratorio=hyperlinker.com@returns.groups.yahoo.com>
+Delivered-To: 189-laboratorio@hyperlinker.com
+Received: (qmail 7900 invoked from network); 29 Jan 2007 03:31:54 -0800
+Received: from n16c.bullet.sp1.yahoo.com (69.147.64.123) by 206.41.120.28 with SMTP; 29 Jan 2007 03:31:54 -0800
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+Comment: DomainKeys? See http://antispam.yahoo.com/domainkeys
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=mXc+REKg9dio2t6VsFY/ocJkPV8EoTRVB/NGFi18+SON54V/o58YlkUeFhtLr821/QnToD/cdyWTj6DIyaWqhf7sgIcJjtX4dVUjwbzWH/GcXfOXVnpIT2T5C3YkAQ8K;
+Received: from [216.252.122.219] by n16.bullet.sp1.yahoo.com with NNFMP; 29 Jan 2007 11:31:49 -0000
+Received: from [66.218.69.4] by t4.bullet.sp1.yahoo.com with NNFMP; 29 Jan 2007 11:31:49 -0000
+Received: from [66.218.67.108] by t4.bullet.scd.yahoo.com with NNFMP; 29 Jan 2007 11:31:49 -0000
+X-Yahoo-Newman-Id: 2418668-m3940
+Received: (qmail 85751 invoked from network); 29 Jan 2007 11:28:17 -0000
+Received: from unknown (66.218.66.68) by m44.grp.scd.yahoo.com with QMQP; 29 Jan 2007 11:28:17 -0000
+Received: from unknown (HELO n20b.bullet.sp1.yahoo.com) (69.147.64.134) by mta11.grp.scd.yahoo.com with SMTP; 29 Jan 2007 11:28:17 -0000
+Received: from [216.252.122.217] by n20.bullet.sp1.yahoo.com with NNFMP; 29 Jan 2007 11:26:59 -0000
+Received: from [66.218.69.5] by t2.bullet.sp1.yahoo.com with NNFMP; 29 Jan 2007 11:26:59 -0000
+Received: from [66.218.66.67] by t5.bullet.scd.yahoo.com with NNFMP; 29 Jan 2007 11:26:59 -0000
+X-Sender: laboratorio@hyperlinker.com
+X-Apparently-To: listaetica@yahoogroups.com
+Received: (qmail 12069 invoked from network); 28 Jan 2007 09:25:35 -0000
+Received: from unknown (66.218.67.33) by m37a.grp.scd.yahoo.com with QMQP; 28 Jan 2007 09:25:35 -0000
+Received: from unknown (HELO community30.interfree.it) (213.158.71.3) by mta7.grp.scd.yahoo.com with SMTP; 28 Jan 2007 09:25:35 -0000
+Received: (qmail 8506 invoked by uid 320); 28 Jan 2007 09:05:02 -0000
+Received: from 80.104.207.76 by community30.interfree.it (envelope-from <laboratorio@hyperlinker.com>, uid 0) with qmail-scanner-2.01  (clamdscan: 0.70rc.   Clear:RC:1(80.104.207.76):.  Processed in 1.589372 secs); 28 Jan 2007 09:05:02 -0000
+Received: from unknown (HELO p4) (80.104.207.76) by mail.interfree.it with SMTP; 28 Jan 2007 09:05:00 -0000
+Message-ID: <200701281002420720.001CCD46@mail.interfree.it>
+In-Reply-To: <JCDNB9$EAA99B4117CBE6A198DA77123BF60BE5@libero.it>
+References: <JCDNB9$EAA99B4117CBE6A198DA77123BF60BE5@libero.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+To: listaetica@yahoogroups.com
+X-Originating-IP: 213.158.71.3
+X-eGroups-Msg-Info: 1:0:0:0
+From: "Laboratorio Eudemonia" <laboratorio@hyperlinker.com>
+X-Yahoo-Profile: eulab_groups
+X-eGroups-Approved-By: nsalvi00 <nsalvi00@yahoo.it> via web; 29 Jan 2007 11:26:59 -0000
+Sender: listaetica@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list listaetica@yahoogroups.com; contact listaetica-owner@yahoogroups.com
+Delivered-To: mailing list listaetica@yahoogroups.com
+List-Id: <listaetica.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:listaetica-unsubscribe@yahoogroups.com>
+Date: Sun, 28 Jan 2007 10:02:42 +0100
+Subject: Re: [ listaetica ] Informazione
+Reply-To: listaetica@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-ff
+Content-Type: multipart/alternative; boundary="d4LfZ3RwwZ1QA1uW5IfM2ePKrWvJY-4-gevXCZW"
+
+
+
+
+
+infatti il no profit è la nuova frontiera del lavoro
+
+non ci sarebbe nulla di male, se non fosse che i finanziamenti sono elargiti dal sistema stesso e per questo motivo le azioni svolte dal cosiddetto no-profit si ritrovano ad essere scelte in base alla loro fedeltà ai modi tradizionali d'intervento sulla società, non in base alla loro effettiva capacità di modificare positivamente il mondo
+
+
+
+In questo momento, come cittadini, senza rendercene nemmeno conto, ci troviamo a finanziare una cospicua mole di attività (di ONG, associazioni, etc.) non avendo la benché minima possibilità di decidere chi e soprattutto cosa di preciso beneficiare col nostro denaro. Il sistema, per giunta e naturalmente, seleziona attentamente ed alimenta solo quelle attività che più sono funzionali al mantenimento delle cose così come tragicamente si trovano, poiché troppi sono i suoi interessi a far sì che tutto rimanga immutato.
+
+Al contrario quelle proposte ed iniziative che più potrebbero essere risolutive dei tanti problemi esistenti, in quanto agenti alla radice dei problemi, vengono totalmente ignorate, ed alcuna possibilità hanno di intervenire efficacemente coloro che, non piegandosi alle lusinghe ed ai doni del potere corrotto, perseguono una politica di piena soddisfazione delle esigenze delle varie situazioni critiche.
+
+Come fare allora per:
+
+- permettere al cittadino di finanziare l'attività, o le persone, che più gli vengono segnalate dalla propria sensibilità, potendo in questo modo esprimere appieno anche la propria personalità? 
+
+- permettere a chi desidera intervenire nella realtà sociopolitica di non lasciarsi indirizzare dai flussi tradizionali di finanziamento bensì di rivolgere la propria genuina attenzione a ciò che più, realmente importa?
+
+
+Di recente il Laboratorio di Ricerca Sociale Eudemonia, dopo due settenni di attività effettuata in puro stile volontaristico, rendendosi conto che il problema di un finanziamento non condizionato ai voleri dei corrotti era non solo proprio, causa l'onestà ed originalità delle sue proposte, ma comune ad una folta schiera di altri innovatori sociali, ha presentato una proposta per rimediare ufficialmente a questo problema:
+
+http://il-mercato-delle-innovazioni-sociali.hyperlinker.org
+
+
+Trattandosi di innovazione che necessita di istituzione da parte dei tradizionali Enti di Governo, quindi non potendo essa funzionare se non quando dovesse essere approvata ed istituita, lo stesso Laboratorio ha introdotto una ulteriore novità nel campo dei finanziamenti.
+
+Invece di chiedere, come avvenuto finora, una adesione alle sue proposte d'innovazione sociale, il Laboratorio Eudemonia ora offre letteralmente in vendita tali proposte come veri e propri prodotti aventi un prezzo.
+
+Un esempio pratico:
+
+http://www.hyperlinker.com/mercato/petizione.htm
+
+
+Non si tratta della solita richiesta di una generica donazione sul cui uso il cittadino non ha alcun potere decisionale. Tutt'altro! Il Laboratorio Eudemonia presenta dei prodotti ad avanzata tecnologia sociale in grado di rimuovere problemi concreti offrendo soluzioni altrettanto concrete. Come qualsiasi altro prodotto di qualità e frutto di un lavoro, tali proposte riteniamo abbbiano pieno diritto di esser offerte in vendita.
+
+
+
+Quando si aprono nuove vie le difficoltà son sempre notevoli. Tuttavia ci auguriamo che ci si renda conto della urgente necessità di attivare vie di finanziamento indipendente, con un canale diretto tra cittadino e la singola proposta d'intervento, tale da permettere interventi genuinamente richiesti dalle situazioni e non invece come ora diretti e pilotati da quel sistema stesso che produce in continuazione problemi e tragedie
+
+
+
+I migliori saluti,
+
+Danilo D'Antonio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

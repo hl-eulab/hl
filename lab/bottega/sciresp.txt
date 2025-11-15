@@ -1,0 +1,174 @@
+Date:    03/01/07 12.02
+From:    Laboratorio Eudemonia
+To:      sciresp@area.bo.cnr.it
+Copy:    
+Subject: [Sciresp] - pecunia matters -  
+
+Return-Path: <sciresp-bounces@area.bo.cnr.it>
+Delivered-To: 189-eulab@hyperlinker.com
+Received: (qmail 30539 invoked from network); 3 Jan 2007 12:02:41 -0800
+Received: from jolly.bo.cnr.it (192.167.160.13) by 206.41.120.28 with SMTP; 3 Jan 2007 12:02:41 -0800
+Received-SPF: none (206.41.120.28: domain at area.bo.cnr.it does not designate permitted sender hosts)
+Received: from localhost (localhost.localdomain [127.0.0.1])	by jolly.bo.cnr.it (Postfix) with ESMTP id D866A5BE5A	for <eulab@hyperlinker.com>; Wed,  3 Jan 2007 21:14:58 +0100 (CET)
+Received: from jolly.bo.cnr.it ([127.0.0.1]) by localhost (jolly.bo.cnr.it [127.0.0.1]) (amavisd-new, port 10024) with ESMTP id 04639-06 for <eulab@hyperlinker.com>; Wed,  3 Jan 2007 21:14:53 +0100 (CET)
+Received: from jolly.bo.cnr.it (localhost.localdomain [127.0.0.1])	by jolly.bo.cnr.it (Postfix) with ESMTP id CC9355BDC7	for <eulab@hyperlinker.com>; Wed,  3 Jan 2007 21:14:53 +0100 (CET)
+X-Original-To: sciresp@jolly.bo.cnr.it
+Delivered-To: sciresp@jolly.bo.cnr.it
+Received: from localhost (localhost.localdomain [127.0.0.1])	by jolly.bo.cnr.it (Postfix) with ESMTP id EB2065BDC7	for <sciresp@jolly.bo.cnr.it>; Wed,  3 Jan 2007 21:14:52 +0100 (CET)
+Received: from jolly.bo.cnr.it ([127.0.0.1])	by localhost (jolly.bo.cnr.it [127.0.0.1]) (amavisd-new, port 10024)	with ESMTP id 04639-05 for <sciresp@jolly.bo.cnr.it>;	Wed,  3 Jan 2007 21:14:49 +0100 (CET)
+Received: from community19.interfree.it (community19.interfree.it	[213.158.72.79])	by jolly.bo.cnr.it (Postfix) with ESMTP id BBD485BDB2	for <sciresp@jolly.bo.cnr.it>; Wed,  3 Jan 2007 21:14:49 +0100 (CET)
+Received: (qmail 32058 invoked by uid 320); 3 Jan 2007 20:02:30 -0000
+Received: from 80.104.206.197 by community19.interfree.it (envelope-from	<eulab@hyperlinker.com>, uid 0) with qmail-scanner-2.01 	(clamdscan: 0.70rc.  Clear:RC:1(80.104.206.197):. 	Processed in 3.036115 secs); 03 Jan 2007 20:02:30 -0000
+Received: from unknown (HELO mail.interfree.it) (80.104.206.197)	by mail.interfree.it with SMTP; 3 Jan 2007 20:02:25 -0000
+Message-ID: <200701032100470450.00290A71@mail.interfree.it>
+References: <200701031901100110.00646E5A@mail.interfree.it>	<200701031922190720.0077CE9A@mail.interfree.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+Date: Wed, 03 Jan 2007 21:00:47 +0100
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+To: sciresp@area.bo.cnr.it
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Virus-Scanned: by amavisd-new at jolly.bo.cnr.it
+X-Spam-Status: No, hits=-2.292 required=5 tests=AWL, BAYES_00
+X-Spam-Level: 
+Subject: [Sciresp] - pecunia matters -  
+X-BeenThere: sciresp@area.bo.cnr.it
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: eulab@hyperlinker.com
+List-Id: Lista di discussione gruppo Scienziati Responsabili CNR	<sciresp.area.bo.cnr.it>
+List-Unsubscribe: <http://www.bo.cnr.it/mailman/listinfo/sciresp>,	<mailto:sciresp-request@area.bo.cnr.it?subject=unsubscribe>
+List-Archive: <http://www.bo.cnr.it/pipermail/sciresp>
+List-Post: <mailto:sciresp@area.bo.cnr.it>
+List-Help: <mailto:sciresp-request@area.bo.cnr.it?subject=help>
+List-Subscribe: <http://www.bo.cnr.it/mailman/listinfo/sciresp>,	<mailto:sciresp-request@area.bo.cnr.it?subject=subscribe>
+Sender: sciresp-bounces@area.bo.cnr.it
+Errors-To: sciresp-bounces@area.bo.cnr.it
+X-Virus-Scanned: by amavisd-new at jolly.bo.cnr.it
+
+
+
+
+-----------------------
+  - pecunia matters -  
+-----------------------
+
+
+
+Fino ad oggi presentare una petizione in pubblico, nella speranza che venisse firmata dalle persone, al fine di avviare un processo per un qualche auspicato cambiamento sociopolitico, era in verità un atto non molto dignitoso, anzi piuttosto penoso, non foss'altro per quell'essere costretti ad avanzare una richiesta, quasi che chi veniva sollecitato a firmare doveva far un favore al generoso attivista per qualcosa che così spesso, quando era stato ben concepito, andava a migliorare il mondo con una comune, generale convenienza. 
+
+Tutti ormai siamo al corrente di quanto frequentemente oggi le cose funzionino al contrario, ed anche il Laboratorio Eudemonia ne è pienamente consapevole. Per la qual cosa, specificatamente in merito a quanto sopra, ribalta il tradizionale modo di presentare le sue proposte d'innovazione sociale, e, invece di chiedere una adesione, letteralmente offre in vendita al pubblico i suoi progetti per una società migliore.
+
+Questo in verità non deve stupire più di tanto, poiché, oltre per quanto già detto, oltre per la necessità che fruitore ed offerente del bene sociale si pongano in una giusta posizione l'uno nei riguardi dell'altro, vi è anche un altro motivo, ben più decisivo.
+
+Ma prima concediamoci un minuto per osservare l'attuale situazione. 
+
+
+L'ambito d'intervento sociopolitico è al momento terreno di caccia per ogni gruppo di potere, di vario tipo ma tutti focalizzati e raccolti intorno ad interessi di parte, economici ma anche di categoria, e pure culturali, in questo caso spesso con forte influenza superstiziosa. Intorno ai nuclei centrali di tali gruppi gravitano poi un'infinità di attivisti e simpatizzanti, nonché di vario personale pagato.
+
+Ora, osservando l'azione compiuta da tutta questa umanità, notiamo che essa è affetta alternativamente da:
+
+- interessi di parte,
+- superficialità ed incapacità,
+
+o da entrambi questi insiemi di cose. 
+
+Precisamente: coloro che costituiscono il nucleo centrale sono di parte contro ogni altro nucleo. Riguardo a ciò, si pensi che lo statuto di un partito politico esclude espressamente la partecipazione ad un altro partito, la qual cosa lascia comprendere quanto l'attuale nostro sistema politico sia basato su contrapposizione e faziosità, su principi di esclusione e quindi su visioni del tutto parziali e per questo inconcludenti, dimenticando che un sistema può invece funzionare solo se basato su fondamenti di cooperazione ed integrità, su principi inclusivi e quindi su visioni complete, abbraccianti l'intera realtà e per questo conclusivi. 
+
+[Questo sistema rovina e vanifica anche le migliori e più oneste intenzioni, anche gli intenti di coloro che fondano in continuazione nuovi partiti col sincero scopo di riaffermare il bene e contrastare il male]. 
+
+Anche coloro che si limitano a simpatizzare per un qualche nucleo politico sono di parte, non foss'altro per quel giuramento di fedeltà esclusiva loro richiesto, e per giunta superficiali, e quindi inevitabilmente incapaci, perché la loro è una attività svolta nel tempo libero da altre attività per loro prioritarie, in quanto spesso essenziali per il loro fabbisogno di reddito. 
+
+Infine, coloro che vengono pagati da un nucleo sono, sì, professionali ma assolutamente di parte anch'essi, in vero fedelissimi a coloro che li hanno assoldati, e per nulla disposti a preferire una visione completa ed obiettiva, imparziale, giusta e corretta, bensì freddamente determinati ad appendere la coda dove vuole il loro padrone, checchè ne possa pensare il famoso asino. 
+
+
+Parzialità e superficialità: questo è il tremendo cocktail sociopolitico in cui sta annegando il nostro mondo! Quello che manca essendo esattamente il contrario, sarebbe a dire: approfondimento ed integrità.
+
+
+Più o meno di recente, fortunatamente, molte persone, tra cui osa annoverarsi anche chi qui scrive, istintivamente, come meglio possono, stanno cercando strade alternative a quelle tradizionali citate sopra. Ma ci troviamo ancora in una fase preliminare, l'avanzamento essendo impedito sostanzialmente dal fatto che al momento non sono disponibili strumenti d'intervento sociopolitico adatti al carattere di indipendenza ed organicità tipico della nostra idea/azione.
+
+Cosa occorre, allora, precisamente, a nostro, naturalmente personalissimo nonché, s'intende, irrilevante, avviso? Occorre per prima cosa liberare l'intervento sociopolitico dall'ingerenza delle varie concrezioni di potere stracotto. Occorre che l'intervento sociopolitico possa attuarsi liberamente, senza essere pilotato da alcuno, e perché questo possa avvenire occorre predisporre almeno una via giusto a questo scopo. 
+
+All'interno di un possibile nuovo circuito un qualsiasi cittadino, in modo autonomo da qualsiasi forza politica, potrebbe presentare la sua proposta direttamente agli altri cittadini. Questi a loro volta potrebbero esplorare questo innovativo spazio di democrazia diretta alla ricerca delle idee che a loro paiono buone e giuste, per votarle e porle alla successiva attenzione delle tradizionali Istituzioni di governo. 
+
+Le proposte che venissero infine ratificate beneficerebbero di un adeguato premio, la possibilità di una ricca ricompensa essendo potente motore per attivare quell'approfondimento che solo è possibile trascorrendo molto tempo, e riversando molte energie, nell'analisi di un problema, e quel colpo di genio capace d'un tratto di sintetizzare una soluzione ottimale. La genialità non potendo certo manifestarsi in alcuno che rimanesse invece immerso nelle ideologie ancora in vigore, risalenti a secoli se non millenni fa. 
+
+In questo consiste essenzialmente il "Mercato delle Innovazioni Sociali" di recente proposto: null'altro che una vera e propria assemblea nazionale permanente che, alimentata dallo stesso fuoco che alimenta il sistema del brevetto industriale, evitandone però la benché minima esasperazione, produrrebbe di continuo una serie di proposte di elevatissimo livello e qualità, sempre fresche in relazione ai tempi.
+
+
+Ora: ammesso che tale proposta sia buona (e sinceramente, pur con tutta la nostra volontà, non riusciamo a scorgere alcunché di male nel concedere una possibilità del genere al cittadino) al momento essa è ancora una pura idea priva di concretezza. Parrebbe quindi che un qualsiasi individuo non abbia ancora alcuna possibilità di una azione propria, indipendente almeno quanto finanziariamente motivata. 
+
+Così in verità non è, in quanto chi volesse iniziare a percorrere questa nuova strada della scoperta ed invenzione solitaria (ricordiamo che una associazione, un gruppo un partito possono contribuire in modo molto limitato al concepimento di nuove idee: l'unione, è noto, fa la forza, non l'intelligenza!) dispone già ora almeno di una possibilità: quella di presentare la sua proposta non più chiedendo una adesione bensì offrendola a pagamento ai suoi pari che volessero sottoscriverla. 
+
+In questo modo coloro che volessero cimentarsi nell'ideazione di nuovi percorsi su cui indirizzare la società avrebbero finalmente la possibilità di essere genuini, spontanei, onesti, e, non rivolgendosi più ai vari gruppi di potere bensì direttamente ai cittadini, avrebbero certo maggiori chance di trovare ciò che effettivamente occorre per migliorare o trasformare radicalmente il nostro sistema. Si tratterebbe di un passo avanti piuttosto consistente: invece di essere attratti e pilotati da denaro condizionato ad una sottomissione al sistema perché da questo concesso, potrebbero esprimere liberamente la loro creatività rivolgendosi direttamente agli altri cittadini.
+
+
+Non sarebbero più i finanziamenti a suggerire cosa occorre fare e ad indirizzare corpi e menti. 
+
+Sarebbero i prodotti generati dalla sensibilità e dalla creatività della persona ad attirare i fondi. 
+
+
+Naturalmente quanto qui auspicato non è che uno dei diversi possibili nuovi strumenti d'intervento sociopolitico che potrebbero esserci utili. Queste nuove vie, invece di sostituire le vecchie, potrebbero andare ad aggiungersi ad esse, in modo che lo stesso successo di ognuna, col tempo, andasse a determinare quale strada mantenere aperta e quale invece chiudere. 
+
+Detto questo, dalla teoria passiamo ora alla pratica, anche per mostrare a chi volesse cimentarvisi come mettere subito a frutto queste idee, con la proposta di tre specialissime innovazioni sociali. 
+
+
+Per l'appunto il "Mercato delle Innovazioni Sociali": un luogo d'intervento civile dove, come abbiamo appena detto, ogni cittadino può contemporaneamente presentare proprie proposte tese a migliorare la società e votare quelle che ritiene migliori. Trattasi di una vera assemblea nazionale permanente accessibile ad ognuno nel doppio ruolo di proponente e votante! 
+
+http://www.hyperlinker.com/mercato/petizione.htm 
+
+
+"The Switch": un vero e proprio commutatore, una piccola leva, un minuto ma allo stesso tempo decisivo timone, per invertire d'un sol colpo la rotta del nostro Pianeta, ora diretta verso un tragico destino, e condurlo sano e salvo in un porto sicuro. 
+
+http://www.hyperlinker.com/the_switch/the_switch.htm 
+
+
+L'"Equo Impiego Pubblico a Rotazione": letteralmente una nuova concezione del pubblico impiego che trasforma uno Stato chiuso in una entità realmente aperta ad ogni cittadino. Da entità passiva e completamente sottomessa allo stato, il cittadino si trasforma in una figura attiva che contribuisce in prima persona, con la propria sensibilità e creatività, all'andamento del proprio Paese.
+
+http://www.hyperlinker.com/ars/petizione.htm 
+
+
+Mai prima d'ora sono state offerte contemporanemente innovazioni così definite e consistenti, corrette e legittime. Almeno questa è la nostra modesta, precisamente: irrilevante, opinione. 
+
+A voi il giudizio finale. 
+
+
+I migliori saluti, 
+
+Danilo D'Antonio 
+
+Internet, il 03/01/38    
+
+
+
+"Molte persone partono con l'intenzione di cambiare il mondo, ma poi finiscono per trasformarsi in nulla più che semplici bottegai".
+
+Così ebbe a dire Elisée Reclus, un pensatore vissuto circa un secolo fa. Pur in certi casi opportuna, la sentenza sembra dimentichi che far bottega è un atto essenziale, perfino i fiori brillando nei loro colori e spandendo dolci effluvi solo a fini utilitaristici, non solo per piacer nostro, ma anche e soprattutto loro. 
+
+"Est modus in rebus" in questo caso potrebbe essere un detto più utile. Troviamo il giusto modo per far bottega con le idee, ed avremo compiuto un notevole passo avanti. Apriamo una via indipendente di guadagno agli innovatori sociali, e vedrete quante nuove, funzionali, belle idee avremo: altro che ideologie del passato, piuttosto stupende visioni del futuro! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_______________________________________________
+Sciresp mailing list
+Sciresp@area.bo.cnr.it
+http://www.bo.cnr.it/mailman/listinfo/sciresp

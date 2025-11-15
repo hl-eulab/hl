@@ -1,0 +1,555 @@
+Frx(at)yu Jul 01 18:23:00 1999
+Return-Pathx(at)ythefuture.org>
+Received: from cronus.rockisland.com ([199.217.72.1]) by fep03-svc.tin.it
+          (InterMail v4.0 201-221-105) with ESMTP
+          id <19990701162300.INJG20919.fepx(at)y.rockisland.com>
+          for x(at)y>; Thu, 1 Jul 1999 18:23:00 +0200
+Received: from jgoekler (pm4-164.rockisland.com [199.217.72.164])
+	by cronus.rockisland.com (8.9.3/8.9.3) with SMTP id JAA11664
+	for x(at)y>; Thu, 1 Jul 1999 09:22:52 -0700 (PDT)
+Message-Id: <3.0.5.32.19990701092950.00x(at)yockisland.com>
+X-Sender: x(at)yockisland.com (Unverified)
+X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.5 (32)
+Date: Thu, 01 Jul 1999 09:29:50 -0700
+To: Laboratorio Eudemonia x(at)y>
+From: "Facing the Future: People and the Planetx(at)ythefuture.org>
+Subject: Re: Density
+In-Reply-To: <3.0.5.32.19990630230709.00x(at)yin.it>
+References: <3.0.5.32.19990628073123.00x(at)yockisland.com>
+ <3.0.5.32.19980621180403.00x(at)yin.it>
+ <199708201852.LAx(at)y.rockisland.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+X-CalypsoFolder: "MESSAGGI\ricerca\OVERPOPULATION\John Goeckler FACING THE FUTURE"
+X-CalypsoMsgFlags: 0x820004 0x0
+X-CalypsoAccount: ""Archivio Postale" x(at)y>"
+
+Hi, Danilo:
+
+Yes, I did receive your calendar, and I thank you.  It's quite interesting,
+and I gave it to a friend who teaches third grade and who now uses it to
+help her students understand the great diversity of cultures on our planet.
+
+As far as the density question, my calculations indicate world land density
+is just over 45 people per sq kilometer.  (Excluding Antartica!)  This
+varies from a low of just over 3 per km in Oceania, to a high of over 116 /
+km in Asia.  Europe is a bit over 32, and North America just over 16.
+
+This is quite misleading, of course, because so much of the Earth's land
+surface is inhospitable.  Because so few people live in the deserts,
+tundra, rainforest, or extreme mountains, actual density in occupied areas
+is far higher.
+
+Best Regards,
+
+John
+
+
+
+
+John Goekler
+Executive Director
+Facing the Future: People and the Planet
+PO Box 606  Lopez Island, WA 98261
+phone / fax 360 468-3888
+x(at)ythefuture.org
+www.facingthefuture.org
+
+"The changes in our life must come from the impossibility to live otherwise
+than according to the demands of our conscience . . . not from our mental
+resolution to try a new form of life." Leo Tolstoy 
+
+Frx(at)yn Jun 28 16:24:34 1999
+Return-Pathx(at)ythefuture.org>
+Received: from cronus.rockisland.com ([199.217.72.1]) by fep02-svc.tin.it
+          (InterMail v4.0 201-221-105) with ESMTP
+          id <19990628142434.LBDJ23553.fepx(at)y.rockisland.com>
+          for x(at)y>; Mon, 28 Jun 1999 16:24:34 +0200
+Received: from jgoekler (pm3-144.rockisland.com [199.217.72.144])
+	by cronus.rockisland.com (8.9.3/8.9.3) with SMTP id HAA27919
+	for x(at)y>; Mon, 28 Jun 1999 07:24:29 -0700 (PDT)
+Message-Id: <3.0.5.32.19990628073123.00x(at)yockisland.com>
+X-Sender: x(at)yockisland.com
+X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.5 (32)
+Date: Mon, 28 Jun 1999 07:31:23 -0700
+To: Laboratorio Eudemonia x(at)y>
+From: "Facing the Future: People and the Planetx(at)ythefuture.org>
+Subject: Re: Greetings, Danilo
+In-Reply-To: <3.0.5.32.19980621180403.00x(at)yin.it>
+References: <199708201852.LAx(at)y.rockisland.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+X-CalypsoFolder: "MESSAGGI\ricerca\OVERPOPULATION\John Goeckler FACING THE FUTURE"
+X-CalypsoMsgFlags: 0x820004 0x0
+X-CalypsoAccount: ""Archivio Postale" x(at)y>"
+
+Dear Danilo:
+
+Good to hear from you, my friend.  
+
+I'm afraid I no longer have the original data from the J Curve graph.  We
+had a computer system change in our office, and in cleaning up items no
+longer used, I deleted that graphic and spread sheet.  I can, however,
+reconstruct it in time.  How soon would you need it, and what sort of time
+intervals would your analyst prefer?  
+
+Because it was intended merely to indicate a trend line, many of the
+interim data were extrapolated from various estimates, and, therefore, do
+not allow for the frequent and large-scale setbacks of famine and plague.
+This means that accurately plotting shorter intervals would be nearly
+impossible.  
+
+Most of the original source data (from 10,000 BCE forward)is available from
+UNDP at gopher://gopher.undp.org/00/ungophers/popin/wdtrends/histor%09%09%2B
+
+and from the US Census Bureau at http://www.census.gov/ipc/www/worldhis.html
+
+I hope all is well with you.  Please let me know how I may be of service. 
+
+Best Regards,
+
+John
+
+
+John Goekler
+Executive Director
+Facing the Future: People and the Planet
+PO Box 606  Lopez Island, WA 98261
+phone / fax 360 468-3888
+x(at)ythefuture.org
+www.facingthefuture.org
+
+"It is in the space of mastery over paradigms that people throw off
+addictions, live in constant joy, bring down empires, get locked up or
+burned at the stake or crucified or shot, and have impacts that last for
+millennia."  Donella Meadows.
+
+Frx(at)yu Sep 25 20:23:31 1997
+Return-Pathx(at)ythefuture.org>
+Received: from cronus.rockisland.com by mondrian.sgol.it (SMI-8.6/SMI-SVR4-GB97082102)
+	id UAA13082; Thu, 25 Sep 1997 20:23:31 +0200
+Received: from Default (nts55.rockisland.com [199.217.72.105]) by cronus.rockisland.com (8.8.5/8.6.9) with SMTP id LAA01540 for <dax(at)yan.sgol.it>; Thu, 25 Sep 1997 11:30:40 -0700 (PDT)
+Date: Thu, 25 Sep 1997 11:30:40 -0700 (PDT)
+Message-Id: <199709251830.LAx(at)y.rockisland.com>
+X-Sender: x(at)ythefuture.org
+X-Mailer: Windows Eudora Light Version 1.5.2
+Mime-Version: 1.0
+To: dax(at)yan.sgol.it
+From: "Facing the Future: People and the Planetx(at)ythefuture.org>
+Content-Type: text/plain; charset="us-ascii"
+X-CalypsoFolder: "MESSAGGI\ricerca\OVERPOPULATION\John Goeckler FACING THE FUTURE"
+X-CalypsoMsgFlags: 0x820004 0x80
+X-CalypsoAccount: ""Archivio Postale" x(at)y>"
+
+Hi, Danilo:
+
+Here are a couple of sites that may help with the road rage phenomenon.  The
+first two are CNN pieces, and you may be able to turn up more with a search
+on the CNN home page at www.cnn.com.   
+
+http://cnn.com/US/9707/18/aggresive.driving/index.html  
+http://cnn.com/US/9708/26/road.ignorance/   
+
+http://www.nhtsa.dot.gov/nhtsa/announce/testimony/aggres2.html  contains the
+text of a speech by the NHTSA Administrator to the US Congress  in which he
+states that 1/3 of all accidents and 2/3 of all fatalities in this country
+are a result of road rage.  What's interesting, of course, is that while
+highway overcrowding and congestion are listed as key factors in road rage,
+nobody seems to tie it to the larger issue of population growth.
+
+http://www.aaafts.org/Text/research/roadrage.htm is the summary of a study
+by the American Auto Association.  The full text is also available from them at 
+http://www.aaafts.org/Text/research/agdrtext.htm
+
+I hope to make it back to Italy in the not-too-distant future.  I've been
+fortunate enough to spend some time in Riva del Garda (perhaps near your
+relatives?)  as well as in Como, Bellagio and other beautiful places around
+the lakes.  My wife's family is from a little town named Roazio, just west
+of Gattinara.  Italy is a ways off, however, because my next major journey
+will be to Egypt in January.  That should be a very interesting trip, not
+only because I am a history buff, but also because Egypt is a classic case
+study of population issues.
+
+Ciao and best regards,
+
+John
+
+
+
+
+John Goekler
+Executive Director
+Facing the Future: People and the Planet
+PO Box 606  Lopez Island, WA 98261
+phone / fax  360 468-3888
+http://www.facingthefuture.org
+
+
+Frx(at)ye Sep 23 22:22:16 1997
+Return-Pathx(at)ythefuture.org>
+Received: from cronus.rockisland.com by mondrian.sgol.it (SMI-8.6/SMI-SVR4-GB97082102)
+	id WAA27529; Tue, 23 Sep 1997 22:22:16 +0200
+Received: from Default (nts38.rockisland.com [199.217.72.88]) by cronus.rockisland.com (8.8.5/8.6.9) with SMTP id NAA02372 for <dax(at)yan.sgol.it>; Tue, 23 Sep 1997 13:29:07 -0700 (PDT)
+Date: Tue, 23 Sep 1997 13:29:07 -0700 (PDT)
+Message-Id: <199709232029.NAx(at)y.rockisland.com>
+X-Sender: x(at)ythefuture.org
+X-Mailer: Windows Eudora Light Version 1.5.2
+Mime-Version: 1.0
+To: "Danilo D'Antonio" <dax(at)yan.sgol.it>
+From: "Facing the Future: People and the Planetx(at)ythefuture.org>
+Subject: Re: your mail
+Content-Type: text/plain; charset="us-ascii"
+X-CalypsoFolder: "MESSAGGI\ricerca\OVERPOPULATION\John Goeckler FACING THE FUTURE"
+X-CalypsoMsgFlags: 0x820004 0x80
+X-CalypsoAccount: ""Archivio Postale" x(at)y>"
+
+Hi, Danilo:
+
+Fall is lovely here.  Warm and sunny.  What we call an "Indian summer."  I
+trust it is equally beautiful there?  (I have had the good fortune to be in
+northern Italy  a couple of times during the months of September and
+October, visiting family near Lago Maggiore and just traveling.  I hope to
+do so again in the future.)
+
+I'm afraid I'm not aware of anything that deals specifically with the
+psychological impacts of population growth.  There is a large body of
+evidence indicating correlations of social stress and human numbers, but it
+all esentially deals with symptoms and physical manifestations such as "road
+rage," crime rates, substance abuse etc.  
+
+As you note, researchers are more comfortable with describing the impacts of
+population density on other biological communities.  Perhaps that is because
+of the variability and paucity of data - for example much of Asia has long
+been far more densly population than most of Europe and North America, but
+has not experienced  until recently the manifestations of overcrowding
+stress.  One might suggest that it is a combination of lifestyle and
+population which determines human reactions.  Or, perhaps, the phenomenon is
+just too new in the human experience for us to be able to articulate it.
+(Or perhaps too scary to admit?)
+
+One thing that might be of some help is the work by the Peace and Conflict
+Studies program run by Thomas Homer-Dixon at the University of Toronto.
+(http://www.library.utoronto.ca/www/pcs/eps.htm)  They again document
+symptoms, but the correlation of "environmental stress" and the resultant
+psycho-social stress of population pressures are graphically apparent.
+
+Best Regards,
+
+John Goekler
+Executive Director
+Facing the Future: People and the Planet
+PO Box 606  Lopez Island, WA 98261
+phone / fax  360 468-3888
+http://www.facingthefuture.org
+
+
+Frx(at)yd Aug 20 20:53:30 1997
+Return-Pathx(at)ythefuture.org>
+Received: from cronus.rockisland.com by mondrian.sgol.it (SMI-8.6/SMI-SVR4-GB97250701)
+	id UAA00873; Wed, 20 Aug 1997 20:53:30 +0200
+Received: from Default (nts32.rockisland.com [199.217.72.82]) by cronus.rockisland.com (8.8.5/8.6.9) with SMTP id LAA06304 for <dax(at)yan.sgol.it>; Wed, 20 Aug 1997 11:52:25 -0700 (PDT)
+Date: Wed, 20 Aug 1997 11:52:25 -0700 (PDT)
+Message-Id: <199708201852.LAx(at)y.rockisland.com>
+X-Sender: x(at)ythefuture.org
+X-Mailer: Windows Eudora Light Version 1.5.2
+Mime-Version: 1.0
+To: "Danilo D'Antonio" <dax(at)yan.sgol.it>
+From: "Facing the Future: People and the Planetx(at)ythefuture.org>
+Subject: Re: Graphics
+X-Attachments: C:\MYDOCU~1\FACING~1\TECHNO~2\GRAPHICS\TRANSF~1\JCURVE~1.
+ JPG;
+Content-Type: multipart/mixed; boundary="=====================_872103765==_"
+X-CalypsoFolder: "MESSAGGI\ricerca\OVERPOPULATION\John Goeckler FACING THE FUTURE"
+X-CalypsoMsgFlags: 0x820004 0x80
+X-CalypsoAccount: ""Archivio Postale" x(at)y>"
+
+--=====================_872103765==_
+Content-type: text/plain
+
+Hi, Danilo:
+
+I had quite a good conference, thank you.  There was a lot of interest in
+population issues among the environmental community.  I also made a number
+of contacts that could further our distance learning projects.
+
+As far as the graphic, attached is a jpeg I just threw together that I hope
+will help out.  I'll build a better one in the not-too-distant future.
+Caption should be: Graphic copyright Facing the Future, 1997
+
+>When I read your WEB pages for the first time, the population growth graphic
+>of PRB struck me strongly. As much, that I was planning to print adhesives
+>with that image and few references, addresses, phone and a well constructed
+>sentence and then distribute them. What do you think about that?
+
+Sounds good.
+
+>Then: could you explain me more these two sentences?
+
+Sorry, not the greatest syntax.  How about. . .
+
+The greater the Earth's human population, the more food, water and energy we
+require.  This means more land must be placed under cultivation, more
+fertilizers and pesticides must be applied, and more water from rivers,
+lakes and aquifers must be utilized for human needs.  It also means more
+power plants must be built, and more oil, coal and natural gas must be
+burned to produce energy.  The impacts of these actions include accelerated
+destruction of natural areas, greater soil erosion and chemical runoff, and
+increased air and water pollution.  Followed to its conclusion, this also
+means decreased food production capacity, increased health problems, less
+habitat and therefore loss of biodiversity, and generally lower quality of life.
+
+As to the second. . .
+
+Life expectancy was short - perhaps 25 to 30 years - and births were
+essentially offset by deaths from hunger, accidents, disease or old age. 
+
+I'll look at your new pages shortly.  Should be quite a test of my VERY
+rusty Italian.
+
+Ciao,
+
+John
+
+Attachment Converted: C:\internet\Eudora\Attachments\JCURVE~1.JPG
+
+--=====================_872103765==_
+Frx(at)ye Aug 12 17:05:25 1997
+Return-Pathx(at)ythefuture.org>
+Received: from cronus.rockisland.com by mondrian.sgol.it (SMI-8.6/SMI-SVR4-GB97250701)
+	id RAA11897; Tue, 12 Aug 1997 17:05:25 +0200
+Received: from Default (nts26.rockisland.com [199.217.72.76]) by cronus.rockisland.com (8.8.5/8.6.9) with SMTP id IAA27710 for <dax(at)yan.sgol.it>; Tue, 12 Aug 1997 08:05:53 -0700 (PDT)
+Date: Tue, 12 Aug 1997 08:05:53 -0700 (PDT)
+Message-Id: <199708121505.IAx(at)y.rockisland.com>
+X-Sender: x(at)ythefuture.org
+X-Mailer: Windows Eudora Light Version 1.5.2
+Mime-Version: 1.0
+To: "Danilo D'Antonio" <dax(at)yan.sgol.it>
+From: "Facing the Future: People and the Planetx(at)ythefuture.org>
+Subject: Re: Graphics
+Content-Type: text/plain; charset="us-ascii"
+X-CalypsoFolder: "MESSAGGI\ricerca\OVERPOPULATION\John Goeckler FACING THE FUTURE"
+X-CalypsoMsgFlags: 0x820004 0x80
+X-CalypsoAccount: ""Archivio Postale" x(at)y>"
+
+Greetings, Danilo!
+
+Glad to hear you're going ahead with the project.   Perhaps in lieu of the
+other sections initially, you might include the Introduction section, to
+give people some sense of the connections between population and the
+environmental issues they care about.  Please let me know if there's any way
+I can help.
+
+As far as the PRB graphic, you'll need to contact Stefanie Durbin
+(stex(at)yg) for permission.  I intend to create one of our own in
+the near future that can be reproduced without permission, but that's a few
+weeks off.
+
+I would suggest using only the J curve one (Population Growth Through
+History) as the other (Time to Add Each Billion)  has been made somewhat
+obsolete by the newest projections from the UN.  You might prefer instead to
+use the updated World Population Projections graphic from our Trends page.  
+
+My apologies for the delay in replying.  I've been traveling a bit, and am
+leaving again tomorrow for five days to present at the North American
+Association of Environmental Educators conference.
+
+Best Regards.
+
+Ciao.
+
+John
+
+ps.  please note my new e-mail address.  Our server can't differentiate
+users by domain, so I had to change my user name at Facing the Future.
+
+
+Frx(at)yu Jul 31 17:46:16 1997
+Return-Path: <jgx(at)ythefuture.org>
+Received: from cronus.rockisland.com by mondrian.sgol.it (SMI-8.6/SMI-SVR4-GB97250701)
+	id RAA11194; Thu, 31 Jul 1997 17:46:16 +0200
+Received: from Default (nts50.rockisland.com [199.217.72.100]) by cronus.rockisland.com (8.8.5/8.6.9) with SMTP id IAA07980 for <dax(at)yan.sgol.it>; Thu, 31 Jul 1997 08:48:46 -0700 (PDT)
+Date: Thu, 31 Jul 1997 08:48:46 -0700 (PDT)
+Message-Id: <199707311548.IAx(at)y.rockisland.com>
+X-Sender: x(at)ythefuture.org
+X-Mailer: Windows Eudora Light Version 1.5.2
+Mime-Version: 1.0
+To: "Danilo D'Antonio" <dax(at)yan.sgol.it>
+From: "Facing the Future: People and the Planet" <jgx(at)ythefuture.org>
+Subject: Re: your mail
+Content-Type: text/plain; charset="us-ascii"
+X-CalypsoFolder: "MESSAGGI\ricerca\OVERPOPULATION\John Goeckler FACING THE FUTURE"
+X-CalypsoMsgFlags: 0x820004 0x80
+X-CalypsoAccount: ""Archivio Postale" x(at)y>"
+
+Dear Danilo:
+
+Thanks for your prompt reply.  
+
+Regarding reproducing our materials, our board president is amenable to your
+program.  However, she suggested that at the very least you should include
+"Population and the Environment," and "Economic and Social Impacts of
+Population Growth" along with History and Solutions.  Without an
+understanding of the ways human numbers interact with and exacerbate other
+issues, the message is not nearly as strong, nor as urgent.   We have
+learned in our work that people tend to accept the population message only
+when they understand how it impacts things they already care about.
+
+I would also argue for inclusion of "How Many People Can the Earth Support?"
+and "Tracking the Trends" because those six segments make up the core of our
+message.  I recognize that this makes your proposed project that much more
+difficult, but would again stress that this issue must be seen in context,
+and must touch people on both an intellectual and an emotional level for
+them to accept it.
+
+As far as the question of lowering impacts, this is an absolutely essential
+component.  It's important to realize that even if population were to
+stabilize immediately, global environmental impacts will still increase
+dramatically as individuals and nations move up the ladder of economic
+consumption and the food chain.  
+
+Currently, the one billion people in the industrialized world consume a
+significant majority of the world's resources.  But projections indicate
+that this will shift over the next few decades as developing countries
+modernize their economies and production capabilities.  The majority of
+carbon emissions, for example, are currently produced by industrialized
+nations.  But by around 2000, the developing world will catch up and become
+the largest carbon emitters.   
+
+Just as developing countries will increase their energy use - and resulting
+emissions - so will their increased affluence change the patterns of
+personal consumption.  As economies expand and people begin to have
+disposable income, they increase both their technology base and their
+consumption.  
+
+For example, in China, economic expansion and increased personal incomes for
+a significant percentage of the population are leading to a change in
+housing, transportation and eating habits.  Because they have more money,
+people want bigger houses with more modern conveniences, such as televisions
+and refrigerators.  In order to build that housing, land must be obtained
+(usually by converting farmland) and resources exploited and processed.  
+
+Bicycles are giving way to motorcycles, and motorcycles to automobiles,
+which results in more emissions, as well as a need for more land for roads,
+parking, repair shops and petrol stations, all of which must come largely
+from conversion of farmland or wild habitat.   Also, as China seeks to
+produce its own motorcycles and automobiles, it must generate more energy
+(typically from coal, with tremendous environmental impacts in the form of
+smog, acid rain and climate change) as well as convert more land for
+factories.  (Ford recently signed a contract to build an auto plant in China
+that will pave over thousands of hectares of very rich farmland.)
+
+And people who once subsisted primarily on rice now desire animal protein -
+poultry, pork and beef - all of which take far more grain to produce.  This
+demand for more grain drives demand for more farmland to produce it, which
+comes from conversion of forests or other wild habitat.  It also results in
+more fertilizers and pesticides applied, and increased pressures on aquifers
+and other water sources.
+
+This same cycle of unsustainable development is occurring throughout the
+developing world.  I think we have to remember that multinational
+corporations see the nearly five billion citizens of developing regions as a
+tremendous future market.  And that free trade is shifting income to those
+areas at a rapid rate.  (And who would argue that those five billion people
+aren't entitled to pursue the same levels of comfort, affluence and security
+that we in the industrialized world enjoy?)
+
+Perhaps the easiest way to explain all this to your audience is through
+Holdren and Ehrlich's formula, I = PAT (Impact equals Population times
+Affluence times Technology).
+
+If technology and affluence remain static but population increases, impacts
+obviously increase.  But if population remains static while affluence and/or
+technology increase, impacts also increase.   Today, all three factors are
+in play in developing countries.  There are more people, a rising level of
+economic development, and an increasing threshold of technology.  
+
+All of which is a long way of saying that the problems of overpopulation,
+unsustainable development patterns, environmental degradation, and social,
+economic and gender inequity are completely intertwined.  We can't simply
+work on one out of context and expect to solve the problem.  If we don't
+work on all the aspects of the problem simultaneously, we simply can't
+solve it.  
+
+And, by showing people how their own actions and lifestyles contribute to
+the problem, we not only move toward solving it, but also move away from the
+idea that it is someone else's problem.
+
+I look forward to your thoughts on this.
+
+Best Regards,
+
+John
+
+
+Frx(at)ye Jul 29 19:36:56 1997
+Return-Path: <jgx(at)ythefuture.org>
+Received: from cronus.rockisland.com by mondrian.sgol.it (SMI-8.6/SMI-SVR4-GB97250701)
+	id TAA00705; Tue, 29 Jul 1997 19:36:56 +0200
+Received: from Default (nts50.rockisland.com [199.217.72.100]) by cronus.rockisland.com (8.8.5/8.6.9) with SMTP id KAA19583 for <dax(at)yan.sgol.it>; Tue, 29 Jul 1997 10:39:40 -0700 (PDT)
+Date: Tue, 29 Jul 1997 10:39:40 -0700 (PDT)
+Message-Id: <199707291739.KAx(at)y.rockisland.com>
+X-Sender: x(at)ythefuture.org
+X-Mailer: Windows Eudora Light Version 1.5.2
+Mime-Version: 1.0
+To: "Danilo D'Antonio" <dax(at)yan.sgol.it>
+From: "Facing the Future: People and the Planet" <jgx(at)ythefuture.org>
+Subject: Re:your mail
+Content-Type: text/plain; charset="us-ascii"
+X-CalypsoFolder: "MESSAGGI\ricerca\OVERPOPULATION\John Goeckler FACING THE FUTURE"
+X-CalypsoMsgFlags: 0x820004 0x80
+X-CalypsoAccount: ""Archivio Postale" x(at)y>"
+
+At 17:34 7/24/97 +0200, you wrote:
+>Dear Friends of Facing the Future,
+
+>I send you my best greetings and thanks for your very useful work to promote
+>people's awareness on the serious overpopulation problem.
+>
+>I'm an italian social researcher. I work in the Eudaemony Laboratory, a
+>no-profit activitie that developes new peace and prosperity tools. You may
+>find it at the address in the signature.
+>
+>I visited your Site with very interest and I've thinked to translate a
+>writing of yours in italian language to send it to people in our mailing
+>lists and publish it on the WEB, too. Our aim is to sensibilize italian
+>people on this great problem of the overpopulation, till now completely
+>ignored here.
+>
+>What do you think about that? If you agree with this idea and request, we
+>would need know the authors of Facing the Future's writings, if it is possible.
+>
+>Looking forward to read your kind words and hoping to start in future a real
+>cooperation between our initiatives, I thank and greet you again.
+>
+>Danilo D'Antonio
+>
+>LABORATORIO EUDEMONIA
+>Piazza del Municipio - 64100 - Teramo - Italy
+>tel: 0861/415655 - e.mail: dax(at)yt
+>http://oasi.asti.it/Homes/eudemonia/
+
+
+Dear Mr. D'Antonio:
+
+Thank you for your mail and kind comments regarding our web page.  We would
+be interested in your publishing our materials in Italian and disseminating
+them via the web and your listserve.  
+
+Are there specific components of our site you would like use, or are you
+interested in the entire content? Unless you have a specific portion in
+mind, you might want to check out our updated site which is scheduled to
+come on-line next week  You can preview it at
+http://www.facingthefuture.org/test/index.html.
+
+Please let me know any specifics so that I may clear them with my board.
+Assuming that no difficulties are encountered, I can e-mail you the original
+text files for translation.  I am the author of all the material on our site
+with the exception of the Curriculum Guide, part of which was cooperatively
+developed with a number of teachers and advisers.
+
+Best Regards,
+
+John Goekler
+Executive Director
+
+

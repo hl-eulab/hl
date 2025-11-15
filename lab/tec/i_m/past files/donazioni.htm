@@ -1,0 +1,178 @@
+<HTML>
+
+<!-- Copyright © 37 Laboratorio Eudemonia -->
+
+<HEAD>
+
+<link rel=stylesheet href="i_m_1.css" type="text/css">
+
+<meta name="description" content="">
+
+<meta name="keywords" content="">
+
+<TITLE>IL MERIDIANO DI INTERNET - Laboratorio Eudemonia</TITLE>
+
+<script language="javascript">
+
+<!-- Local & Internet Time Clocks script V1.8    -->
+<!-- Copyright © 35 Eudaemony Laboratory         -->
+<!-- Use it at your own risk                     -->
+<!-- and by quoting this copyright note          -->
+<!-- http://www.hyperlinker.com/tec/i_m/                -->
+
+function clocks(){
+
+var date = new Date()
+
+var hours = date.getHours()
+var minutes = date.getMinutes()
+var seconds = date.getSeconds()
+
+var month = date.getMonth();
+var day = date.getDate();
+
+var tzos = date.getTimezoneOffset()/60
+
+var cali = hours + (date.getTimezoneOffset()/60) - 8   // Pacific dayligh saving time
+
+
+if (((month == 3 && day < 21) || (month < 3)) && ((month > 9 && day > 21) || (month > 9)))
+    cali = cali - 1
+
+if (hours < 10)
+    hours = "0" + hours;
+if (minutes < 10)
+    minutes = "0" + minutes;
+if (seconds < 10)
+    seconds = "0" + seconds;
+
+if (cali < 7)
+    cali = cali + 24
+if (cali >= 24)
+    cali = cali - 24
+if (cali < 10)
+    cali = "0" + cali
+
+document.clocks.local.value = hours + ":" + minutes + ":" + seconds
+document.clocks.internet.value = cali + ":" + minutes + ":" + seconds
+
+setTimeout("clocks()",1000)
+
+}
+
+</script>
+
+</HEAD>
+
+<BODY onload="clocks()" bgcolor="#000040" text="white" LINK="#fef9cf" ALINK="#fbfaf8" VLINK="white">
+
+<CENTER>
+
+<table bgcolor="#000040" width="100%" height="100%"><tr><td align="center" valign="middle">
+
+<table bgcolor="black" bordercolor="#808000" border="1" width="700pt">
+
+<tr><td align="left" valign="top">
+
+<img src="banner_it.jpg">
+
+<table bgcolor="black" width="700pt" cellpadding="33pt">
+
+<tr><td align="left" valign="top">
+
+<FONT FACE="VERDANA" COLOR="WHITE" SIZE="2">
+
+<div align="justify">
+
+Se apprezzate e desiderate donare, ecco i miei dati.
+
+<br><br><br>
+
+Se usate PayPal inviate al mio email:
+
+<br><br>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- Original:  CDR Software -->
+<!-- Web Site:  http://www.cdrsoft.com  -->
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+
+user = "laboratorio";
+site = "hyperlinker.com";
+
+document.write('<font color=yellow><a class=lightlinkyellow href=\"mailto:' + user + '@' + site + '\">');
+document.write(user + '@' + site + '</a></font>');
+
+// End -->
+</SCRIPT>
+
+<br><br>
+
+Se usate i BitCoin inviate al mio indirizzo:
+
+<br><br>
+
+<font color="yellow">
+
+<a class="lightlinkyellow" href="qr_code.png" target="qr_code">15NkMxSrV6nk4AgJQADEe7LXU7cwGYJEW7</a>
+
+</font>
+
+<br><br>
+
+Da parte mia vi ringrazio molto fin d'ora.
+
+<br><br><br>
+
+<a class="simple" href="http://www.hyperlinker.com/hyperlinker_it.htm">HyperLinker</a><img src="blank.gif" width="12%" height="1pt">
+
+</div>
+
+</font>
+
+<br><br><br><br>
+
+<center>
+
+<hr color="yellow" size="1">
+
+<FONT FACE="VERDANA" color="#00ffff" SIZE="2">
+
+<form name="clocks">
+Internet Time:<img src="blank.gif"><img src="blank.gif"><input type="text" name="internet" size="7" value="internet time">
+<img src="blank.gif"><img src="blank.gif"><img src="blank.gif"><img src="blank.gif">
+Local Time:<img src="blank.gif"><img src="blank.gif"><input type="text" name="local" size="7" value="local time">
+</form>
+
+</FONT>
+
+<hr color="yellow" size="1">
+
+</center>
+
+<br><br>
+
+<center>
+
+<FONT face="verdana" color="#00ff00" size="1"><i><a class="linkhs" HREF="index.htm">IL MERIDIANO DI INTERNET</a><br>
+<a class="linkhs" HREF="legale.htm">Copyright ©</a> <a class="linkhs" href="http://www.hyperlinker.com/eulab/" target="Laboratorio Eudemonia">Laboratorio Eudemonia</a>. <a class="linkhs" HREF="legale.htm">Alcuni diritti concessi</a><br>
+<a class="linkhs" HREF="storia.htm">WebSite attivo dal</a> <a class="linkhs" HREF="http://www.hyperlinker.com/tec/anni.htm">37</a> - <a class="linkhs" href="http://www.hyperlinker.com/" target="HyperLinker">WebWorks by HyperLinker</a>
+</FONT>
+
+</center>
+
+</td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+</CENTER>
+
+</BODY>
+</HTML>

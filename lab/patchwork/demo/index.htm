@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Patchwork Model ™ - Interactive Demo</title>
+    <meta name="description" content="Il Modello Patchwork ™ - Sistema interattivo di deliberazione democratica per DAO e gruppi">
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    
+    <script type="text/babel">
+        const { useState, useEffect } = React;
+
+        // Genera membri fittizi
+        const generateMembers = (count) => {
+          const names = ['Alice', 'Bob', 'Charlie', 'Diana', 'Eva', 'Frank', 'Grace', 'Henry', 'Iris', 'Jack', 'Kate', 'Leo', 'Maya', 'Noah', 'Olivia', 'Peter', 'Quinn', 'Rose', 'Sam', 'Tina', 'Uma', 'Victor', 'Wendy', 'Xander', 'Yara', 'Zoe', 'Alex', 'Blake', 'Casey', 'Drew'];
+          const votes = ['favorable', 'contrary', 'abstained', 'waiting'];
+          const reasons = {
+            favorable: ['Great for decentralization!', 'This will improve governance', 'Finally a fair system', 'I support this change'],
+            contrary: ['Too complex to implement', 'Not convinced yet', 'Need more discussion', 'Prefer current system'],
+            abstained: ['Need more information', 'Waiting to decide', 'Still researching', 'Neutral for now'],
+            waiting: ['', '', '', '']
+          };
+          
+          return Array.from({ length: count }, (_, i) => ({
+            id: i,
+            name: names[i % names.length] + (i >= names.length ? ` ${Math.floor(i / names.length) + 1}` : ''),
+            vote: votes[Math.floor(Math.random() * votes.length)],
+            reason: '',
+            timestamp: new Date(Date.now() - Math.random() * 7 * 24 * 60 * 60 * 1000).toISOString()
+          })).map(member => ({
+            ...member,
+            reason: member.vote === 'waiting' ? '' : reasons[member.vote][Math.floor(Math.random() * reasons[member.vote].length)]
+          }));
+        };
+
+        // Icone semplici come SVG
+        const Users = () => (
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/>
+            <circle cx="9" cy="7" r="4"/>
+            <path d="M22 21v-2a4 4 0 0 0-3-3.87"/>
+            <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+          </svg>
+        );
+
+        const TrendingUp = () => (
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/>
+            <polyline points="17 6 23 6 23 12"/>
+          </svg>
+        );
+
+        const MessageCircle = () => (
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+          </svg>
+        );
+
+        const Info = () => (
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="12" y1="16" x2="12" y2="12"/>
+            <line x1="12" y1="8" x2="12.01" y2="8"/>
+          </svg>
+        );
+
+        const PatchworkDemo = () => {
+          const [members, setMembers] = useState([]);
+          const [selectedMember, setSelectedMember] = useState(null);
+          const [hoveredMember, setHoveredMember] = useState(null);
+          const [isAnimating, setIsAnimating] = useState(false);
+          const gridSize = 10;
+
+          useEffect(() => {
+            setMembers(generateMembers(100));
+          }, []);
+
+          const getVoteColor = (vote) => {
+            switch(vote) {
+              case 'favorable': return 'bg-green-500';
+              case 'contrary': return 'bg-red-500';
+              case 'abstained': return 'bg-yellow-400';
+              case 'waiting': return 'bg-white border-2 border-gray-300';
+              default: return 'bg-gray-200';
+            }
+          };
+
+          const getStats = () => {
+            const total = members.length;
+            const favorable = members.filter(m => m.vote === 'favorable').length;
+            const contrary = members.filter(m => m.vote === 'contrary').length;
+            const abstained = members.filter(m => m.vote === 'abstained').length;
+            const waiting = members.filter(m => m.vote === 'waiting').length;
+            
+            return { total, favorable, contrary, abstained, waiting };
+          };
+
+          const stats = getStats();
+
+          const simulateConvergence = () => {
+            setIsAnimating(true);
+            let step = 0;
+            const maxSteps = 20;
+            
+            const interval = setInterval(() => {
+              setMembers(prev => prev.map(member => {
+                if (member.vote === 'waiting' && Math.random() > 0.5) {
+                  return { ...member, vote: 'favorable', reason: 'Convinced through discussion!' };
+                }
+                if (member.vote === 'contrary' && Math.random() > 0.7) {
+                  return { ...member, vote: 'abstained', reason: 'Reconsidering my position' };
+                }
+                if (member.vote === 'abstained' && Math.random() > 0.6) {
+                  return { ...member, vote: 'favorable', reason: 'Now I understand better' };
+                }
+                return member;
+              }));
+              
+              step++;
+              if (step >= maxSteps) {
+                clearInterval(interval);
+                setIsAnimating(false);
+              }
+            }, 300);
+          };
+
+          const resetVotes = () => {
+            setMembers(generateMembers(100));
+            setSelectedMember(null);
+          };
+
+          return (
+            <div className="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50 p-4">
+              <div className="max-w-7xl mx-auto">
+                {/* Header */}
+                <div className="text-center mb-8 pt-4">
+                  <h1 className="text-5xl font-bold mb-3 bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
+                    The Patchwork Model ™
+                  </h1>
+                  <p className="text-xl text-gray-700 mb-2">Interactive Deliberation System</p>
+                  <p className="text-sm text-gray-600 italic">20 years in the making, perfect today for DAOs and modern Nations</p>
+                  <a href="../index.htm" className="inline-block mt-3 text-indigo-600 hover:text-indigo-800 underline text-sm">
+                    ← Torna alla documentazione completa
+                  </a>
+                </div>
+
+                {/* Mozione */}
+                <div className="bg-white rounded-2xl shadow-xl p-6 mb-6 border-2 border-indigo-100">
+                  <div className="flex items-start gap-4">
+                    <div className="bg-indigo-100 p-3 rounded-xl">
+                      <MessageCircle />
+                    </div>
+                    <div className="flex-1">
+                      <h2 className="text-2xl font-bold text-gray-800 mb-2">
+                        Motion #2024-001
+                      </h2>
+                      <p className="text-lg text-gray-700 mb-3">
+                        "Should our DAO implement quadratic voting for treasury decisions?"
+                      </p>
+                      <p className="text-sm text-gray-600">
+                        Quadratic voting would give more voice to smaller token holders while preventing whale dominance. Each member can discuss and change their position.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Stats Dashboard */}
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+                  <div className="bg-green-50 rounded-xl p-4 border-2 border-green-200">
+                    <div className="text-green-700 text-sm font-semibold mb-1">Favorable</div>
+                    <div className="text-3xl font-bold text-green-600">{stats.favorable}</div>
+                    <div className="text-xs text-green-600">{((stats.favorable/stats.total)*100).toFixed(1)}%</div>
+                  </div>
+                  <div className="bg-red-50 rounded-xl p-4 border-2 border-red-200">
+                    <div className="text-red-700 text-sm font-semibold mb-1">Contrary</div>
+                    <div className="text-3xl font-bold text-red-600">{stats.contrary}</div>
+                    <div className="text-xs text-red-600">{((stats.contrary/stats.total)*100).toFixed(1)}%</div>
+                  </div>
+                  <div className="bg-yellow-50 rounded-xl p-4 border-2 border-yellow-200">
+                    <div className="text-yellow-700 text-sm font-semibold mb-1">Abstained</div>
+                    <div className="text-3xl font-bold text-yellow-600">{stats.abstained}</div>
+                    <div className="text-xs text-yellow-600">{((stats.abstained/stats.total)*100).toFixed(1)}%</div>
+                  </div>
+                  <div className="bg-gray-50 rounded-xl p-4 border-2 border-gray-200">
+                    <div className="text-gray-700 text-sm font-semibold mb-1">Waiting</div>
+                    <div className="text-3xl font-bold text-gray-600">{stats.waiting}</div>
+                    <div className="text-xs text-gray-600">{((stats.waiting/stats.total)*100).toFixed(1)}%</div>
+                  </div>
+                </div>
+
+                {/* Controls */}
+                <div className="bg-white rounded-2xl shadow-xl p-4 mb-6 border-2 border-purple-100">
+                  <div className="flex flex-wrap gap-3 items-center justify-center">
+                    <button
+                      onClick={simulateConvergence}
+                      disabled={isAnimating}
+                      className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-6 py-3 rounded-xl font-semibold hover:from-indigo-700 hover:to-purple-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all shadow-lg hover:shadow-xl flex items-center gap-2"
+                    >
+                      <TrendingUp />
+                      <span>{isAnimating ? 'Convergence in Progress...' : 'Simulate Convergence'}</span>
+                    </button>
+                    <button
+                      onClick={resetVotes}
+                      className="bg-gray-600 text-white px-6 py-3 rounded-xl font-semibold hover:bg-gray-700 transition-all shadow-lg hover:shadow-xl"
+                    >
+                      Reset Votes
+                    </button>
+                  </div>
+                  <p className="text-center text-sm text-gray-600 mt-3">
+                    Click "Simulate Convergence" to see how discussion transforms disagreement into harmony
+                  </p>
+                </div>
+
+                {/* The Patchwork Grid */}
+                <div className="bg-white rounded-2xl shadow-2xl p-6 mb-6 border-2 border-pink-100">
+                  <div className="flex items-center gap-3 mb-4">
+                    <Users />
+                    <h3 className="text-2xl font-bold text-gray-800">The Patchwork</h3>
+                    <span className="text-sm text-gray-600">({members.length} members)</span>
+                  </div>
+                  
+                  <div className="grid gap-1 mb-4" style={{
+                    gridTemplateColumns: `repeat(${gridSize}, minmax(0, 1fr))`
+                  }}>
+                    {members.map((member) => (
+                      <div
+                        key={member.id}
+                        className={`aspect-square ${getVoteColor(member.vote)} rounded cursor-pointer transition-all duration-200 hover:scale-110 hover:shadow-lg relative`}
+                        onMouseEnter={() => setHoveredMember(member)}
+                        onMouseLeave={() => setHoveredMember(null)}
+                        onClick={() => setSelectedMember(member)}
+                      />
+                    ))}
+                  </div>
+
+                  {/* Hover Tooltip */}
+                  {hoveredMember && (
+                    <div className="bg-gray-800 text-white p-3 rounded-lg text-sm mb-4">
+                      <div className="font-bold">{hoveredMember.name}</div>
+                      <div className="text-xs opacity-80 capitalize">Vote: {hoveredMember.vote}</div>
+                      {hoveredMember.reason && (
+                        <div className="text-xs mt-1 italic">"{hoveredMember.reason}"</div>
+                      )}
+                    </div>
+                  )}
+
+                  {/* Legend */}
+                  <div className="flex flex-wrap gap-4 justify-center text-sm">
+                    <div className="flex items-center gap-2">
+                      <div className="w-4 h-4 bg-green-500 rounded"></div>
+                      <span className="text-gray-700 font-medium">Favorable vote</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="w-4 h-4 bg-red-500 rounded"></div>
+                      <span className="text-gray-700 font-medium">Contrary vote</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="w-4 h-4 bg-yellow-400 rounded"></div>
+                      <span className="text-gray-700 font-medium">Abstained</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="w-4 h-4 bg-white border-2 border-gray-300 rounded"></div>
+                      <span className="text-gray-700 font-medium">Waiting for vote</span>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Member Detail Modal */}
+                {selectedMember && (
+                  <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50" onClick={() => setSelectedMember(null)}>
+                    <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full p-6" onClick={e => e.stopPropagation()}>
+                      <div className="flex items-start justify-between mb-4">
+                        <div>
+                          <h3 className="text-2xl font-bold text-gray-800">{selectedMember.name}</h3>
+                          <p className="text-sm text-gray-600 capitalize">Current position: {selectedMember.vote}</p>
+                        </div>
+                        <button
+                          onClick={() => setSelectedMember(null)}
+                          className="text-gray-400 hover:text-gray-600 text-2xl"
+                        >
+                          ×
+                        </button>
+                      </div>
+                      
+                      {selectedMember.reason && (
+                        <div className="bg-gray-50 p-4 rounded-lg mb-4">
+                          <p className="text-sm text-gray-700 italic">"{selectedMember.reason}"</p>
+                        </div>
+                      )}
+
+                      <div className="mb-4">
+                        <p className="text-sm text-gray-600 mb-3">
+                          <strong>In TPM, you can:</strong>
+                        </p>
+                        <ul className="text-sm text-gray-600 space-y-2 ml-4">
+                          <li>• Start a discussion with {selectedMember.name}</li>
+                          <li>• Share your perspective</li>
+                          <li>• Ask questions and clarifications</li>
+                          <li>• Work together toward consensus</li>
+                        </ul>
+                      </div>
+
+                      <button
+                        className="w-full bg-gradient-to-r from-indigo-600 to-purple-600 text-white py-3 rounded-xl font-semibold hover:from-indigo-700 hover:to-purple-700 transition-all"
+                        onClick={() => setSelectedMember(null)}
+                      >
+                        Start Discussion
+                      </button>
+                    </div>
+                  </div>
+                )}
+
+                {/* Info Box */}
+                <div className="bg-gradient-to-r from-indigo-50 to-purple-50 rounded-2xl p-6 border-2 border-indigo-200">
+                  <div className="flex items-start gap-3">
+                    <Info />
+                    <div>
+                      <h4 className="font-bold text-gray-800 mb-2">How The Patchwork Model ™ works</h4>
+                      <ul className="text-sm text-gray-700 space-y-2">
+                        <li>• <strong>Visual Democracy:</strong> Every colored square represents a real person's position</li>
+                        <li>• <strong>Interactive Deliberation:</strong> Click any square to engage in dialogue</li>
+                        <li>• <strong>Dynamic Evolution:</strong> Opinions change through discussion, not coercion</li>
+                        <li>• <strong>Strong Agreement:</strong> The goal is harmony, not just majority</li>
+                        <li>• <strong>Perfect for DAOs:</strong> Combines transparency, engagement, and true consensus-building</li>
+                      </ul>
+                      <p className="text-xs text-gray-600 mt-4 italic">
+                        Conceived in 2005, this solution has waited for the perfect moment. That moment is now for Nations seeking a true Democracy and for the potential of modern organizations like DAOs.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Footer */}
+                <div className="text-center mt-8 pb-4">
+                  <p className="text-sm text-gray-600">
+                    © Laboratorio Eudemonia - The Patchwork Model ™
+                  </p>
+                  <p className="text-xs text-gray-500 mt-1">
+                    <a href="https://hyperlinker.altervista.org/patchwork/" className="hover:text-indigo-600">
+                      hyperlinker.altervista.org/patchwork
+                    </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          );
+        };
+
+        // Render dell'app
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<PatchworkDemo />);
+    </script>
+</body>
+</html>

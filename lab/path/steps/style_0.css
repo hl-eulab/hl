@@ -1,0 +1,62 @@
+/* Laboratorio Eudemonia style sheet */
+
+
+a.lightlink {}
+.lightlink:hover {background: red}
+
+a.lightlinky {}
+.lightlinky:hover {background: blue}
+
+a.ll01 {text-decoration: none}
+.ll01:hover {background: blue; text-decoration: none}
+
+a.ll02 {text-decoration: none}
+.ll02:hover {text-decoration: underline}
+
+a.ll03 {text-decoration: none; color: #e6ffe6}
+.ll03:hover {text-decoration: underline}
+
+a.underline {text-decoration: underline}
+.underline:hover {text-decoration: none}
+
+a.noline {text-decoration: none}
+.noline:hover {text-decoration: underline}
+
+a.sentiero {text-decoration: none}
+.sentiero:hover {background: yellow; text-decoration: none}
+
+a.om_sign {text-decoration: none; color: #afafaf}
+.om_sign:hover {text-decoration: underline}
+
+
+a.sentiero {text-decoration: none}
+.sentiero:hover {background: ffff80; text-decoration: underline}
+
+a.path_link_0 {background: #005300; color: white; text-decoration: none}
+.path_link_0:hover {background: #00ff00; color: green; text-decoration: none}
+
+a.path_link_1 {color: white; text-decoration: none}
+.path_link_1:hover {background: white; color: green; text-decoration: none}
+
+a.path_link_2 {color: green; text-decoration: none}
+.path_link_2:hover {background: green; color: white; text-decoration: none}
+
+a.path_link_3 {color: #004000; text-decoration: none}
+.path_link_3:hover {background: green; color: white; text-decoration: none}
+
+a.path_sig {color: #004000; text-decoration: none}
+.path_sig:hover {color: #008000; text-decoration: underline}
+
+
+
+a.red {color: red; text-decoration: none}
+.red:hover {background: #004000; color: white; text-decoration: none}
+
+
+
+/* not used */
+
+.sign {font-family: verdana; color: yellow; font-size: 8pt; text-decoration: none}
+
+
+

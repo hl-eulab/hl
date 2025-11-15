@@ -1,0 +1,99 @@
+/* Laboratorio Eudemonia style sheet */
+
+a  { text-decoration: none }
+
+a.lightlink {}
+.lightlink:hover {background: white; text-decoration: underline}
+
+a.lightlinkg {color: green}
+.lightlinkg:hover {background: white; color: green; text-decoration: underline}
+
+a.lightlinkr {color: red}
+.lightlinkr:hover {background: white; color: red; text-decoration: underline}
+
+a.lightlinky {}
+.lightlinky:hover {background: blue}
+
+a.ll01 {text-decoration: none}
+.ll01:hover {background: blue; text-decoration: none}
+
+a.ll02 {text-decoration: none}
+.ll02:hover {text-decoration: underline}
+
+a.underline {text-decoration: underline}
+.underline:hover {text-decoration: none}
+
+.white {color: white; text-decoration: none}
+.white:hover {color: white; text-decoration: underline}
+
+.orange {color: orange; text-decoration: none}
+.orange:hover {color: orange; text-decoration: underline}
+
+
+.noline {text-decoration: none}
+.noline:hover {text-decoration: underline}
+
+a.redline {color: red; text-decoration: underline}
+.redline:hover {color: navy; text-decoration: none}
+
+a.blueline {color: blue; text-decoration: underline}
+.blueline:hover {color: navy; text-decoration: none}
+
+a.greenline {color: green; text-decoration: underline}
+.greenline:hover {color: navy; text-decoration: none}
+
+a.violetline {color: 8000ff; text-decoration: underline}
+.violetline:hover {color: navy; text-decoration: none}
+
+a.rednoline {color: red; text-decoration: none}
+.rednoline:hover {color: navy; text-decoration: underline}
+
+
+.ecosciopero {color: orange; text-decoration: none}
+.ecosciopero:hover {color: orange; text-decoration: underline}
+
+a.ecosciopero_1 {background: white; color: green}
+.ecosciopero_1:hover {background: white; color: green; text-decoration: underline}
+
+a.ecosciopero_2 {background: white; color: green}
+.ecosciopero_2:hover {background: white; color: green; text-decoration: underline}
+
+
+a.dpcsc {color: red; text-decoration: underline}
+.dpcsc:hover {color: green; text-decoration: none}
+
+
+span.1 { font-family: arial; font-size: 10pt; color: navy }
+span.2 { font-family: arial; font-size: 11pt; color: navy }
+span.3 { font-family: arial; font-size: 14pt; color: navy }
+span.4 { font-family: arial; font-size: 15pt; color: navy }
+span.5 { font-family: arial; font-size: 18pt; color: navy }
+span.6 { font-family: arial; font-size: 20pt; color: navy }
+span.7 { font-family: arial; font-size: 22pt; color: navy }
+
+
+span.red { font-size: 8pt; color: red }
+
+center.normal { font-size: 10pt; font-weight: bold }
+
+
+
+
+
+
+
+a.cdd_prop {color: navy; text-decoration: none}
+.cdd_prop:hover {color: red; text-decoration: underline}
+
+
+a.cdd_member {color: navy; text-decoration: none}
+.cdd_member:hover {color: red; text-decoration: underline}
+
+
+a.cdd_answer_no {color: white; text-decoration: underline}
+.cdd_answer_no:hover {color: navy; text-decoration: none}
+
+
+a.cdd_answer_yes {color: white; text-decoration: underline}
+.cdd_answer_yes:hover {color: navy; text-decoration: none}
+

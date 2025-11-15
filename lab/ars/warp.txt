@@ -1,0 +1,142 @@
+Date:    07/08/2009 2.11
+From:    Laboratorio Eudemonia
+To:      mfe@yahoogroups.com
+Copy:    
+Subject: [Forum MFE-GFE] Pubblica amministrazione in prospettiva europea ed oltre
+
+Received: (qmail 7525 invoked from network); 7 Aug 2009 02:11:55 -0700
+Received: from n59d.bullet.mail.sp1.yahoo.com (98.136.45.84) by 206.41.120.28 with SMTP; 7 Aug 2009 02:11:55 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1249636320; bh=KH5tqkPyeAOVOho9+k2hghQ21hXo7LVY/jCiuN8Mu9s=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=r+sAXIhH13+olGRvox6WeAYNezRGMJyAuCmeOO3zAF3bmVm7SPG/GytbOJravYZAjUWh9J7BhzReitUgV5q0mvVSW/54IGlEKOlK6y8st2nHoUOSPGR95mE74GMsxY12
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=ExWsJqxrmaLuDyve+45gKocwRluNrMXRXY/hBqGB6QRfQfTnNpm12PppI/5Se+LVYyBSufEZbk00Yx86ASo+qKJENUgywv9wb62bls+bbsyzmDZPHhweY3KyoWqHehyq;
+Received: from [69.147.65.174] by n59.bullet.mail.sp1.yahoo.com with NNFMP; 07 Aug 2009 09:12:00 -0000
+Received: from [98.137.34.40] by t12.bullet.mail.sp1.yahoo.com with NNFMP; 07 Aug 2009 09:12:00 -0000
+X-Yahoo-Newman-Id: 230412-m15857
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: mfe@yahoogroups.com
+X-Received: (qmail 22884 invoked from network); 7 Aug 2009 09:11:56 -0000
+X-Received: from unknown (69.147.108.201) by m4.grp.sp2.yahoo.com with QMQP; 7 Aug 2009 09:11:56 -0000
+X-Received: from unknown (HELO smtp-out113.alice.it) (85.37.17.113) by mta2.grp.re1.yahoo.com with SMTP; 7 Aug 2009 09:11:56 -0000
+X-Received: from FBCMMO01.fbc.local ([192.168.68.195]) by smtp-out113.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 7 Aug 2009 11:11:32 +0200
+X-Received: from FBCMCL01B02.fbc.local ([192.168.69.83]) by FBCMMO01.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 7 Aug 2009 11:11:14 +0200
+X-Received: from out.alice.it ([87.6.182.91]) by FBCMCL01B02.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 7 Aug 2009 11:11:14 +0200
+Message-ID: <200908071111130734.000F4FFB@out.alice.it>
+References: <200908071021450781.0095E54A@out.alice.it> <200908071029540031.009D5884@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: mfe@yahoogroups.com
+X-OriginalArrivalTime: 07 Aug 2009 09:11:14.0445 (UTC) FILETIME=[039C8BD0:01CA173F]
+X-Originating-IP: 85.37.17.113
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: dan_hyperlinker
+Sender: mfe@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list mfe@yahoogroups.com; contact mfe-owner@yahoogroups.com
+Delivered-To: mailing list mfe@yahoogroups.com
+List-Id: <mfe.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:mfe-unsubscribe@yahoogroups.com>
+Date: Fri, 07 Aug 2009 11:11:13 +0200
+Subject: [Forum MFE-GFE] Pubblica amministrazione in prospettiva europea ed oltre
+Reply-To: eulab@hyperlinker.com
+X-Yahoo-Newman-Property: groups-email-tradt-m
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+-------------------
+  Eppur si muove!
+-------------------
+
+
+
+"... Sia in Italia che in Francia, il principale canale di ingresso al pubblico impiego rimane il concorso, ma le riforme avviate puntano a razionalizzare l’utilizzo della forza di lavoro pubblica, a valorizzare le competenze e le professionalità e a favorire lo scambio e la mobilità  interna, europea ed internazionale dei dipendenti pubblici. A questo proposito, il governo francese si avvale, dal 2000, delle attività svolte dall’Osservatorio sul pubblico impiego, che fornisce annualmente informazioni sul numero e il profilo dei funzionari pubblici e sul fabbisogno delle diverse amministrazioni mediante le quali il Ministero della Funzione Pubblica attua una serie di misure tese a migliorare la gestione delle risorse umane. Altri strumenti innovativi a favore dell’efficienza amministrativa sono la Bourse nationale de l’emploi de la Fonction Publique d’etat, territoriale ou hospitaliere, operativa dal 2003, che consiste in uno spazio telematico di incontro tra domanda e offerta di lavoro pubblico, disponibile in rete all’interno del sito ufficiale della Fonction Publique ..."
+
+
+Tratto dall'Abstract del Rapporto di ricerca:
+
+"Accesso, mobilità e innovazione nella pubblica amministrazione in prospettiva europea. I sistemi italiano, francese e britannico a confronto"
+
+disponibile at:
+
+http://governance.formez.it/documenti/mobilita-nel-pubblico/preview_html?file=file&file_html=file_html
+
+
+In somma gli STATALI stanno organizzandosi un bel sistema di gestione del lavoro, che però si differenzia dal:
+
+http://Public-Work-2.0.hyperlinker.org
+
+concepito dal Laboratorio Eudemonia per due precise quanto fondamentali ragioni:
+
+
+1) Public Work 2.0 si rivolge a TUTTI i cittadini abili e desiderosi di svolgere una determinata funzione pubblica, rendendo partecipativa, quindi realmente democratica e repubblicana, la società. Precisamente viene abolita la casta statale: la cerchia di fiancheggiatori di una malefica Elite fidelizzati a vita secondo l'ottocentesco sistema monarchico. Viene invece affermato pienamente il nuovo sistema repubblicano, basato su una necessaria stima reciproca tra governi e popolazione. Di fatto viene scongiurata per sempre la tentazione da parte dei governi di comportarsi malamente dietro lo scudo protettivo degli statali. E può così crearsi una economia pubblica produttiva all'altezza e bilanciante l'economia privata.
+
+2) Public Work 2.0 integra l'elevato potere professionale della specializzazione con l'ampio potere professionale della organicità. Tale composito strumento telematico permette a tutti gli spazi cultural/socio/politico/economici di venir colmati con un'ampia rosa di informazioni e sensibilità percettive altrimenti mancanti. Esso offre al lavoratore la possibilità (non l'obbligo! la possibilità) di spostarsi non solo verticalmente, lungo un percorso di carriera, ma anche orizzontalmente, oltre i suoi ambiti conosciuti, in un percorso di saggezza. In tal modo non solo si evitano i pesanti problemi derivanti dal ricorso all'esclusivo approccio specialistico ma anzi si mettono ben a frutto le consapevolezze derivanti da ogni specializzazione in tutte le altre.
+
+
+Public Work 2.0, grazie a queste sue due caratteristiche, che permettono un intercambio continuo di lavoratori anche tra settore pubblico e privato, quindi una libera circolazione di persone ed idee, favorisce un amalgama ed una coesione sociale, una unione armoniosa, un affratellamento diffuso e generale, in grado di rendere la società estremamente potente. Esso la conduce a superare la presente condizione di costante insufficiente fabbisogno interno d'ogni tipo di bene, materiale od immateriale, con un forte surplus in grado di farle addirittura dimenticare se stessa, perché sarà divenuta a quel punto un corpo squisitamente sano. E potrà così finalmente affrontare impegni che esulano dal proprio essere e di interagire adeguatamente, onorevolmente con il resto dell'Universo.
+
+Public Work 2.0, evolvendo esso stesso per primo in sempre più raffinate versioni successive, è complessivamente in grado di trasformare la presente umana società, caratterizzata da scarsissima velocità evolutiva, spesso addirittura retrograda, in una Warp Society, in un organismo ad elevato potere evolvente, in grado di non sfigurare affatto nel confronto con le altre civiltà dello Spazio.
+
+
+Danilo D'Antonio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+Il forum non è moderato e l'invio di allegati non è consentito. 
+Le richieste di iscrizione vanno indirizzate a moderatore@mfe.itLink utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/mfe/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/mfe/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:mfe-digest@yahoogroups.com 
+    mailto:mfe-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    mfe-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

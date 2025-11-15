@@ -1,0 +1,64 @@
+
+/***                 The Earth Calendar(TM) style sheet                ***/
+/***       Eudaemony Laboratoy - Danilo D'Antonio - HyperLinker        ***/
+
+
+a.linkhs {color: white; text-decoration: none}
+.linkhs:hover {color: yellow; text-decoration: underline}
+
+span.what {color: red}
+
+a.linksign {color: navy; text-decoration: none}
+.linksign:hover {color: red; text-decoration: underline}
+
+a.link_1 {text-decoration: underline}
+.link_1:hover {background: #e1d9e8; text-decoration: none}
+
+a.bg_lightgreen {font-family: verdana; font-size: 10pt; text-decoration: underline}
+.bg_lightgreen:hover {background: #80ff80; color: black; text-decoration: none}
+
+a.bg_lightgreen_green {font-family: verdana; font-size: 10pt; background: #80ff80; text-decoration: underline}
+.bg_lightgreen_green:hover {background: green; color: white; text-decoration: none}
+
+a.bg_yellow {font-family: verdana; font-size: 10pt; text-decoration: underline}
+.bg_yellow:hover {background: #ffff80; color: red; text-decoration: none}
+
+a.bg_yellow_red {font-family: verdana; font-size: 10pt; background: #ffff80; text-decoration: underline}
+.bg_yellow_red:hover {background: red; color: #ffff80; text-decoration: none}
+
+a.storia {color: navy; text-decoration: underline}
+.storia:hover {background: white; text-decoration: none}
+
+a.linkub {text-decoration: underline}
+.linkub:hover {color: #800080; text-decoration: none}
+
+a.linkubred {text-decoration: underline}
+.linkubred:hover {color: red; text-decoration: none}
+
+a.simple {text-decoration: underline}
+.simple:hover {text-decoration: none}
+
+a.asimple {text-decoration: none}
+.asimple:hover {background: c8c8ff; text-decoration: underline}
+
+a.chapters {color: green; text-decoration: none}
+.chapters:hover {background: ffff80; text-decoration: none}
+
+a.chapters_bg_1 {text-decoration: none}
+.chapters_bg_1:hover {background: ffff80; text-decoration: none}
+
+a.chapters_no_bg {text-decoration: none}
+.chapters_no_bg:hover {text-decoration: underline}
+
+a.enter {text-decoration: none}
+.enter:hover {background: violet; text-decoration: underline}
+
+a.procedi {text-decoration: none}
+.procedi:hover {background: #c6c6ff; text-decoration: none}
+
+a.none {text-decoration: none}
+.none:hover {background: white; text-decoration: none}
+
+
+
+

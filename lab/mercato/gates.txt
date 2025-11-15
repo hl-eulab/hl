@@ -1,0 +1,153 @@
+Date:    24/03/09 11.06
+From:    Laboratorio Eudemonia
+To:      mfe@yahoogroups.com
+Copy:    
+Subject: [Forum MFE-GFE] Open the gates, Mr. President and Members of the European Parliament
+
+Received: (qmail 30296 invoked from network); 24 Mar 2009 11:06:01 -0700
+Received: from n74d.bullet.mail.sp1.yahoo.com (98.136.45.99) by 206.41.120.28 with SMTP; 24 Mar 2009 11:06:01 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1237917961; bh=NLoQ2YnHq2xpmNZ1SDCnyxLB3yPzYgqW/eyBzTcUywY=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=Kvxvuw2AeM6TR5vZiVx69krEns7Gu1RaweRjEhplJR1uA0U69WwTNwHmOYOR6r1YVnQCLUJXn8WLJmF+jF5pcaCTXM1gRygH31pVAYgmeoWJhl0dRWm+gzcsRP8OYPGX
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=eLvv5LgQ4eccoYWetSp9GzNa8B8WEqc9CU+9nN48uPFdLX/KvYnVKarL++D0VmpSfv0K2wYsRG/dCN6WQVFUPv3e0tG/PhjE3xoxoBwQt9HSx47IxWgvPbMlkGwXv9yp;
+Received: from [69.147.65.147] by n74.bullet.mail.sp1.yahoo.com with NNFMP; 24 Mar 2009 18:06:01 -0000
+Received: from [98.137.34.37] by t10.bullet.mail.sp1.yahoo.com with NNFMP; 24 Mar 2009 18:06:01 -0000
+X-Yahoo-Newman-Id: 230412-m14943
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: mfe@yahoogroups.com
+X-Received: (qmail 6590 invoked from network); 24 Mar 2009 17:26:36 -0000
+X-Received: from unknown (69.147.108.200) by 98.137.34.37 with QMQP; 24 Mar 2009 17:26:36 -0000
+X-Received: from unknown (HELO smtp-out113.alice.it) (85.37.17.113) by mta1.grp.re1.yahoo.com with SMTP; 24 Mar 2009 17:26:36 -0000
+X-Received: from FBCMMO01.fbc.local ([192.168.68.195]) by smtp-out113.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Tue, 24 Mar 2009 18:26:34 +0100
+X-Received: from FBCMCL01B01.fbc.local ([192.168.69.82]) by FBCMMO01.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Tue, 24 Mar 2009 18:26:33 +0100
+X-Received: from out.alice.it ([79.53.183.228]) by FBCMCL01B01.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Tue, 24 Mar 2009 18:26:40 +0100
+Message-ID: <200903241726300490.004BF088@out.alice.it>
+References: <200903212152460450.00164955@out.alice.it> <200903241700230850.003407D4@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+To: mfe@yahoogroups.com
+X-OriginalArrivalTime: 24 Mar 2009 17:26:40.0699 (UTC) FILETIME=[B1A8F0B0:01C9ACA5]
+X-Originating-IP: 85.37.17.113
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: dan_hyperlinker
+Sender: mfe@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list mfe@yahoogroups.com; contact mfe-owner@yahoogroups.com
+Delivered-To: mailing list mfe@yahoogroups.com
+List-Id: <mfe.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:mfe-unsubscribe@yahoogroups.com>
+Date: Tue, 24 Mar 2009 17:26:30 +0100
+Subject: [Forum MFE-GFE] Open the gates, Mr. President and Members of the European Parliament
+Reply-To: eulab@hyperlinker.com
+X-Yahoo-Newman-Property: groups-email-tradt-m
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+Esteemed President of the European Parliament,
+kind Mr. Hans-Gert PÖTTERING and esteemed 785 Members,
+
+I send to you all my best and most respectful regards.
+
+I pray you to let me note that, while our industrial technology is very advanced, our politics, and therefore our societies and cultures, are very behind. To the aim that an efficacious remedy could be presented to this sad situation, let me offer the following propositive synthesis.
+
+
+1) We can observe that any citizen can acquire in a special Office an industrial patent in order to protect an idea that could be materializable in concrete objects.
+
+2) We observe too that this guarantee of earning favors a continuous, enormous, swift technological development.
+
+3) We can hypothesize then the birth of a specific "social patent": this new institution, even not limiting in any way the spread of the ideas, on the contrary favouring it through various means, could grant identical opportunity of an adequate earning to the authors of those proposals of sociopolitic innovation, of new laws, motions, common rules, etc. that, being first presented in a special Office, would then be voted by other citizens inside a specific "social innovations market" and eventually finally ratified by the traditional authorities of Government.
+
+We can imagine that this special Institution of Direct Democracy could favor an high evolution and a great development of our societies, also of their culture and patrimony of useful ideas, of the same level and quality of those that for long time had our industrial technology.
+
+
+Esteemed President and Members of the European Parliament, in these times one word is pronunced everywhere in the world more and more than others: PARTICIPATION! Many are the attempts to introduce it, but the Social Innovations Market is the most advanced and powerful tool that could be furnished to the European Citizens.
+
+In a few months there will be the European Elections. A lot of people in Europe think that they cannot reduce their contribution and force their intelligence to simply put a sign under the name of someone without have the possibility to give a more productive contribution. Me to think that. Therefore do not count on my vote, neither on that of people that have something good and of value in their mind, without FIRST have signed a declaration of immediate engagement in favor of a Social Innovations Market.
+
+Esteemed President and Members, open the gates of the European Political Agorà to the concrete and rewarded intervention of the simple citizens. Petition is a very old, weak and bleak instrument. Today, forty years after the conquer of the Moon and the birth of Internet, Europe needs something adequate to these times. Give us a Social Innovations Market and you can bet that an avalanche of new and powerful ideas (and votes!) will begin to enrich and strengthen our entire Union!
+
+
+Respectfully and gratefully,
+
+
+Danilo D'Antonio
+
+Eudaemony Laboratory
+Piazza del Municipio
+64010 Rocca s. m.
+TE - Italy
+
+
+
+
+http://The-Social-Innovations-Market.hyperlinker.org
+   the price of the project is reported here too
+because successes come from rewards and failures not
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+Il forum non è moderato e l'invio di allegati non è consentito. 
+Le richieste di iscrizione vanno indirizzate a moderatore@mfe.itLink utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/mfe/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/mfe/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:mfe-digest@yahoogroups.com 
+    mailto:mfe-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    mfe-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

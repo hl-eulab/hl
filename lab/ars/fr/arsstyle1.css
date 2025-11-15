@@ -1,0 +1,101 @@
+/* ARS style sheet */
+
+a.lightlinkz {color: navy; text-decoration: none}
+.lightlinkz:hover {color: navy; text-decoration: underline}
+
+.noline {text-decoration: none}
+.noline:hover {background: white; text-decoration: underline}
+
+.underline {text-decoration: underline}
+.underline:hover {background: white; text-decoration: none}
+
+.noliney {text-decoration: none}
+.noliney:hover {background: #ffff80; text-decoration: underline}
+
+.nolineb {color: blue; text-decoration: none}
+.nolineb:hover {text-decoration: underline}
+
+.white {color: white; text-decoration: none}
+.white:hover {color: white; text-decoration: underline}
+
+.whiteu {color: white; text-decoration: underline}
+.whiteu:hover {color: white; text-decoration: none}
+
+.lightlinkwhite {color: white; text-decoration: none}
+.lightlinkwhite:hover {color: white; text-decoration: underline}
+
+
+
+.nolineturchese {text-decoration: none}
+.nolineturchese:hover {background: #C4C4FF; text-decoration: underline}
+
+
+
+.line {text-decoration: underline}
+.line:hover {background: white; text-decoration: none}
+
+.simple {text-decoration: none}
+.simple:hover {background: white; text-decoration: underline}
+
+
+a.red {color: red; text-decoration: none}
+.red:hover {color: navy; text-decoration: underline}
+
+a.green {color: green; text-decoration: none}
+.green:hover {color: #8000ff; text-decoration: underline}
+
+a.dark_green {color: #004000; text-decoration: none}
+.dark_green:hover {color: #ff8000; text-decoration: underline}
+
+a.dark_green_u {color: #004000; text-decoration: underline}
+.dark_green_u:hover {color: #ff8000; text-decoration: none}
+
+a.dark_blue {color: #000080; text-decoration: none}
+.dark_blue:hover {color: #000080; text-decoration: underline}
+
+a.dark_blue_u {color: #000080; text-decoration: underline}
+.dark_blue_u:hover {color: #000080; text-decoration: none}
+
+a.greenline {color: green; text-decoration: underline}
+.greenline:hover {color: #8000ff; text-decoration: none}
+
+.gg {color: #c1c100; text-decoration: none}
+.gg:hover {color: #c1c100; text-decoration: underline}
+
+a.violet {color: #8000ff; text-decoration: none}
+.violet:hover {color: green; text-decoration: underline}
+
+a.blue {color: blue; text-decoration: none}
+.blue:hover {color: red; text-decoration: underline}
+
+a.navy {color: navy; text-decoration: none}
+.navy:hover {color: red; text-decoration: underline}
+
+a.ff0080 {color: #ff0080; text-decoration: none}
+.ff0080:hover {color: red; text-decoration: underline}
+
+a.cele {color: #00e1e1; text-decoration: none}
+.cele:hover {color: navy; text-decoration: underline}
+
+
+
+a.nono {color: white; text-decoration: none}
+.nono:hover {color: white; text-decoration: underline}
+
+
+
+a.path_link_0 {background: #535300; color: white; text-decoration: none}
+.path_link_0:hover {background: #00ff00; color: green; text-decoration: none}
+
+a.om_sign {text-decoration: none; color: #808000}
+.om_sign:hover {text-decoration: underline}
+
+
+
+.hair {text-decoration: none; color: #ad1d03}
+.hair:hover {color: #ad1d03; text-decoration: none}
+
+
+
+
+

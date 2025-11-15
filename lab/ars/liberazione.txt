@@ -1,0 +1,153 @@
+Date:    12/08/2009 12.41
+From:    Laboratorio Eudemonia
+To:      psiconauti@yahoogroups.com
+Copy:    
+Subject: Re: [psiconauti] Fw: [FL] Verso il ferragosto in Carcere. Pronta un'azione collettiva contro il sovraffollamento.
+
+Received: (qmail 7783 invoked from network); 12 Aug 2009 12:41:08 -0700
+Received: from n60c.bullet.mail.sp1.yahoo.com (98.136.45.59) by 206.41.120.28 with SMTP; 12 Aug 2009 12:41:08 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1250106069; bh=tivjKitJDYsxIl49oozb19ggkp2fsB5EzMOc95ILUCk=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:In-Reply-To:References:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=M01UwhmcxtJOMwS/CUCjKWDhGeEAYHeJCbmehRZMC7zk8WSWuojIMFxzuJuOoXLBqPEkpye/Yj3yg5pym0NVVwfVdhmb3TiMmQlhMzg2t0/z7TAEj3fiQ6K7lrtOTTNZ
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=SwTme5gKgY9vyRAcytSldpfPCTj3fecwt0M+BW4rnec/Xelow3Nc7a5KYKMpJtRHftsr4VoFYC5lOEG8ci3bDnqNGnq6gMRk+7bQcefU+YGP7ia3S5H1ApUtBR+g+wTc;
+Received: from [69.147.65.151] by n60.bullet.mail.sp1.yahoo.com with NNFMP; 12 Aug 2009 19:41:09 -0000
+Received: from [69.147.108.193] by t5.bullet.mail.sp1.yahoo.com with NNFMP; 12 Aug 2009 19:41:09 -0000
+X-Yahoo-Newman-Id: 2088898-m0
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: psiconauti@yahoogroups.com
+X-Received: (qmail 10586 invoked from network); 12 Aug 2009 19:41:02 -0000
+X-Received: from unknown (69.147.108.201) by m2.grp.re1.yahoo.com with QMQP; 12 Aug 2009 19:41:02 -0000
+X-Received: from unknown (HELO smtp-out25.alice.it) (85.33.2.25) by mta2.grp.re1.yahoo.com with SMTP; 12 Aug 2009 19:41:02 -0000
+X-Received: from FBCMMO02.fbc.local ([192.168.68.196]) by smtp-out25.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Wed, 12 Aug 2009 21:31:12 +0200
+X-Received: from FBCMCL01B02.fbc.local ([192.168.69.83]) by FBCMMO02.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Wed, 12 Aug 2009 21:30:37 +0200
+X-Received: from out.alice.it ([79.55.4.192]) by FBCMCL01B02.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Wed, 12 Aug 2009 21:30:37 +0200
+Message-ID: <200908122130370140.006F01A9@out.alice.it>
+In-Reply-To: <006a01ca1b7b$f8058880$5c01a8c0@marciali74c0ba>
+References: <006a01ca1b7b$f8058880$5c01a8c0@marciali74c0ba>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: psiconauti@yahoogroups.com
+X-OriginalArrivalTime: 12 Aug 2009 19:30:37.0276 (UTC) FILETIME=[5E7349C0:01CA1B83]
+X-Originating-IP: 85.33.2.25
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: dan_hyperlinker
+Sender: psiconauti@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list psiconauti@yahoogroups.com; contact psiconauti-owner@yahoogroups.com
+Delivered-To: mailing list psiconauti@yahoogroups.com
+List-Id: <psiconauti.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:psiconauti-unsubscribe@yahoogroups.com>
+Date: Wed, 12 Aug 2009 21:30:37 +0200
+Subject: Re: [psiconauti] Fw: [FL] Verso il ferragosto in Carcere. Pronta un'azione collettiva contro il sovraffollamento.
+Reply-To: psiconauti@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-u
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+>From: "fuoriluogo" <no-reply-newsletter@fuoriluogo.it>
+>To: <anguilla83@tiscali.it>
+>Sent: Wednesday, August 12, 2009 7:47 PM
+>Subject: [FL] Verso il ferragosto in Carcere. Pronta un'azione collettiva 
+>contro il sovraffollamento.
+
+
+
+## Comunicato stampa
+Verso il “record” di detenuti suicidi dall’unità d’Italia
+Suicidi in carcere in “lieve riduzione”, come sostiene di Sottosegretario Caliendo? Secondo noi è esattamente il contrario, a fine anno probabilmente "conteremo" il numero più alto di detenuti suicidi dall’unità d’Italia.
+
+Redazione: Centro Studi di Ristretti Orizzonti
+Via Citolo da Perugia n. 35 - 35138 - Padova
+E-mail: redazione@ristretti.it ##
+
+
+
+
+
+Di fronte ad evidenze come queste non possiamo non pensare che oggi l'obiettivo politico di maggior rilievo dev'essere un complessivo processo di liberazione dall'oppressione statalista. Nè "destra" nè "sinistra". Non son più questi gli schieramenti da individuare, bensì tra esseri umani che giustamente perseguono libertà ed oppressori che vogliono loro toglierla! Tra LIBERI e STATALI!
+
+
+Il primo passo da compiere è infatti quello di non pensar più che gli unici e più importanti responsabili di come vanno le cose in Italia e nel mondo siano i politici. Bisogna considerare che, ad esempio qui nel nostro Paese, i politici, pur disponendo, sì, del potere, son comunque sempre solo poche migliaia di persone a fronte di tre milioni e mezzo di statali, di assunti a vita in quei ruoli che dovrebbero essere pubblici ed invece sono da loro accaparrati, monopolizzati.
+
+Queste tre milioni e mezzo di persone compongono una fedelissima cerchia protettiva intorno ai politici, un fossato di sbarramento, una spessa muraglia che impedisce ogni interazione tra cittadini e governo. Dobbiamo considerare che son soprattutto gli statali a creare la cultura, a dire cosa dobbiamo pensare, cosa dobbiamo fare, cosa è giustizia e cosa non lo è, come ci dobbiamo curare, etc. etc. Sono loro, in RAI, nelle Università, nei tribunali, nelle ASL, nei mille e mille Enti ed Uffici pseudo pubblici, a piegare concretamente il corso della nostra vita per indirizzarla verso dove voglion loro.
+
+
+I riflettori dei media illuminano i politici, ma nell'ombra vi sono loro, gli statali, a disporre di un potere meno evidente ma spesso perfino più marcato di quello dei governanti. Un governante infatti se ne deve andare dopo qualche anno. Uno statale NO! Gli statali rimangono al "loro" posto per tutta la loro vita e per tutta la loro vita essi tessono fra loro rapporti di indebito potere che possono sovrastare perfino quelli dei politici.
+
+
+Carissimi Presenti, in Italia come nel resto del mondo, gli statali rappresentano il più reale, concreto ostacolo alla felicità collettiva. Pur essendo qui argomento solo tangente (è questo il grosso limite delle mailing list tematiche), permettetemi comunque di segnalare una serie di interventi sul tema della LIBERTA' dagli OPPRESSORI STATALI:
+
+http://www.hyperlinker.com/ars/interventi.htm
+
+
+Buonissime cose,
+
+
+Danilo D'Antonio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+ATTENZIONE: Tutti i messaggi che appaiono sulla lista rappresentano semplicemente il punto di vista del relativo autore. Questa mailing list ha uno scopo esclusivamente informativo su metodi e tecniche di esplorazione della coscienza, e non vuole incoraggiare all'uso di sostanze proibite dall'attuale legislazioneLink utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/psiconauti/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/psiconauti/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:psiconauti-digest@yahoogroups.com 
+    mailto:psiconauti-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    psiconauti-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

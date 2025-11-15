@@ -1,0 +1,103 @@
+Date:    27/09/04 1.39
+From:    Laboratorio Eudemonia
+To:      asf-list@abruzzosocialforum.org
+Copy:    
+Subject: [asf-list] Democrazia elettronica
+
+Return-Path: <asf-list-return-614-eulab=hyperlinker.com@abruzzosocialforum.org>
+Received: from mxavas4.aruba.it (mxa.aruba.it [62.149.128.181] (may be forged))	by hyperlinker.com (8.11.6/8.11.6) with SMTP id i8R6d4u26304	for <eulab@hyperlinker.com>; Mon, 27 Sep 2004 01:39:04 -0500
+Received: (qmail 6904 invoked by uid 89); 27 Sep 2004 06:36:36 -0000
+Mailing-List: contact asf-list-help@abruzzosocialforum.org; run by ezmlm
+Precedence: bulk
+X-No-Archive: yes
+List-Post: <mailto:asf-list@abruzzosocialforum.org>
+List-Help: <mailto:asf-list-help@abruzzosocialforum.org>
+List-Unsubscribe: <mailto:asf-list-unsubscribe@abruzzosocialforum.org>
+List-Subscribe: <mailto:asf-list-subscribe@abruzzosocialforum.org>
+Reply-To: asf-list@abruzzosocialforum.org
+Delivered-To: mailing list asf-list@abruzzosocialforum.org
+Received: (qmail 6889 invoked by uid 511); 27 Sep 2004 06:36:36 -0000
+Message-ID: <200409270833310380.0016EC8E@hyperlinker.com>
+X-Mailer: Calypso Version 3.00.01.00 (2)
+Date: Mon, 27 Sep 2004 08:33:31 +0200
+Reply-To: eulab@hyperlinker.com
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+To: asf-list@abruzzosocialforum.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+X-Spam-Rating: mxavas4.aruba.it 1.6.2 0/1000/N
+X-Spam-Checker-Version: SpamAssassin 2.64 (2004-01-11) on mxavas4.aruba.it
+X-Spam-Level: 
+X-Spam-Status: No, hits=0.0 required=5.0 tests=none autolearn=no version=2.64
+Subject: [asf-list] Democrazia elettronica
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by hyperlinker.com id i8R6d4u26304
+
+
+
+DEMOCRAZIA ELETTRONICA A BOLZANO
+Piccolo ma significativo esperimento messo in pista dalla Rete civica dell'Alto Adige, che cosparge di forum aperti ai cittadini un progetto di sviluppo della Societa' dell'informazione
+URL: http://punto-informatico.it/pi.asp?i=49713 
+
+Un interessante esperimento di quella che oggi viene chiamata e-Democracy, democrazia elettronica, è stato messo in pista dall'amministrazione provinciale di Bolzano sfruttando la Rete civica dell'Alto Adige ...
+
+##
+
+
+
+Saluto cordialmente i presenti.
+
+Traendo spunto da questa notizia apparsa su Punto Informatico nei giorni scorsi, vorrei riprendere velocemente la questione di un utilizzo più evoluto di Internet nei processi decisionali e più in generale nelle attività di esercizio della democrazia.
+
+Torno per un momento quindi alla proposta di creare un luogo telematico, pienamente propositivo e deliberativo, dell'Abruzzo Social Forum.
+
+Da quel messaggio inviato in questa Lista lo scorso settimo mese è derivato un intervento più completo, per un obiettivo più ambizioso, che ho poi presentato in numerosi altri luoghi di aggregazione virtuali:
+
+Per una assemblea telematica del Movimento
+http://www.hyperlinker.com/change/atsf.htm
+
+A questo messaggio sono subito seguiti numerosi feedback che evidenziano quanto una simile Assemblea sia desiderata e ritenuta utile.
+
+Naturalmente le difficoltà appaiono molteplici, molto più umane, però, che tecnologiche. Anzi, da una breve ricerca che ho poi avviato, l'iniziativa appare divenire ancor più interessante e fattibile. Riporto solo alcuni link da cui partire per l'approfondimento:
+
+OnlineDeliberationLinks
+http://groupspace.org/DemeWiki/OnlineDeliberationLinks
+
+http://www.dowire.org/
+DoWire is your primary source for what's important and happening with the convergence of democracy and the Internet around the world ...
+
+http://www.digitalgovernment.org/
+
+Electronic Voting Bibliography
+http://www.social-informatics.net/evoting.htm
+
+Student Virtual Parliament
+http://studentparliament.net/
+Students across each country set the agenda, debate and vote online any time ...
+
+http://www.comune.bologna.it/cittadino/diritti/democrazia-elettronica.php
+Democrazia Elettronica a Bologna: estensione del parere consultivo ai cittadini tramite la Rete Civica
+
+
+A questo punto vorrei allora rilanciare l'idea di un utilizzo (occasionale, periodico o costante) delle nuove tecnologie nei processi decisionali dell'ASF, cosa per altro possibile in differenti modi, ad esempio dando all'ASF-LIST, a questa stessa Lista, dignità di Assemblea Telematica Permanente, oppure creando un nuovo luogo virtuale dove poter realizzare telematicamente la propria piena partecipazione all'ASF, o, in maniera riduttiva, esclusivamente dedicato ad una iniziativa in particolare.
+
+Torno a voi con questa idea perchè mi sembra vi siano motivi sufficienti a ritenere che l'obiettivo di un'assemblea telematica dell'ASF sia non solo cosa straordinariamente buona di per sè, ma anche perchè sarebbe un passo preparatorio e perfino necessario, per acquisire il diritto quantomeno a chiedere, ma personalmente direi: a presentare un progetto alle Amministrazioni locali relativo ad una iniziativa simile, e magari perfino più articolata e complessivamente migliore, a quella cui Punto Informatico fa riferimento.
+
+In effetti, dando un'occhiata agli attuali progetti di "e.Government locale", quando ve ne sono, appare evidente come nella nostra regione il cittadino venga ancora considerato soltanto un soggetto passivo cui fornire servizi, inculcare convinzioni e cui presentare ordinanze, e non parte attiva, riflessiva e propositiva della comunità. Ora: è difficile che possiamo adoprarci perchè venga dato un deciso impulso nella giusta direzione senza aver prima conosciuto ed usato bene il mezzo telematico. Al contrario tutto andrà molto meglio dopo che avremo avuto esperienze dirette in prima persona.
+
+
+Cordialità,
+
+Danilo D'Antonio
+
+Laboratorio Eudemonia
+Piazza del Municipio
+64010 Rocca S. M. (TE) - Italy
+
+http://eulab.hyperlinker.org
+
+
+
+
+
+

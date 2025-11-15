@@ -1,0 +1,50 @@
+
+KINDLY, MODIFY WHAT IS WRITTEN IN UPPERCASE,
+WHILE LEAVING UNCHANGED ALL THAT REMAINS:
+
+
+
+/*** SCRIPT NAME - Copyright © CURRENT YEAR + YOUR NAME                   ***/
+
+/***                 Script for the short date of                         ***/
+/***                      The Earth Calendar                              ***/
+/***      http://www.hyperlinker.com/tec/ - tec(at)hyperlinker.com        ***/
+
+/*** This script can be used to show the date of "The Earth Calendar"     ***/
+/*** both on the desktop of one's own computer and on one's own web site. ***/
+/*** This script can be modified provided that no change will be made     ***/
+/*** to the date of "The Earth Calendar", protecting its standard,        ***/
+/*** and that will be fully respected and reported all the terms of       ***/
+/*** this agreement.                                                      ***/
+
+/*** The logo of the almanac of name "The Earth Calendar",                ***/
+/*** with its original nomenclature, is trademark of the                  ***/
+/*** Eudaemony Laboratory. Its commercial or simply public use,           ***/
+/*** therefore also of the new nomenclature adopted by                    ***/
+/*** "The Earth Calendar", is granted at condition of the subscription    ***/
+/*** and of the full respect of the special license available             ***/
+/*** at http://www.hyperlinker.com/tec/license_1.htm                      ***/
+
+/*** Copyright and trademark: http://www.hyperlinker.com/tec/legal.htm    ***/
+
+/*** No warranty of good working is furnished to this script.             ***/
+/*** Therefore use it at your own risk. Notes on its installation,        ***/
+/*** and the eventual updates, are available at:                          ***/
+/*** http://www.hyperlinker.com/tec/lines.htm                             ***/
+
+/*** YOUR EVENTUAL FURTHER NOTES                                          ***/
+/*** YOUR EVENTUAL FURTHER NOTES                                          ***/
+/*** YOUR EVENTUAL FURTHER NOTES                                          ***/
+
+/*** YOUR SCRIPT NAME - Script Version X.X.X                              ***/
+
+
+
+BELOW PUT YOUR SCRIPT ...
+
+
+
+
+
+
+

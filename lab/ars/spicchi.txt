@@ -1,0 +1,143 @@
+Date:    18/02/2009 3.01
+From:    Laboratorio Eudemonia
+To:      olismo@yahoogroups.com
+Copy:    
+Subject: [olismo] Coscienza diffusa
+
+Received: (qmail 13950 invoked from network); 18 Feb 2009 03:01:04 -0800
+Received: from n71c.bullet.mail.sp1.yahoo.com (98.136.45.70) by 206.41.120.28 with SMTP; 18 Feb 2009 03:01:03 -0800
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1234954870; bh=pH3AROdVLEaQHLWT4GLeYzjo9TdnRtRPYnww8YWN3+c=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=prH98umtFtxHtmSqwhuqrRVGfmE1zERdLmeHs2MGMZVIfojozgcz5hHGg8btTVyvI0FqDtoKYxt/haoidAiywA+sfmuLRhKqPzksj5Sn78FkAqo7YJp913YWr+b+Nrag
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=nTNNCiEcyGU/fSCRacppc6TQDWY+mWxF3UFz276NRVqG8IC+UhIwt368hGNhldbWPGqOm2AF23WkUMpwsHPYEI1OOgQTvZDh1bx+9cHfcP50WCb6rXq4LTJG5fPWqjdB;
+Received: from [69.147.65.148] by n71.bullet.mail.sp1.yahoo.com with NNFMP; 18 Feb 2009 11:01:10 -0000
+Received: from [66.218.67.115] by t11.bullet.mail.sp1.yahoo.com with NNFMP; 18 Feb 2009 11:01:10 -0000
+X-Yahoo-Newman-Id: 14855003-m2402
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: olismo@yahoogroups.com
+X-Received: (qmail 10235 invoked from network); 18 Feb 2009 11:00:58 -0000
+X-Received: from unknown (66.218.67.97) by m47.grp.scd.yahoo.com with QMQP; 18 Feb 2009 11:00:58 -0000
+X-Received: from unknown (HELO smtp-out114.alice.it) (85.37.17.114) by mta18.grp.scd.yahoo.com with SMTP; 18 Feb 2009 11:00:57 -0000
+X-Received: from FBCMMO01.fbc.local ([192.168.68.195]) by smtp-out114.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Wed, 18 Feb 2009 12:01:01 +0100
+X-Received: from FBCMCL01B04.fbc.local ([192.168.69.85]) by FBCMMO01.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Wed, 18 Feb 2009 12:00:55 +0100
+X-Received: from out.alice.it ([87.6.178.85]) by FBCMCL01B04.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Wed, 18 Feb 2009 12:00:59 +0100
+Message-ID: <200902181200500640.009FBB9A@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: olismo@yahoogroups.com
+X-OriginalArrivalTime: 18 Feb 2009 11:00:59.0829 (UTC) FILETIME=[2E94E650:01C991B8]
+X-Originating-IP: 85.37.17.114
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+Sender: olismo@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list olismo@yahoogroups.com; contact olismo-owner@yahoogroups.com
+Delivered-To: mailing list olismo@yahoogroups.com
+List-Id: <olismo.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:olismo-unsubscribe@yahoogroups.com>
+Date: Wed, 18 Feb 2009 12:00:50 +0100
+Subject: [olismo] Coscienza diffusa
+Reply-To: olismo@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-u
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+---------------------
+  Coscienza diffusa
+---------------------
+
+
+
+Fin da quando ho avuto modo di avvicinarmi, tanto tempo fa, all'approccio di conoscenza e d'intervento di tipo organico, sistemico, olistico, sono divenuto del parere che esso, vista la sua utilità, non poteva, non doveva rimanere confinato in pochi circoli a margine di un sistema culturale, economico, politico, statale che invece conosceva ed usava il solo approccio focalizzato, specialistico, settoriale.
+
+Non si poteva, non si può rimanere in una situazione in cui il sistema crea in continuazione grandi quantità di problemi, aggiungendone altri ancora ogni volta che tenta di porvi rimedio, solo perché segue solo uno dei due approcci fondamentali insiti nella realtà delle cose.
+
+Occorre invece far sì che il metodo olistico abbandoni i margini della società e punti dritto al cuore del sistema per affermarvisi definitivamente e da lì diffondersi ovunque. Esattamente questo è l'ambizioso, allo stesso tempo legittimo e concreto, progetto che oggi segnalo alla cortesissima attenzione dei Presenti, affinché lo si possa conoscere, valutare, discutere ed eventualmente insieme sviluppare:
+
+
+http://Coscienza-Diffusa.hyperlinker.org
+
+
+Vive cordialità,
+
+
+Danilo D'Antonio
+
+Laboratorio Eudemonia
+Piazza del Municipio
+64010 Rocca S. M.
+TE - Abruzzo
+
+tel. 339 5014947
+tel. 328 0472332
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+	
+ Descrizione 	Categoria: Medicina olistica
+La newletter di Susanna Garavaglia, Naturopata e CounselorLink utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/olismo/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/olismo/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:olismo-digest@yahoogroups.com 
+    mailto:olismo-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    olismo-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

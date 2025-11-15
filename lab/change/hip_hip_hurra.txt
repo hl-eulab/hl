@@ -1,0 +1,167 @@
+Date:    01/07/2009 2.36
+From:    Laboratorio Eudemonia
+To:      rientrodolce@yahoogroups.com
+Copy:    
+Subject: [rientrodolce] Il modo corretto di gestire il territorio
+
+Received: (qmail 13547 invoked from network); 1 Jul 2009 02:36:40 -0700
+Received: from n67c.bullet.mail.sp1.yahoo.com (98.136.45.66) by 206.41.120.28 with SMTP; 1 Jul 2009 02:36:39 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1246441006; bh=zODXTHqMKuSqqK9S/J/b+aohx48SsJSrlpH5xkkNVyw=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:Message-ID:X-Mailer:To:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=j7c3/r7yOvxHH8y55J1RuuN8ZVarpaDxza29Y+I7hBZzgbFsSnN785sMseipdADh7J6QtwyJlgKMcO31mgLuBOi+0JOy9h7vNpB+SAUO66A7S3sLsZBzog9J30s1rAQg
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=eLlFTjHPVOtEIyDMi5xEjWZCR3tIwjkOERBQgs4FAnRo3FDLiNhZrrcJfWWMARgAkbZ2G0k3vBWl4c615Jp0zO/LEV2SKN5/f8dXjaEqRETW2cbbzPTOm7slTlCEnxFt;
+Received: from [69.147.65.174] by n67.bullet.mail.sp1.yahoo.com with NNFMP; 01 Jul 2009 09:36:46 -0000
+Received: from [69.147.108.196] by t12.bullet.mail.sp1.yahoo.com with NNFMP; 01 Jul 2009 09:36:46 -0000
+X-Yahoo-Newman-Id: 13644549-m17892
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: rientrodolce@yahoogroups.com
+X-Received: (qmail 31959 invoked from network); 1 Jul 2009 09:36:37 -0000
+X-Received: from unknown (69.147.108.201) by m5.grp.re1.yahoo.com with QMQP; 1 Jul 2009 09:36:37 -0000
+X-Received: from unknown (HELO cp-out7.libero.it) (212.52.84.107) by mta2.grp.re1.yahoo.com with SMTP; 1 Jul 2009 09:36:37 -0000
+X-Received: from mail.libero.it (151.83.3.83) by cp-out7.libero.it (8.5.107) id 4A4A019D00436D14 for rientrodolce@yahoogroups.com; Wed, 1 Jul 2009 11:36:36 +0200
+Message-ID: <200907011136370359.004C633C@mail.libero.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: rientrodolce@yahoogroups.com
+X-Originating-IP: 212.52.84.107
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: dan_hyperlinker
+Sender: rientrodolce@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list rientrodolce@yahoogroups.com; contact rientrodolce-owner@yahoogroups.com
+Delivered-To: mailing list rientrodolce@yahoogroups.com
+List-Id: <rientrodolce.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:rientrodolce-unsubscribe@yahoogroups.com>
+Date: Wed, 01 Jul 2009 11:36:37 +0200
+Subject: [rientrodolce] Il modo corretto di gestire il territorio
+Reply-To: rientrodolce@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-u
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+-----------------------------------------
+Il modo corretto di gestire il territorio
+-----------------------------------------
+
+
+
+Vi è sempre un modo giusto od errato di fare le cose. Anche per quanto riguarda la gestione del territorio avviene la medesima cosa. Mettiamo per ora da parte il modo sbagliato che, pur non essendo forse evidente a tutti, è comunque da tutti patito, chi più chi meno, chi prima chi dopo, nel regime di confusione e sofferenza cui ancora ci costringe l'ottocentesca casta degli statali. E consideriamo invece subito il modo corretto, chè sarà certo molto più piacevole cosa.
+
+
+Una società che funzioni si basa su un felice rapporto tra individuo e collettività. Esiste, sì, il detto: beata solitudo sola beatitudo. Ma anche chi pensa questo sa bene che da solo finirebbe per non avere scampo nell'eterno confronto con la dura realtà. Per la qual cosa volentieri si unisce ad altri ed accetta si costituisca una società in modo che tutti possano godere della sommatoria dei contributi di ognuno. Logico che a questo punto si sviluppi una sfera di beni e pertinenze collettive a completare una sfera di beni e pertinenze private.
+
+Poiché beni e pertinenze, e noi umani stessi, non possiamo non poggiare il nostro essere su di una qualche porzione della superficie terrestre, la ripartizione del territorio, per assegnarlo all'una od all'altra gestione, pubblica o privata, è evidente sia tra i prioritari e più importanti adempimenti che vanno collettivamente soddisfatti. Ebbene il caposaldo, la regola primaria cui attenersi, in grado di sfidare i massimi pensatori da qui ai confini dell'Universo e di tornare indietro sulla Terra dopo aver superato ogni loro tentativo di confutarla, è:
+
+OGNUNO A CASA SUA FACCIA QUEL CHE GLI PARE
+a patto, s'intende, di non nuocere ad altri.
+
+Esponendo in altro modo:
+
+OGNUNO È PADRONE SULLA SUA PROPRIETÀ
+sempre a patto di non nuocere ad altri.
+
+E così: come gli individui godono del diritto di privare della libertà di accesso, di recintare, materialmente od anche solo giuridicamente, un'area per poterne disporre e godere come meglio credono, similmente la collettività gode del diritto di privare della libertà di accesso, di recintare, materialmente od anche solo giuridicamente, un'area per poterne disporre e godere come meglio crede. Ognuno, collettività od individuo, è padrone sulla sua proprietà, non potendosi permettere nemmeno di pensare di potersi avvicinare alla proprietà altrui, dell'uno o dell'altro tipo, senza la certezza che il relativo proprietario sia più che legittimato a sbarrargli il passo.
+
+
+Con questo si palesa immediatamente quale sia il modo corretto di gestire il territorio. Ovunque la collettività decida che abbisogni di spazio per realizzare i propri progetti, sia per costruire opere sia per preservare la natura, essa è tenuta a verificare se tale area sia effettivamente di sua proprietà e nel caso non lo sia ad acquisirla. Non espropriando, si badi bene! bensì pagando a prezzo di mercato e senza obbligare alcuno a transazioni che non siano volute. E nel caso che tale acquisizione non possa essere condotta a buon fine in modo non solo del tutto pacifico ma pure gioioso per chi cede la proprietà, la collettività è tenuta a fare marcia indietro ed a non disturbare quello che è uno dei suoi membri, tutti parimenti importanti e da rispettare.
+
+Questa è la corretta via da seguire per una società che voglia godere di un felice rapporto tra individuo e collettività, per una società che voglia essere fortemente unita. Invece ancor oggi, mantenendo un comportamento tipico della precedente epoca pre-repubblicana, gli statali spadroneggiano ed opprimono i cittadini in mille e mille modi diversi. Privano come e quando vogliono gli esseri umani di diritti anche fondamentali, naturali, come quello di vivere sulla propria terra, con strumenti di ignomignoso condizionamento ed oppressione che chiamano piani regolatori, paesaggistici, territoriali, parchi e riserve. Gli statali fanno il Procio (di Ulissea memoria) comodo che vogliono, inficiandosene di ogni regola di buon senso e non rispettando alcun membro debole della società, privilegiando invece sempre coloro che di straforo li vanno a beneficiare e spalancando le porte ad ogni tipo ed entità di speculazione.
+
+
+Attenzione! Non pensate che siano i governi o persone elette a decidere del destino dei cittadini mentre gli statali si limitino ad ubbidire. La maggior parte delle volte sono proprio i burocrati e tecnocrati statali, sono i geometri, architetti, ingegneri, urbanisti, sono i professori, i docenti, gli emeriti statali, a presentare piani che poi vengono approvati da politici ancor più ignoranti e superficiali di loro. Senza pensare che così facendo, non rispettando gli statali il sacro principio della proprietà privata, essi vanno ad indebolire l'altrettanto sacro principio della proprietà collettiva! Di fatto solo mantenendo forte l'ambito privato l'ambito pubblico potrà rimanerlo anch'esso. Perché è chiaro che nessun cittadino proverà più una grande attrazione per una società che lo opprime. Per questo sta a noi scongiurare ciò ricordando che:
+
+Gli STATALI non sono la COLLETTIVITA'.
+La COLLETTIVITA' non è uno STATO!
+
+
+Concludendo, rileviamo che è, sì, vero che noi umani siamo giunti fino ad oggi attraverso un travagliato percorso storico che ha impedito lo strutturarsi di una consistente e ben disegnata proprietà collettiva a fronte e pure sostegno della proprietà privata. Tuttavia dopo l'ultima guerra mondiale i sacrileghi sacerdoti della cultura statale hanno goduto di tutte le condizioni per mettere finalmente in chiaro ogni cosa e disporla al suo giusto posto. Ma sono stati così impegnati a tenersi stretta e godersi la proprietà altrui, i ruoli della Pubblica Amministrazione, le importanti funzioni del Bene Collettivo (che andavano invece periodicamente redistribuiti tra la popolazione così come già avveniva per i poteri di governo) che proprio non ce l'hanno fatta, figuriamoci: ancor oggi non ce la fanno! a chiarire il giusto senso da dare alle cose.
+
+E' stato proprio il mai chiarito rapporto tra pubblico e privato, tra collettività ed individuo, tra comunità e persona, al mero scopo di mantenere l'indebito privilegio dell'assunzione a vita, che ha generato una mostruosa ed onnipresente confusione ed infelicità a non finire. Sono stati e sono ancora proprio gli statali a fare da cortina di ferro tra il giusto modo di porsi davanti alle cose, tra un retto e quindi sereno modo di vivere, e noi cittadini, noi umani liberi, noi non-statali. Per la qual cosa oggi, finalmente, grazie ad Internet, tocca proprio a noi esseri liberi cacciare definitivamente i Proci che si sono appropriati della Cosa Pubblica. Sta a noi semplici cittadini ristabilire quelle chiare, semplici ma fondamentali regole dalle quali siamo stati tenuti lontani dai Proci.
+
+
+E con tali regole naturali, per nulla oppressive al contrario armoniose ed equilibrate, basate sull'onestà e non sulla corruzione, sul desiderio e non sull'oppressione, potremo finalmente ritrovare la perduta felicità in men che non si dica. Non appena avremo attuato l'
+
+http://Armonica-Rotazione-Sociale.hyperlinker.org
+
+
+Per un mondo libero dagli statali!
+
+Hip, hip, hurrà!
+
+Hip, hip, hurrà!
+
+Hip, hip, hurrà!
+
+
+Danilo D'Antonio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+_________________________________________________________________________
+
+Per ricevere un’unica e-mail giornaliera oppure solo gli avvisi, scrivi a li.al@tiscali.it 
+
+SITO DELL'ASSOCIAZIONE RIENTRODOLCE
+http://www.rientrodolce.org
+
+SOTTOSCRIVI L'APPELLO A MARCO PANNELLA SUL PROBLEMA DEMOGRAFICO:
+http://www.radicalparty.org/demography_appeal/form.php?lang=it
+Link utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/rientrodolce/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/rientrodolce/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:rientrodolce-digest@yahoogroups.com 
+    mailto:rientrodolce-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    rientrodolce-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

@@ -1,0 +1,153 @@
+Date:    03/04/09 9.46
+From:    Laboratorio Eudemonia
+To:      Donnepolitica@yahoogroups.com
+Copy:    
+Subject: [Donnepolitica] cinque per mille
+
+Received: (qmail 23981 invoked from network); 3 Apr 2009 09:46:18 -0700
+Received: from n78d.bullet.mail.sp1.yahoo.com (98.136.45.103) by 206.41.120.28 with SMTP; 3 Apr 2009 09:46:17 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1238777153; bh=xD+mtvj9oLQe/+S4QZzHSd1rFTXQ4GkbxM4zwJTq61I=; h=Received:Received:X-Yahoo-Newman-Id:Received:Received:Received:DKIM-Signature:Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:X-eGroups-Approved-By:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=nafufRukTpF+b2Dw599+HhEltLEN89BXu9soX7WKnkShM/Ig6xPErJoM0ilvEX63icYEH7JoZHw0C7Rn9TRI8C88L9LLN/Cf+pmeuHUzg5DSdMl6MTd6zj+zjopzEtVS
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=c5yFTBy9c7xtClxRGngTHPSlQ9dAOONLZ85Owo9a+zXwAl/O6+dOUXFx+OdItt/CD7HajmDXCcBZRh9NiQe0pDwdNjI1hyYu9iTZ8vbK+NsC+fUSIw2xytaAo662QoBD;
+Received: from [69.147.65.148] by n78.bullet.mail.sp1.yahoo.com with NNFMP; 03 Apr 2009 16:45:53 -0000
+Received: from [98.137.34.41] by t11.bullet.mail.sp1.yahoo.com with NNFMP; 03 Apr 2009 16:45:53 -0000
+X-Yahoo-Newman-Id: 16317111-m1254
+Received: (qmail 61652 invoked from network); 3 Apr 2009 16:45:51 -0000
+Received: from unknown (69.147.108.201) by m5.grp.sp2.yahoo.com with QMQP; 3 Apr 2009 16:45:51 -0000
+Received: from unknown (HELO n43b.bullet.mail.sp1.yahoo.com) (66.163.168.157) by mta2.grp.re1.yahoo.com with SMTP; 3 Apr 2009 16:45:51 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1238777117; bh=/qOiM8hvJq2N424N6pUYl3eH87st6lXBGH0VOdcejmk=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:Date:To:Mime-Version:Content-Type:Content-Transfer-Encoding:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:Reply-To:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:Sender:X-Yahoo-Newman-Property:X-eGroups-Approved-By:X-eGroups-Auth; b=rzNha/WR82dyJ2O4tNNHap0Q5zW/Bxmcg7cxIz3SEB1hDP9pGA4FCrCyOKm1rbd/sOlhgjZBHZHc4t+Z/XFdZ/v5otvlL2jtCIpJfHK1p3CxJVfPhuDd3JYZCKWbDY+m
+Received: from [69.147.65.171] by n43.bullet.mail.sp1.yahoo.com with NNFMP; 03 Apr 2009 16:45:17 -0000
+Received: from [98.137.34.35] by t13.bullet.mail.sp1.yahoo.com with NNFMP; 03 Apr 2009 16:45:17 -0000
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: Donnepolitica@yahoogroups.com
+X-Received: (qmail 18986 invoked from network); 2 Apr 2009 20:05:54 -0000
+X-Received: from unknown (69.147.108.202) by 98.137.34.37 with QMQP; 2 Apr 2009 20:05:54 -0000
+X-Received: from unknown (HELO smtp-out25.alice.it) (85.33.2.25) by mta3.grp.re1.yahoo.com with SMTP; 2 Apr 2009 20:05:53 -0000
+X-Received: from FBCMMO03.fbc.local ([192.168.68.197]) by smtp-out25.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Thu, 2 Apr 2009 22:05:31 +0200
+X-Received: from FBCMCL01B07.fbc.local ([192.168.171.45]) by FBCMMO03.fbc.local with Microsoft SMTPSVC(6.0.3790.1830);	Thu, 2 Apr 2009 22:05:31 +0200
+X-Received: from out.alice.it ([79.31.36.200]) by FBCMCL01B07.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Thu, 2 Apr 2009 22:00:18 +0200
+Message-ID: <200904022005290890.00341455@out.alice.it>
+References: <200904021958310860.002DB322@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+To: Donnepolitica@yahoogroups.com
+X-OriginalArrivalTime: 02 Apr 2009 20:00:18.0671 (UTC) FILETIME=[A5B797F0:01C9B3CD]
+X-Originating-IP: 85.33.2.25
+X-eGroups-Msg-Info: 1:6:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: eulab_groups
+X-eGroups-Approved-By: coraliedelliponti <coraliedelliponti@yahoo.it> via web; 03 Apr 2009 16:45:15 -0000
+Sender: Donnepolitica@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list Donnepolitica@yahoogroups.com; contact Donnepolitica-owner@yahoogroups.com
+Delivered-To: mailing list Donnepolitica@yahoogroups.com
+List-Id: <Donnepolitica.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:Donnepolitica-unsubscribe@yahoogroups.com>
+Date: Thu, 02 Apr 2009 20:05:29 +0200
+Subject: [Donnepolitica] cinque per mille
+Reply-To: Donnepolitica@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-m
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+----------------------------
+  La DEMOCRAZIA per PREMIO
+----------------------------
+        
+
+
+Vi è mai capitato di vedere un qualche film in cui il cattivo, allo scopo di rallentare il buono che lo insegue, dà una spinta ad una carrozzina condotta da una madre e con dentro un bimbo, facendola correre verso ripide scale? Ricordate che il buono senza esitare si slancia ad afferrare la carrozzina, salva il bimbo e lo restituisce indenne alla madre? Ricordate anche che il buono, ed è qui che assurge a vero eroe, non si sofferma un sol attimo ma si slancia ancora in avanti, questa volta teso ad acciuffare il cattivo che infine agguanta e rende incapace di far ancora del male?
+
+Quella del cattivo che sfugge con malevoli artifici è una situazione abbastanza tipica nella cinematografia, che si rivede spesso pari pari nella stessa realtà. Ed infatti il VOLONTARIATO è un po' come quel buono che cerca di salvare il piccolo. Guaio è che, concentrato esclusivamente su questa sua buona azione, manco s'avvede del cattivo il quale, rimanendo libero, può continuare a far del male a destra ed a manca, creando ovunque situazioni di disperazione e rendendo vano tutto il buon impegno. Di fatto più volontari ci sono peggio vanno le cose, appunto perché sempre più forze sono dirette a salvare quel piccolo e sempre meno son quelle determinate a proseguire il lavoro per trovare il cattivo e catturarlo. PER RENDERE FINALMENTE INUTILE IL VOLONTARIATO!
+
+...
+
+
+
+Continua presso: http://www.hyperlinker.com/ars/5x1000.htm
+
+
+Ringrazio le Presenti per la continua fonte di ispirazione.
+
+
+Felice Primavera!
+
+
+Danilo D'Antonio
+
+Laboratorio Eudemonia
+Piazza del Municipio
+64010 Rocca S. M.
+TE - Abruzzo
+
+tel. 339 5014947
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+Link utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/Donnepolitica/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/Donnepolitica/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:Donnepolitica-digest@yahoogroups.com 
+    mailto:Donnepolitica-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    Donnepolitica-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

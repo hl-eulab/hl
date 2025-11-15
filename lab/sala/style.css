@@ -1,0 +1,20 @@
+/* La nuova onda style sheet */
+
+
+a.lightlink {color: white; text-decoration: none}
+.lightlink:hover {background: red}
+
+a.lightlinky {}
+.lightlinky:hover {background: blue}
+
+a.ll01 {text-decoration: none}
+.ll01:hover {background: blue; text-decoration: none}
+
+a.ll02 {text-decoration: none}
+.ll02:hover {text-decoration: underline}
+
+a.underline {text-decoration: underline}
+.underline:hover {text-decoration: none}
+
+a.noline {text-decoration: none}
+.noline:hover {text-decoration: underline}

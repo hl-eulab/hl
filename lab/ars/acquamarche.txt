@@ -1,0 +1,115 @@
+X-Account-Key: account3
+X-UIDL: GmailId124629b33b74caa0
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Delivered-To: hyperlinker@gmail.com
+Received: by 10.103.134.10 with SMTP id l10cs14450mun;
+        Sat, 17 Oct 2009 06:06:30 -0700 (PDT)
+Received: by 10.140.128.9 with SMTP id a9mr1315380rvd.152.1255784788882;
+        Sat, 17 Oct 2009 06:06:28 -0700 (PDT)
+Return-Path: <altremarche-return-1028-eulab=hyperlinker.com@altraofficina.it>
+Received: from web2.risingnet.net (web2.risingnet.net [206.41.120.108])
+        by mx.google.com with ESMTP id 29si3894165pxi.12.2009.10.17.06.06.28;
+        Sat, 17 Oct 2009 06:06:28 -0700 (PDT)
+Received-SPF: neutral (google.com: 206.41.120.108 is neither permitted nor denied by best guess record for domain of altremarche-return-1028-eulab=hyperlinker.com@altraofficina.it) client-ip=206.41.120.108;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 206.41.120.108 is neither permitted nor denied by best guess record for domain of altremarche-return-1028-eulab=hyperlinker.com@altraofficina.it) smtp.mail=altremarche-return-1028-eulab=hyperlinker.com@altraofficina.it
+Received: (qmail 9906 invoked by uid 110); 17 Oct 2009 06:06:21 -0700
+Delivered-To: 189-eulab@hyperlinker.com
+Received: (qmail 9901 invoked from network); 17 Oct 2009 06:06:21 -0700
+Received: from mxavas10.aruba.it (HELO mxavas6.aruba.it) (62.149.157.20)
+  by 206.41.120.28 with SMTP; 17 Oct 2009 06:06:21 -0700
+Received: (qmail 31398 invoked by uid 89); 17 Oct 2009 13:06:22 -0000
+Mailing-List: contact altremarche-help@altraofficina.it; run by ezmlm
+Precedence: bulk
+X-No-Archive: yes
+List-Post: <mailto:altremarche@altraofficina.it>
+List-Help: <mailto:altremarche-help@altraofficina.it>
+List-Unsubscribe: <mailto:altremarche-unsubscribe@altraofficina.it>
+List-Subscribe: <mailto:altremarche-subscribe@altraofficina.it>
+Delivered-To: mailing list altremarche@altraofficina.it
+Received: (qmail 31381 invoked by uid 89); 17 Oct 2009 13:06:22 -0000
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mxavas6.fe.aruba.it
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.5 required=5.0 tests=BAYES_00,RDNS_NONE
+	autolearn=disabled version=3.2.5
+Message-ID: <4AD9C11E.1040501@hyperlinker.com>
+Date: Sat, 17 Oct 2009 15:05:34 +0200
+From: Laboratorio Eudemonia <eulab@hyperlinker.com>
+Reply-To: eulab@hyperlinker.com
+Organization: Laboratorio Eudemonia
+User-Agent: Thunderbird 2.0.0.23 (Windows/20090812)
+MIME-Version: 1.0
+To: Lucio Santoni <luciosantoni@virgilio.it>
+CC: luca.orciani@libero.it, 'armezzani' <armezzani@tiscali.it>, 
+ "'l.meconi'" <l.meconi@alice.it>,
+ altremarche@altraofficina.it
+References: <KRMMI0$F6FA8F704066BFB900E60E50284403A0@libero.it> <000f01ca4f26$b346beb0$19d43c10$@it>
+In-Reply-To: <000f01ca4f26$b346beb0$19d43c10$@it>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-OriginalArrivalTime: 17 Oct 2009 13:05:36.0600 (UTC) FILETIME=[84A35D80:01CA4F2A]
+Subject: Re: [AltreMarche] R: R: acqua
+
+Lucio Santoni wrote:
+> Purtroppo sabato 7 sono impegnato,ma se gli altri interessati sono
+> disponibili si può fare comunque. Dovremmo mandare un appello a tutta la
+> rete ,così da avere un quadro completo delle adesioni. Quindi girerei tale
+> colloquio ad AltreMarche. Sollecito quindi tutti gli interessati al problema
+> acqua a proporsi in questo dialogo per organizzare al meglio la riunione
+> Regionale.
+> 
+> Saluti.   Lucio Santoni  
+
+
+
+
+Nell'antichità, quando noi umani eravamo in pochi, in piccoli villaggi privi di tecnologia, per quanto riguarda l'acqua v'era un unico giustissimo diktat:
+
+"risparmiarla fino all'ultima goccia!".
+
+Questo imperativo è giunto immutato fino ai nostri giorni, trasmesso da ambientalisti superficiali, incapaci di una osservazione diretta, attuale, della realtà. Oggi: mentre stiamo superando i sette miliardi, in megalopoli stracolme di potere tecnologico.
+
+Chiediamoci allora: questa assolutistica, univoca pulsione al risparmio dell'acqua deriva davvero da una teoria e pratica giusta ancor oggi, oppure la realtà, com'è suo solito, ci sta prendendo per il culo?
+
+La curiosità è regina di vita. Se ci fosse rimasto ancora qualche curioso, anelante di vita e che non le si ponga davanti dicendo: "ma perché, c'è forse ancora qualcosa da dire di non detto?", potrebbe avviare la sua personale ricerca partendo da qui:
+
+
+Corri, acqua, corri! Una conversazione con la natura
+http://www.hyperlinker.com/change/acqua.htm
+
+Agua libre! Para la liberación de l'agua
+http://www.hyperlinker.com/change/agua_libre.htm
+
+
+Danilo D'Antonio
+Monti della Laga
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------
+Per cancellarsi, scrivi a: altremarche-unsubscribe@altraofficina.it
+Se vuoi conoscere altri comandi, scrivi a: altremarche-help@altraofficina.it
+
+

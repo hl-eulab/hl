@@ -1,0 +1,27 @@
+/* La Celebrazione del Nostro Territorio style sheet */
+
+a.lightlinkti {color: green; font-size: 10pt; font-weight: bold; text-decoration: none}
+.lightlinkti:hover {background: white; color: green; font-weight: bold; text-decoration: underline}
+
+a.lightlink {color: green}
+.lightlink:hover {background: lightgreen; color: navy}
+
+.lightlinka:hover {background: lime; color: red}
+a.lightlinka {background: white; color: green}
+
+a.lightlinkred {background: #cbffc4; color: red; font-weight: bold}
+
+.lightlinkred:hover {background: lime; color: green; font-weight: bold}
+
+a.lightlinkz {color: navy; font-weight: bold; text-decoration: none}
+.lightlinkz:hover {color: green; text-decoration: underline}
+
+.lightlinky:hover {background: yellow; color: red}
+
+a.lll {color: navy; font-size="8pt"; text-decoration: none}
+.lll:hover {color: navy; ; text-decoration: underline}
+
+a.lightlinkx {color: #16806B; text-decoration: none}
+.lightlinkx:hover {color: green; font-weight: bold; background: white}
+
+.summary {color: #1EB395; font-size: 10pt; font-weight: bold; text-decoration: none}

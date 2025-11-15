@@ -1,0 +1,162 @@
+Date:    20/03/09 15.04
+From:    Laboratorio Eudemonia
+To:      cantiere_della_democrazia@yahoogroups.com
+Copy:    
+Subject: Cantiere della democrazia: Una Società Democratica non ha Stato nè  statali
+
+Received: (qmail 7849 invoked from network); 20 Mar 2009 15:04:48 -0700
+Received: from n58c.bullet.mail.sp1.yahoo.com (98.136.45.57) by 206.41.120.28 with SMTP; 20 Mar 2009 15:04:48 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1237586684; bh=Ui1DrGFq0kPjxc8TFGbL1099jXtfAc6EYlt+iOMkTjc=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=sE1JFla8K2TAn7a2UYEzt5Jx1G8EXfYFdS8Ayf4JZeCJ2ofyhs3KF69tEMmCzyRSLDP5GvBlLhlv8YyVCsKU6sEnRTYIvjzB47hjIIVHYZAK083/jugnz50VoiYMUmyo
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=EF/KEwMqa21NXIVNeOLYtChFYo/qNW1Ui68W0Yt6DWeVs1B5gg7a61k0IAg9JiQQTt8vjlkTFSE6X++lu+9aoxUDvxRwH9J+SQM5sdbtRUXEIqAAGHr2dtPGYWENCJCz;
+Received: from [69.147.65.173] by n58.bullet.mail.sp1.yahoo.com with NNFMP; 20 Mar 2009 22:04:44 -0000
+Received: from [98.137.34.41] by t15.bullet.mail.sp1.yahoo.com with NNFMP; 20 Mar 2009 22:04:44 -0000
+X-Yahoo-Newman-Id: 10416371-m2199
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: cantiere_della_democrazia@yahoogroups.com
+X-Received: (qmail 25811 invoked from network); 20 Mar 2009 22:04:42 -0000
+X-Received: from unknown (69.147.108.202) by m5.grp.sp2.yahoo.com with QMQP; 20 Mar 2009 22:04:42 -0000
+X-Received: from unknown (HELO smtp-out26.alice.it) (85.33.2.26) by mta3.grp.re1.yahoo.com with SMTP; 20 Mar 2009 22:04:42 -0000
+X-Received: from FBCMMO02.fbc.local ([192.168.68.196]) by smtp-out26.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 20 Mar 2009 23:04:34 +0100
+X-Received: from FBCMCL01B02.fbc.local ([192.168.69.83]) by FBCMMO02.fbc.local with Microsoft SMTPSVC(6.0.3790.1830);	Fri, 20 Mar 2009 23:04:41 +0100
+X-Received: from out.alice.it ([80.117.216.230]) by FBCMCL01B02.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 20 Mar 2009 23:04:33 +0100
+Message-ID: <200903202204200820.002B3892@out.alice.it>
+References: <200903202127050840.00091CE9@out.alice.it> <200903202156380670.00242AF5@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+To: cantiere_della_democrazia@yahoogroups.com
+X-OriginalArrivalTime: 20 Mar 2009 22:04:33.0545 (UTC) FILETIME=[D9CC5790:01C9A9A7]
+X-Originating-IP: 85.33.2.26
+X-eGroups-Msg-Info: 1:6:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: danhyp
+Sender: cantiere_della_democrazia@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list cantiere_della_democrazia@yahoogroups.com; contact cantiere_della_democrazia-owner@yahoogroups.com
+Delivered-To: mailing list cantiere_della_democrazia@yahoogroups.com
+List-Id: <cantiere_della_democrazia.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:cantiere_della_democrazia-unsubscribe@yahoogroups.com>
+Date: Fri, 20 Mar 2009 22:04:20 +0100
+Subject: Cantiere della democrazia: =?ISO-8859-1?Q?Una_Societ=E0_Democratica_non_ha_Stato_n=E8_?= statali
+Reply-To: cantiere_della_democrazia@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-u
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+-----------------------------------------------
+Una Società Democratica non ha Stato nè statali
+-----------------------------------------------
+
+
+
+Una Società Democratica, per essere società e per essere democratica, necessita di leggère strutture di governo al cui interno possano circolare, senza rimanervi bloccate, le persone di volta in volta deputate ad essere guida del popolo.
+
+Queste strutture di governo sono poste all'interno di una più ampia e spessa organizzazione centrale la cui parte più consistente consta di strutture di proprietà comune tese a fornire alla popolazione beni e servizi di primaria necessità o comunque di fondamentale importanza per il vivere civile. All'interno di queste pubbliche strutture circolano, senza rimanervi bloccate, le persone cui periodicamente vengono redistribuiti i ruoli che le fanno funzionare.
+
+Una Società Democratica non ha Stato nè statali: non ha alcuna struttura in cui le persone possano rimanere oltre un certo periodo di tempo oltre il quale, inevitabilmente, il ristagno porterebbe ad ogni genere e livello di corruzione.
+
+
+La complessiva organizzazione centrale di una Società Democratica non fornisce soltanto guida, alimento e supporto logistico. Essa è esattamente ciò che unisce e tiene insieme le persone al fine di evitare che la società si disgreghi, a danno di tutti, in mille rivoli d'inutile energia, concentrandole invece verso scopi d'indubbio interesse comune. Far sì che questa unione nasca da un intimo e spontaneo desiderio, e non invece artificiosamente o da una imposizione esterna, è uno dei compiti fondamentali della cultura che si sviluppa nel nucleo, la quale è tenuta a ricordare, in modo corretto ed equilibrato, le positive valenze dell'aspetto etico ed unificante, solidale della vita.
+
+
+Al di fuori dell'organizzazione centrale si apre invece il campo della più libera espressione individuale, libera naturalmente fintantoché rispetti tutti e tutto. E' al di fuori dell'organizzazione centrale che ogni essere umano può esprimere più completamente e con maggiore intensità la propria sensibilità e creatività, la propria originale personalità. Se, trovandosi inserita all'interno del nucleo, la persona, pur pienamente libera di essere se stessa, è comunque diretta verso uno scopo definito collettivamente, nell'area esterna al nucleo essa è ancor più libera, potendo definire autonomamente anche l'obiettivo per cui lavorare.
+
+Le due aree di una Società Democratica, il nucleo e la periferia, non possono che essere capillarmente comunicanti, per permettere ad ogni cittadino di passare agevolmente dall'esterno verso il centro e viceversa. In questo modo si attua una circolazione di esperienze e percezioni che arricchisce costantemente le due parti distinte dell'unità sociale. Inoltre, permettendo, non imponendo bensì fornendo a chiunque lo voglia la possibilità concreta di mutare ambito di competenza, si fà sì che l'insieme di informazioni relative ad una materia non ristagni in essa bensì, fluendo, irrori di preziose conoscenze ogni angolo della società, completando così la visione focalizzata data dalla specializzazione con la visione organica data dall'approccio olistico.
+
+
+In una Società Democratica le persone, e quindi le idee, circolano liberamente. Proprio in questa circolazione di persone ed idee consiste anzi la democrazia. Quando la circolazione s'interrompe e compaiono rigide strutture immobilizzanti persone ed idee, la democrazia scompare e la società inizia subito a soffrire. Giustamente, in verità, perché il suo scorretto modo d'essere va letteralmente a cozzare col carattere dinamico della realtà e, non riuscendo a cogliere le sue sempre mutevoli esigenze, non riesce a farvi fronte, patendone le dovute conseguenze.
+
+
+Oggi il nostro Paese, quanto ogni altro nel mondo, non può ancora dirsi una democrazia fiorita completamente. I Paesi del mondo, troppo presto definiti democratici, sono ancora dei boccioli soltanto appena dischiusi che un improvviso gelo può ancora uccidere in men che non si dica. Sta a tutti noi, che sinceramente aneliamo il progresso sociale, il compito di modificare tutte quelle situazioni e strutture che impediscono alle persone ed alle idee di circolare ed alla democrazia di affermarsi in tutto il suo potenziale.
+
+
+
+
+Danilo D'Antonio
+
+Laboratorio Eudemonia
+Piazza del Municipio
+64010 Rocca S. M.
+TE - Abruzzo
+
+tel. 339 5014947
+
+
+
+
+USDnhSns_0.9-40/03/20
+
+http://www.hyperlinker.com/change/societas.htm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+Per iscriversi: cantiere_della_democrazia-subscribe@yahoogroups.com
+Per cancellarsi: cantiere_della_democrazia-unsubscribe@yahoogroups.com
+
+Link utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/cantiere_della_democrazia/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/cantiere_della_democrazia/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:cantiere_della_democrazia-digest@yahoogroups.com 
+    mailto:cantiere_della_democrazia-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    cantiere_della_democrazia-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

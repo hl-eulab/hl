@@ -1,0 +1,140 @@
+Date:    01/05/09 7.18
+From:    Laboratorio Eudemonia
+To:      Repubblicani@yahoogroups.com
+Copy:    
+Subject: [Repubblicani] Festa del Lavoro - al Ministro Brunetta
+
+Received: (qmail 19832 invoked from network); 1 May 2009 07:18:05 -0700
+Received: from n67c.bullet.mail.sp1.yahoo.com (98.136.45.66) by 206.41.120.28 with SMTP; 1 May 2009 07:18:00 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1241187480; bh=d2wibBqH9vHkC4aoG5RvFE9t50vKecXHSC1O+4MN3s8=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type; b=SGvVyjGY+T+hi7l55e5rp9V90UN94lEeWfukequmDgHoes5E/9O2ZodqNI8VyD+jZ9tNU/IlQInHXm8LRCok3U3gU9VJdzWQMqntUMytocGmdlbc3Pp2kmlu7kOnYAV1
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=cdHxVGAnDFoetleZ3+2ki6n5Z5XX9VhXMRG6kbB7VmSP19+2g8OSTX2qUeVqhiGaHl3hzwdEo63Cz6i5FAOufh5lz9q7xmrl03b/UQxj3xv/cb5vCcjYu7IMZ6ed7fFf;
+Received: from [69.147.65.171] by n67.bullet.mail.sp1.yahoo.com with NNFMP; 01 May 2009 14:18:00 -0000
+Received: from [98.137.34.38] by t13.bullet.mail.sp1.yahoo.com with NNFMP; 01 May 2009 14:18:00 -0000
+X-Yahoo-Newman-Id: 12340068-m19987
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: Repubblicani@yahoogroups.com
+X-Received: (qmail 46694 invoked from network); 1 May 2009 14:17:57 -0000
+X-Received: from unknown (69.147.108.202) by m2.grp.sp2.yahoo.com with QMQP; 1 May 2009 14:17:57 -0000
+X-Received: from unknown (HELO smtp-out28.alice.it) (85.33.2.28) by mta3.grp.re1.yahoo.com with SMTP; 1 May 2009 14:17:57 -0000
+X-Received: from FBCMMO03.fbc.local ([192.168.68.197]) by smtp-out28.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 1 May 2009 16:17:25 +0200
+X-Received: from FBCMCL01B04.fbc.local ([192.168.69.85]) by FBCMMO03.fbc.local with Microsoft SMTPSVC(6.0.3790.1830);	Fri, 1 May 2009 16:17:25 +0200
+X-Received: from out.alice.it ([79.55.5.177]) by FBCMCL01B04.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 1 May 2009 16:17:25 +0200
+Message-ID: <200905011417210670.00436258@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+To: Repubblicani@yahoogroups.com
+X-OriginalArrivalTime: 01 May 2009 14:17:25.0264 (UTC) FILETIME=[8CFD9100:01C9CA67]
+X-Originating-IP: 85.33.2.28
+X-eGroups-Msg-Info: 1:6:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: dan_hyperlinker
+Sender: Repubblicani@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list Repubblicani@yahoogroups.com; contact Repubblicani-owner@yahoogroups.com
+Delivered-To: mailing list Repubblicani@yahoogroups.com
+List-Id: <Repubblicani.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:Repubblicani-unsubscribe@yahoogroups.com>
+Date: Fri, 01 May 2009 14:17:21 +0200
+Subject: [Repubblicani] Festa del Lavoro - al Ministro Brunetta
+Reply-To: Repubblicani@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-ff-u
+Content-Type: multipart/alternative; boundary="IrasBL7JO9tB9Uo7YBaPBKE289oCw9nsZEhFCwy"
+
+
+
+
+Lettera Aperta
+alla cortese attenzione
+del Signor Ministro
+Renato BRUNETTA
+
+
+MINISTRO SENZA PORTAFOGLIO PER LA PUBBLICA AMMINISTRAZIONE E L'INNOVAZIONE dall'8 maggio 2008
+
+http://leg16.camera.it/cartellecomuni/leg16/include/contenitore_dati.asp?tipopagina=&deputato=d302875&source=%2Fdeputatism%2F240%2Fdocumentoxml.asp&position=Deputati%5CLa%20Scheda%20Personale&Pagina=Deputati/Composizione/SchedeDeputati/SchedeDeputati.asp%3Fdeputato=d302875&Nominativo=BRUNETTA%20Renato
+http://www.renatobrunetta.it/2009/02/23/la-camera-approva-la-legge-anti-fannulloni
+
+
+
+
+Gentile Signor Ministro,
+
+le presento i miei migliori riguardi.
+
+Sono lieto di vedere con quanto ardore sta svolgendo il suo lavoro. Proprio vedendola affrontare con impegno il gran nodo della Pubblica Amministrazione, son qui, in un pubblico interesse, a presentarle una ipotesi di lavoro che appare piuttosto consistente e promettente.
+
+
+Gentilmente mi permetta di avanzare precisamente l'ipotesi che i presenti guai della società derivino principalmente dal fatto che la nostra Repubblica, in verità non solo quella italiana ma anche ogni altra nel mondo, lo sia ancora solo in parte, causa l'errore progettuale insito nell'ordinamento d'epoca prerepubblicana che assegna a vita i ruoli della Pubblica Amministrazione. Tale delega totale, che elimina ogni possibilità di reale partecipazione collettiva alla Cosa Pubblica, crea uno Stato separato dai cittadini ed inevitabilmente, metodicamente, lo Stato finisce per divenire arrogante padrone ed i cittadini sottomessi sudditi.
+
+Si tratta di una ipotesi da prendere subito in considerazione. Perché, se si rivelasse fondata, tutti i suoi ed i nostri tentativi di migliorare le cose fallirebbero. Non importa quanto noi cittadini ci impegneremmo. Senza redistribuire periodicamente i ruoli della PA tra la popolazione desiderosa ed abile a svolgerli non vivremmo mai in una vera Res Publica ma in una Res Loro, in una Cosa Loro: in una proprietà dei pubblici dipendenti assunti a vita. I quali, per mantenere i loro indebiti privilegi, alcuni meno, altri molto marcati, continueranno a far da sbarramento ad una complessiva evoluzione culturale, economica, politica, sociale.
+
+
+Gentile Signor Ministro, in attesa di una sua cortesissima valutazione di quanto sopra, prima di lasciarla, mi permetta di chiederle: per caso anche lei è uno statale? A questo indirizzo:
+
+http://www.economia.uniroma2.it/nuovo/facolta/docenti/docenti.asp?IdProfessore=38
+
+leggo che lei è un "professore ordinario". Questo significa che anche lei è assunto a vita? La prego di non considerare questa una semplice curiosità. Perché, nel caso lei lo fosse, come potrebbe uno statale, quanto meno con quale diritto morale, pretendere di rimettere a posto la Pubblica Amministrazione? Come potrebbe anche solo pensare di poterla innovare per davvero? Non sarebbe forse questo compito di molto maggior competenza, nonché molto più giusto sarebbe, fosse affidato a cittadini non direttamente coinvolti? Dall'esterno non vedrebbero essi le cose in una più ampia prospettiva? Non sarebbero essi potenzialmente molto più obiettivi?
+
+
+Ed in effetti, gentile Signor Ministro, mi permetta di dirle che una profonda innovazione, una vera rivoluzione, anche se silenziosa perché pacificissima, legalissima, civilissima, è effettivamente già in atto:
+
+http://Equo-Impiego-Pubblico-a-Rotazione.hyperlinker.org
+
+Come potrà vedere, si tratta di qualcosa che va ben oltre la rimozione di un semplice fannullonismo. Si tratta in verità di un cambio epocale di livello pari a quello che avvenne quando dallo Stato monarchico l'Italia passò alla Res Publica! Poiché se allora i più grandi ed evidenti monarchi furono effettivamente rimossi dal governo, tre milioni e passa di minuscoli seminascosti monarchi tuttora permangono a costituire una Pubblica Amministrazione completamente fuori dal nostro tempo.
+
+
+Gentile Signor Ministro, ho piacere che lei continui a ricoprire questa carica all'interno dell'attuale Governo. Di fronte ad elezioni regolarmente svoltesi, come potrei trovar qualcosa da ridire? Tuttavia, qualora lei effettivamente fosse uno statale e detenesse quel ruolo pubblico già da diversi anni, la prego di dimettersi da esso. Innanzitutto perché è inammissibile che oggi, a sessant'anni dalla Costituzione che decretò il nostro essere Res Publica, un ruolo, un potere, un reddito definiti per loro stessa natura pubblici possano essere ancora assegnati a vita. Secondariamente perché è altrettanto fuor di luogo pensare che un sistema possa essere davvero innovato dal suo interessato interno piuttosto che da quei cittadini che non son solo ultimi fruitori di quei beni e servizi pubblici ma loro stessi proprietari.
+
+
+Nel salutarla sempre cordialissimamente e nell'augurarle ogni buona cosa, la invito a considerare, ed a parteciparvi, ciò che sta per divenire uno dei più brillanti e grandi primati e vanti del nostro comune Paese: il definitivo abbandono dell'antidemocratico e prilegiato statalismo in favore di una società realmente equa e partecipativa, quindi democratica.
+
+
+Danilo D'Antonio, null'altro che un semplice cittadino
+Monti della Laga
+Teramo - Abruzzo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

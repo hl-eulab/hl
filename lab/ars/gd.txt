@@ -1,0 +1,94 @@
+Date:    02/06/2009 2.48
+From:    Laboratorio Eudemonia
+To:      Repubblicani@yahoogroups.com
+Copy:    
+Subject: [Repubblicani] Per la gestione collettiva del Bene Comune
+
+Received: (qmail 19790 invoked from network); 2 Jun 2009 02:48:41 -0700
+Received: from n64c.bullet.mail.sp1.yahoo.com (98.136.45.63) by 206.41.120.28 with SMTP; 2 Jun 2009 02:48:41 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1243936125; bh=J5MIK8mvaPD6QvcrEvsi+NfDBq2gBlASBfXQBnrtxL0=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type; b=tZLmI0gaYddZpsgrANYMc9AhMS8cZoVsThXSvWie2fb+ZUIZi65GNLvpeG9Hq3zlMu1bD+kCk84Fv5jVj85VWOBin7lyBm/txV1PVAwGobb9kmhmMAtdGWvixmRNqmD3
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=Y97wBcd1ZYcrOH7U5N4OJX3vdvnKSl6KdRRVqRnKHctRdO7FJRlpnbpUta7HI7wGedEM3LkAHRhgNZcfxhZVK4UVqMBIAm3nY6GaiX1Pd2SLE0h65P99WWZSq6f5YaIu;
+Received: from [69.147.65.148] by n64.bullet.mail.sp1.yahoo.com with NNFMP; 02 Jun 2009 09:48:45 -0000
+Received: from [69.147.108.196] by t11.bullet.mail.sp1.yahoo.com with NNFMP; 02 Jun 2009 09:48:44 -0000
+X-Yahoo-Newman-Id: 12340068-m20863
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: Repubblicani@yahoogroups.com
+X-Received: (qmail 61867 invoked from network); 2 Jun 2009 09:48:37 -0000
+X-Received: from unknown (69.147.108.201) by m5.grp.re1.yahoo.com with QMQP; 2 Jun 2009 09:48:37 -0000
+X-Received: from unknown (HELO cp-out9.libero.it) (212.52.84.109) by mta2.grp.re1.yahoo.com with SMTP; 2 Jun 2009 09:48:37 -0000
+X-Received: from mail.libero.it (151.80.88.74) by cp-out9.libero.it (8.5.107) id 4A1BCBDA0108E3B3 for Repubblicani@yahoogroups.com; Tue, 2 Jun 2009 11:48:36 +0200
+Message-ID: <200906021148380265.01008BF6@mail.libero.it>
+References: <200905241034200234.00C83972@mail.libero.it> <200905241035110828.00C902FC@mail.libero.it> <200905241036040296.00C9CFF0@mail.libero.it> <200905241037350718.00CB350E@mail.libero.it> <200905241040240484.00CDC84C@mail.libero.it> <200905241041170687.00CE981F@mail.libero.it> <200905241041580671.00CF3837@mail.libero.it> <200905241043550203.00D0FF6B@mail.libero.it> <200905241115160531.00EDB45B@mail.libero.it> <200905241117030875.00EF57AA@mail.libero.it> <200905241117240921.00EFA9E1@mail.libero.it> <200905241119080921.00F14021@mail.libero.it> <200905241119370781.00F1B0DD@mail.libero.it> <200906021138360765.00F75E5A@mail.libero.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: Repubblicani@yahoogroups.com
+X-Originating-IP: 212.52.84.109
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: dan_hyperlinker
+Sender: Repubblicani@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list Repubblicani@yahoogroups.com; contact Repubblicani-owner@yahoogroups.com
+Delivered-To: mailing list Repubblicani@yahoogroups.com
+List-Id: <Repubblicani.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:Repubblicani-unsubscribe@yahoogroups.com>
+Date: Tue, 02 Jun 2009 11:48:38 +0200
+Subject: [Repubblicani] Per la gestione collettiva del Bene Comune
+Reply-To: Repubblicani@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-ff-u
+Content-Type: multipart/alternative; boundary="FyC0BC4g0NhboFZ-SbuYNoahkQBrvZbLUbMs70R"
+
+
+
+
+Per la gestione collettiva del Bene Comune
+
+http://www.hyperlinker.com/ars/gd.htm
+
+
+"... Solo assumendoci questo impegno, noi italiani d'oggi possiamo conquistare il diritto di esultare insieme a chi ci ha preceduto e gridare: viva la Repubblica, viva la gestione collettiva del Bene Comune!"
+
+
+Vive cordialità,
+
+Danilo D'Antonio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+/* Laboratorio Eudemonia style sheet */
+
+
+a.lightlink {}
+.lightlink:hover {background: red}
+
+a.lightlinky {}
+.lightlinky:hover {background: blue}
+
+a.ll01 {text-decoration: none}
+.ll01:hover {background: blue; text-decoration: none}
+
+a.ll02 {text-decoration: none}
+.ll02:hover {text-decoration: underline}
+
+a.ll03 {color: white; text-decoration: none}
+.ll03:hover {text-decoration: underline}
+
+
+
+
+

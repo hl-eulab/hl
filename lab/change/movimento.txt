@@ -1,0 +1,115 @@
+Date:    18/04/09 2.47
+From:    Laboratorio Eudemonia
+To:      abruzzoemolisesolidali@yahoogroups.com
+Copy:    
+Subject: [abruzzoemolisesolidali] Il movimento della terra
+
+Received: (qmail 1702 invoked from network); 18 Apr 2009 02:47:12 -0700
+Received: from n20c.bullet.sp1.yahoo.com (69.147.64.135) by 206.41.120.28 with SMTP; 18 Apr 2009 02:47:11 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1240048038; bh=rlF1LeovnUplHxW+FliKTGqwye3yfZIVoZeHuEbW7Fg=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type; b=chu8Mst70/GMuMWH+2gy0uJamBT7WyXOem9erJp/O0MdVz9ZnWuWGW383iSajGPwurw0Bt1lhgB3bY/uJ/4J87FyNw19TH/pAO+HcRtxpYiMrRDYPLh3pTmH1vQpmUkw
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=RQtlqmuZyHirKEu/Hh32ZL2UcKwm84P1ai0PtqmgxK8mcBhZLqqNjIcPrZzaX+u4gCTVS3mWb9kxJDvUs9Ual/sNyBDnZ2G0kMBnbQl3RoD42kXcKEI1zr4X/IUw293B;
+Received: from [69.147.65.171] by n20.bullet.sp1.yahoo.com with NNFMP; 18 Apr 2009 09:47:18 -0000
+Received: from [69.147.108.199] by t13.bullet.mail.sp1.yahoo.com with NNFMP; 18 Apr 2009 09:47:18 -0000
+X-Yahoo-Newman-Id: 14947213-m1052
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: abruzzoemolisesolidali@yahoogroups.com
+X-Received: (qmail 75812 invoked from network); 18 Apr 2009 09:47:11 -0000
+X-Received: from unknown (98.137.34.46) by m8.grp.re1.yahoo.com with QMQP; 18 Apr 2009 09:47:11 -0000
+X-Received: from unknown (HELO smtp-OUT05A.alice.it) (85.33.3.5) by mta3.grp.sp2.yahoo.com with SMTP; 18 Apr 2009 09:47:10 -0000
+X-Received: from FBCMMO01.fbc.local ([192.168.68.195]) by smtp-OUT05A.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Sat, 18 Apr 2009 11:42:19 +0200
+X-Received: from FBCMCL01B01.fbc.local ([192.168.69.82]) by FBCMMO01.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Sat, 18 Apr 2009 11:47:07 +0200
+X-Received: from out.alice.it ([79.46.22.197]) by FBCMCL01B01.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Sat, 18 Apr 2009 11:47:07 +0200
+Message-ID: <200904180946590260.00A57964@out.alice.it>
+References: <200904180946180180.00A4D8D2@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+To: abruzzoemolisesolidali@yahoogroups.com
+X-OriginalArrivalTime: 18 Apr 2009 09:47:07.0725 (UTC) FILETIME=[A336BFD0:01C9C00A]
+X-Originating-IP: 85.33.3.5
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: danhyp
+Sender: abruzzoemolisesolidali@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list abruzzoemolisesolidali@yahoogroups.com; contact abruzzoemolisesolidali-owner@yahoogroups.com
+Delivered-To: mailing list abruzzoemolisesolidali@yahoogroups.com
+List-Id: <abruzzoemolisesolidali.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:abruzzoemolisesolidali-unsubscribe@yahoogroups.com>
+Date: Sat, 18 Apr 2009 09:46:59 +0200
+Subject: [abruzzoemolisesolidali] Il movimento della terra
+Reply-To: abruzzoemolisesolidali@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-ff-u
+Content-Type: multipart/alternative; boundary="Ch4XMMU46e6mRgDcmRg5YsbV1mxI7xd8XKTxa4h"
+
+
+
+
+
+Il movimento della terra volgarmente chiamato "terremoto" è un evento naturale che non ha mai spaventato più di quanto possa spaventare un temporale coloro che hanno percezione del carattere dinamico della realtà e per questo hanno realizzato e vissuto in case che non solo ne tenessero conto ma vi facessero anzi proprio riferimento.
+
+Coloro che pongono al centro delle loro attenzioni ciò che davvero conta non incontrano grandi difficoltà nella loro vita. Coloro che invece permettono ai tanti farabutti che impestano la società e s'approfittano di tutti di dirigere la loro attenzione verso oggetti di nessun conto possono esser certi che se la vedranno spesso brutta.
+
+
+Per l'ennesima volta la volontà delle cose ha di recente buttato giù un gran numero di vecchi fatiscenti edifici indebitamente reputati sacri. Sacro in verità è il mondo, l'universo intero, e se oggi qualcosa v'è sulla Terra che non lo è più son proprio quegli edifici venuti giù per il giusto essere trascorso del loro tempo.
+
+Quante persone si sarebbero potute salvare ed in quali deliziose condizioni avrebbero vissuto e vivrebbero oggi le popolazioni sconvolte dal "terremoto" se invece che riversare i loro denari e le loro energie su edifici di una superstiziosa sacralità risalente ad antiche epoche analfabete si fossero impegnati a costruire e si fossero rifugiate in edifici di proprietà comune costruiti con criteri in grado di far loro superare ogni sisma ed altro evento naturale di qualsiasi magnitudo e magnificenza?
+
+Come sarebbe andata ed andrebbe se invece che riportar su in continuazione vecchi ammassi di pietre che giustamente cadono continuamente a terra, al loro posto, una volta definitivamente sgombrate quelle macerie, si fossero costruite e si costruissero delle magnifiche case del popolo, sedi di quartiere, sovradimensionate per ogni esigenza straordinaria e normalmente usate per permettere alle persone d'incontrarsi, di comunicare tra loro, di decidere delle loro stesse vite senza interposti parassiti statali assunti od eletti a vita?
+
+
+Oggi popolazioni che non si sono minimamente curate dei loro stessi e più importanti interessi ed affetti sono sconvolte e disperse per ogni dove soltanto perché hanno reputato sacro ciò che non lo era ed ignorato ciò che era ed è effettivamente sacro! E' sacra la natura, perché di essa siamo parte ed essa dobbiamo amare, conoscere a fondo ed osservare di continuo per viverla bene. E' sacra la nostra capacità di vivere insieme senza interposti statali, senza deleghe di mansioni e decisioni assegnate a vita.
+
+Volete che il mondo cambi? Davvero volete che le cose comincino a filare lisce così come nei vostri migliori sogni? Ebbene, iniziate col cambiare voi stessi, gente che popola questo Paese. Smettetela di incolpare altri che non voi stessi! Un nuovo mondo inizia dal più intimo di noi stessi e solo da lì può diffondersi all'esterno. Fintantoché crederete a miracoli mai avvenuti, fintantoché delegherete ad altri i vostri preziosi poteri, passerete guai a non finire. Iniziate a ragionare, discernete il vero bene dagli idoli della superstizione, assumetevi ogni responsabilità per quanto vi accade, e vedrete che giorno dopo giorno la vostra e l'altrui vita s'ggiusterà sempre più, oltre ogni aspettativa.
+
+
+Danilo D'Antonio
+
+
+http://change.hyperlinker.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

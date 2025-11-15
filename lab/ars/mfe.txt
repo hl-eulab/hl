@@ -1,0 +1,133 @@
+Date:    19/06/2009 7.42
+From:    Laboratorio Eudemonia
+To:      mfe@yahoogroups.com
+Copy:    
+Subject: [Forum MFE-GFE] Europa ostacolata dallo statalismo
+
+Received: (qmail 22286 invoked from network); 19 Jun 2009 07:42:32 -0700
+Received: from n45a.bullet.mail.sp1.yahoo.com (66.163.168.139) by 206.41.120.28 with SMTP; 19 Jun 2009 07:42:30 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1245422546; bh=1MZC/lzvMqqmtUkHsP7ENEHIzlcozlIC7eqASPUyC9E=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=lt+H84JeH1bl/6YbOseP0rtvRO2b2fLFs+ifL8xdv65MIOw6X3rgvEoh3+DxCl/frrOeMbhpAiYoLA0452FI73q9Tr/vk6Ij7VqVNOeTJX1Mj62v0YJGsV9jgE5oPweA
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=ULgLcT8DFx45rkQlHWnqTZmgrHxvKNkz3XAv93wDMekzCCAxezFvcW+ih0P1gxojzik6Q01YeDPZ0l4bkiFWT3l0LwVgXDqGBQZNxsnw2IY0yyz2teeufXGUGnUwJowz;
+Received: from [69.147.65.151] by n45.bullet.mail.sp1.yahoo.com with NNFMP; 19 Jun 2009 14:42:26 -0000
+Received: from [69.147.108.195] by t5.bullet.mail.sp1.yahoo.com with NNFMP; 19 Jun 2009 14:42:26 -0000
+X-Yahoo-Newman-Id: 230412-m15597
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: mfe@yahoogroups.com
+X-Received: (qmail 90679 invoked from network); 19 Jun 2009 14:42:03 -0000
+X-Received: from unknown (69.147.108.201) by m4.grp.re1.yahoo.com with QMQP; 19 Jun 2009 14:42:03 -0000
+X-Received: from unknown (HELO cp-out7.libero.it) (212.52.84.107) by mta2.grp.re1.yahoo.com with SMTP; 19 Jun 2009 14:42:03 -0000
+X-Received: from mail.libero.it (151.82.22.112) by cp-out7.libero.it (8.5.107) id 4A3A1F7E00530D81 for mfe@yahoogroups.com; Fri, 19 Jun 2009 16:42:02 +0200
+Message-ID: <200906191641340843.0043CDE9@mail.libero.it>
+References: <200906191603120109.0020AADA@mail.libero.it> <200906191604140906.0021A027@mail.libero.it> <200906191639200468.0041C102@mail.libero.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: mfe@yahoogroups.com
+X-Originating-IP: 212.52.84.107
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: dan_hyperlinker
+Sender: mfe@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list mfe@yahoogroups.com; contact mfe-owner@yahoogroups.com
+Delivered-To: mailing list mfe@yahoogroups.com
+List-Id: <mfe.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:mfe-unsubscribe@yahoogroups.com>
+Date: Fri, 19 Jun 2009 16:41:34 +0200
+Subject: [Forum MFE-GFE] Europa ostacolata dallo statalismo
+Reply-To: eulab@hyperlinker.com
+X-Yahoo-Newman-Property: groups-email-tradt-m
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+--------------------------------------
+  Europa ostacolata dallo statalismo
+--------------------------------------
+
+
+
+Con la parola Stato possiamo intendere il risultato di un processo storico di accentramento del potere affermatosi successivamente alla fase di dispersione nei differenti centri territoriali indipendenti tipici dell'Europa medievale. La centralità del potere è giustamente continuata anche successivamente all'avvento delle moderne società democratiche, radicandosi però, per lo più, all'interno di una ristretta quanto difficilmente modificabile cerchia di politici professionisti, quindi in vendita al miglior offerente, piuttosto che redistribuirsi genuinamente e regolarmente tra la popolazione come il nuovo disegno democratico, ed in certi casi anche repubblicano, richiedeva.
+
+A causar ciò è stata ovunque soprattutto una rimasta primitiva organizzazione della Pubblica Amministrazione, l'assegnazione a vita dei cui milioni di ruoli ha per prima generato una casta e mafia di statali e favorito poi lo stabilirsi di una casta e mafia di politici. Di fatto al momento presente, nei vari Paesi come pure a livello dell'Unione Europea, la situazione politica è massimamente insana causa entrambe queste patologiche formazioni, queste due concrezioni vicendevolmente rafforzantisi. Esse, pur di mantenersi in auge, preferiscono troppe volte affermare le volontà delle varie lobby e potentati piuttosto che le nuove direzioni necessarie all'evoluzione ed al buon funzionamento sociale.
+
+
+Analogamente a quanto è avvenuto in passato nei singoli Paesi, è perfettamente giusto ed onorevole auspicare oggi il formarsi di un potere centrale europeo. Ci troviamo di fronte a tante e tali critiche situazioni in ambito globale che non si può davvero pensare di risolverle senza un potere che sia quantomeno all'altezza di quello delle altre formazioni. Tuttavia non si faccia l'errore, che stavolta noi europei certo non perdoneremmo, non solo in ambito continentale ma a quel punto anche locale, di continuare ad affermare anche a livello di Unione un ottocentesco statalismo fatto di eletti ed assunti a vita piuttosto che una moderna gestione collettiva, periodicamente redistribuita e rinnovata, del crescente Bene Comune Europeo.
+
+Una moderna società, che voglia essere davvero democratica, non può più disporre di una partecipazione popolare limitata al solo, triste perché impotente, momento elettorale. Al contrario occorre che una ben più operosa e lieta partecipazione si esprima innanzitutto nei milioni di ruoli della gestione di quanto appartiene ed è di pertinenza della collettività. L'Unione Europea ha oggi una opportunità mettendo a frutto la quale potrebbe brillare ben oltre i confini del proprio continente. Quella di esser d'esempio nel far partecipi a rotazione della sua Cosa Pubblica, della Pubblica Amministrazione dell'Unione, tutti quei cittadini europei che lo volessero e disponessero dei requisiti necessari.
+
+
+Come si può dar torto a coloro che oggi rinunciano al diritto e rifiutano il dovere di esercitare il proprio voto? Noi, che da tempo non votiamo, abbiamo piena ragione di tenerci lontani dai seggi perché è l'unico modo di cui disponiamo, quantificato e pubblico, per dichiararci lontani dalla presente politica e generale amministrazione dei nostri Paesi e dell'Unione. Chi desidera che una valanga di voti si riversi finalmente nei seggi al prossimo appuntamento elettorale si dìa da fare con il cuore e la mente affinché la rotazione ci liberi per sempre dagli statali e dallo statalismo. Rimuovendo l'oscura banda degli statali, con la quale si circondano e proteggono gli accaparratori di potere, sarà impossibile per un politico professionista e per qualunque altro puzzone ottenere più spazio di quello che merita.
+
+A quel punto, e non prima, sarà vera democrazia.
+A quel punto, e non prima, l'Europa potrà divenire una poderosa realtà.
+
+
+Danilo D'Antonio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+Il forum non è moderato e l'invio di allegati non è consentito. 
+Le richieste di iscrizione vanno indirizzate a moderatore@mfe.itLink utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/mfe/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/mfe/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:mfe-digest@yahoogroups.com 
+    mailto:mfe-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    mfe-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

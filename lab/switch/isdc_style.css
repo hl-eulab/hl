@@ -1,0 +1,61 @@
+/* Laboratorio Eudemonia style sheet */
+
+a  { text-decoration: none }
+
+a.lightlink {}
+.lightlink:hover {background: white; text-decoration: underline}
+
+a.lightlinkg {color: green}
+.lightlinkg:hover {background: white; color: green; text-decoration: underline}
+
+a.lightlinkr {color: red}
+.lightlinkr:hover {background: white; color: red; text-decoration: underline}
+
+a.lightlinky {}
+.lightlinky:hover {background: blue}
+
+a.ll01 {text-decoration: none}
+.ll01:hover {background: blue; text-decoration: none}
+
+a.ll02 {text-decoration: none}
+.ll02:hover {text-decoration: underline}
+
+a.underline {text-decoration: underline}
+.underline:hover {text-decoration: none}
+
+.white {color: white; text-decoration: none}
+.white:hover {color: white; text-decoration: underline}
+
+.orange {color: orange; text-decoration: none}
+.orange:hover {color: orange; text-decoration: underline}
+
+.red {color: red; text-decoration: none}
+.red:hover {color: red; text-decoration: underline}
+
+.ultragreen {color: #004000; text-decoration: none}
+.ultragreen:hover {color: #004000; text-decoration: underline}
+
+
+.noline {text-decoration: none}
+.noline:hover {text-decoration: underline}
+
+a.redline {color: red; text-decoration: underline}
+.redline:hover {color: navy; text-decoration: none}
+
+a.blueline {color: blue; text-decoration: underline}
+.blueline:hover {color: navy; text-decoration: none}
+
+a.greenline {color: green; text-decoration: underline}
+.greenline:hover {color: navy; text-decoration: none}
+
+a.violetline {color: 8000ff; text-decoration: underline}
+.violetline:hover {color: navy; text-decoration: none}
+
+a.rednoline {color: red; text-decoration: none}
+.rednoline:hover {color: navy; text-decoration: underline}
+
+
+
+a.isdc {color: green; text-decoration: none}
+.isdc:hover {color: red; text-decoration: underline}
+

@@ -1,0 +1,23 @@
+
+
+
+/*                 HyperLinker.com(TM) style sheet                  */
+/*       http://www.HyperLinker.tk - email at HyperLinker.tk        */
+
+
+
+
+a.simple {text-decoration: underline; color="#033ca9"}
+.simple:hover {text-decoration: none; color="#033ca9"}
+
+a.asimple {text-decoration: none}
+.asimple:hover {text-decoration: underline}
+
+a.asimple_grey {text-decoration: underline; color: #8f8f8f}
+.asimple_grey:hover {text-decoration: none; color: #8f8f8f}
+
+a.simple_grey {text-decoration: none; color: #8f8f8f}
+.simple_grey:hover {text-decoration: underline; color: #8f8f8f}
+
+a.white {text-decoration: none; color: white}
+.white:hover {text-decoration: underline; color: white}

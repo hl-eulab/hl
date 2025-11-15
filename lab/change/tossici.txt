@@ -1,0 +1,132 @@
+Date:    04/09/2009 7.28
+From:    Laboratorio Eudemonia
+To:      psiconauti@yahoogroups.com
+Copy:    
+Subject: [psiconauti] tossici dipendenti
+
+Received: (qmail 16021 invoked from network); 4 Sep 2009 07:28:16 -0700
+Received: from n68c.bullet.mail.sp1.yahoo.com (98.136.45.67) by 206.41.120.28 with SMTP; 4 Sep 2009 07:28:16 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1252074496; bh=1UzKV0ekUp0i2yG1HnIUZZP2Sjhl40h9LxTix3ic3Q8=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:References:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=O9xGUgS3bcvscmO7a2kITAcM23CdP9Ux79M5+mAgrEpZ7pI7uD0TdIQZVob0j/VgHVgDhAVgvQ2lKz7VKzs9ZejByF7nDryozGDrqpp+O1LYi9B4DpAc89OyE3FPF43D
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=G0DIuRmbv8vkN5XeSuNdkcSq1y2nzzTHv5m9TQWq+eg+wHnfeISdYXfDg3HKrlx873y+k5L8HBqQ5WH9q/J2VM2vafCKTrnP8XM6VP1xZq7ynHccL91+O8+MDCHhDIzN;
+Received: from [69.147.65.149] by n68.bullet.mail.sp1.yahoo.com with NNFMP; 04 Sep 2009 14:28:16 -0000
+Received: from [69.147.108.194] by t9.bullet.mail.sp1.yahoo.com with NNFMP; 04 Sep 2009 14:28:16 -0000
+X-Yahoo-Newman-Id: 2088898-m0
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: psiconauti@yahoogroups.com
+X-Received: (qmail 59436 invoked from network); 4 Sep 2009 14:28:09 -0000
+X-Received: from unknown (69.147.108.200) by m3.grp.re1.yahoo.com with QMQP; 4 Sep 2009 14:28:09 -0000
+X-Received: from unknown (HELO smtp-out28.alice.it) (85.33.2.28) by mta1.grp.re1.yahoo.com with SMTP; 4 Sep 2009 14:28:09 -0000
+X-Received: from FBCMMO02.fbc.local ([192.168.68.196]) by smtp-out28.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 4 Sep 2009 16:26:48 +0200
+X-Received: from FBCMCL01B02.fbc.local ([192.168.69.83]) by FBCMMO02.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 4 Sep 2009 16:26:45 +0200
+X-Received: from out.alice.it ([79.47.183.165]) by FBCMCL01B02.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Fri, 4 Sep 2009 16:26:45 +0200
+Message-ID: <200909041626450203.00227058@out.alice.it>
+References: <200909041319260453.002CBA32@out.alice.it> <200909041335420265.003B9DF6@out.alice.it> <200909041337260453.003D34F2@out.alice.it> <200909041337320015.003D4AAC@out.alice.it> <200909041338050234.003DCC6F@out.alice.it> <200909041622360578.001EA527@out.alice.it> <200909041623380718.001F97E4@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: psiconauti@yahoogroups.com
+X-OriginalArrivalTime: 04 Sep 2009 14:26:45.0581 (UTC) FILETIME=[BB03A7D0:01CA2D6B]
+X-Originating-IP: 85.33.2.28
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: dan_hyperlinker
+Sender: psiconauti@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list psiconauti@yahoogroups.com; contact psiconauti-owner@yahoogroups.com
+Delivered-To: mailing list psiconauti@yahoogroups.com
+List-Id: <psiconauti.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:psiconauti-unsubscribe@yahoogroups.com>
+Date: Fri, 04 Sep 2009 16:26:45 +0200
+Subject: [psiconauti] tossici dipendenti
+Reply-To: psiconauti@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-u
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+"... Facciamo qualche esempio illuminante. 
+
+Chi è più colpevole? Il dirigente che impone la conquista economica del mondo, la sua invasione con le auto, il monopolio delle sementi, l'aggressione farmaceutica, la dominazione pubblicitaria, l'informazione addomesticata, la barbara condotta aziendale, o coloro che sottostanno a quelle imposizioni e zitti zitti, chiatti chiatti invadono e rovinano ogni angolo di un mondo che ormai può solo chiedere: pietà! sopraffacendo ogni buon senso e libertà?
+
+Chi è più colpevole? Il ricco imprenditore che vuol cementificare l'Universo, che organizza la costruzione di condomini/tomba, oppure tutti coloro che li fanno venir su, a volte pure sapendo che presto andranno giù?
+
+Chi è più colpevole? I pochi padroni della finanza globale o le milioni di persone supermasterizzate che ogni giorno fan quel che vogliono dei risparmi altrui?
+
+Chi è più colpevole? Quei pochi che pagano per inquinare o quei tanti che inquinano materialmente?
+
+Chi è più colpevole? Coloro che dan ordini e distribuiscono soldi per far costruire armi o coloro che obbediscono a quegli ordini ed accettano quei soldi e ricercano, progettano e costruiscono materialmente quelle armi che poi vanno a massacrare gente in ogni disparato angolo del mondo?
+
+Chi è più colpevole? Il ricco che apre una fabbrica di mine antiuomo/donna/bambino oppure le torme di persone comuni che le vanno concretamente ad ideare e produrre a milioni per mantenere la loro, di famiglia?
+
+Chi è più colpevole? I politici che impongono assurde regole, ingiuste ed ingiustificate, immature e scorrette, o i milioni di statali che le applicano senza muover ciglio e tantomeno aprono bocca sulle tante urgenze che ci sarebbero da soddisfare ..."
+
+
+Accettando senza fiatare di compiere materialmente gli infiniti piccoli e grandi atti negativi che rovinano il mondo, che la maggior parte delle volte sono ritenuti perfettamente a "norma di legge", coprendo l'infamia della nostra acritica condotta con la giustificazione di dover campare una famiglia, di conservare un salario: così si diventa tossici dipendenti.
+
+Occorre compiere un deciso passo avanti: abbandonare l'ideale del "posto fisso", che rende fedeli schiavi dei peggiori, e realizzare insieme una economia dinamica basata su giustizia e solidarietà.
+
+
+Intanto chiariamo come son nati e continuano a proliferare i tossici dipendenti:
+
+http://www.hyperlinker.com/change/prrr_prrr.htm
+
+
+E poi cominciamo seriamente a pensare all'
+
+http://Armonica-Rotazione-Sociale.hyperlinker.org
+
+
+Danilo D'Antonio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+ATTENZIONE: Tutti i messaggi che appaiono sulla lista rappresentano semplicemente il punto di vista del relativo autore. Questa mailing list ha uno scopo esclusivamente informativo su metodi e tecniche di esplorazione della coscienza, e non vuole incoraggiare all'uso di sostanze proibite dall'attuale legislazioneLink utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/psiconauti/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/psiconauti/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:psiconauti-digest@yahoogroups.com 
+    mailto:psiconauti-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    psiconauti-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

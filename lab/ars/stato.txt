@@ -1,0 +1,123 @@
+Date:    28/02/09 4.01
+From:    Laboratorio Eudemonia
+To:      Repubblicani@yahoogroups.com
+Copy:    
+Subject: Re: [Repubblicani] periodici ... rinnovamenti
+
+Received: (qmail 16309 invoked from network); 28 Feb 2009 04:01:30 -0800
+Received: from n57c.bullet.mail.sp1.yahoo.com (98.136.45.56) by 206.41.120.28 with SMTP; 28 Feb 2009 04:01:30 -0800
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1235822497; bh=hu8D+YYJK4VDWTP3y4nX18FnPTqeZR23zaoYtUk29qQ=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:In-Reply-To:References:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type; b=UCz9qfHmT/mAVwGg1/0sbq4prZTbdJgWpjuObhUEMg5ckp2DkvmcGRazeRzZLDGAg1yPgI9Gdi02kp5IfDY8eQWMf5UWAt0Jj/gmScypJK4pAqMNlpznvmqJVpTxZKW9
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=dbtrfDdHBB1ezFWbVzbNV+a8yxc8QGs52z7xuhkkD4ZqxJgw+hV4Gf3jemdqGG6bPDRhMZLfiGy4PpsH8hzRB4nFQoMzrfY5nTQn7KfFScpyfC+EWWvzI1A+pxC4ekx0;
+Received: from [69.147.65.149] by n57.bullet.mail.sp1.yahoo.com with NNFMP; 28 Feb 2009 12:01:37 -0000
+Received: from [66.218.66.96] by t9.bullet.mail.sp1.yahoo.com with NNFMP; 28 Feb 2009 12:01:37 -0000
+X-Yahoo-Newman-Id: 12340068-m18834
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: Repubblicani@yahoogroups.com
+X-Received: (qmail 8716 invoked from network); 28 Feb 2009 12:01:35 -0000
+X-Received: from unknown (66.218.67.94) by m56.grp.scd.yahoo.com with QMQP; 28 Feb 2009 12:01:35 -0000
+X-Received: from unknown (HELO smtp-out25.alice.it) (85.33.2.25) by mta15.grp.scd.yahoo.com with SMTP; 28 Feb 2009 12:01:35 -0000
+X-Received: from FBCMMO01.fbc.local ([192.168.68.195]) by smtp-out25.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Sat, 28 Feb 2009 13:01:40 +0100
+X-Received: from FBCMCL01B05.fbc.local ([192.168.69.86]) by FBCMMO01.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Sat, 28 Feb 2009 13:01:34 +0100
+X-Received: from out.alice.it ([79.31.37.220]) by FBCMCL01B05.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Sat, 28 Feb 2009 13:01:40 +0100
+Message-ID: <200902281201320270.00A8663B@out.alice.it>
+In-Reply-To: <C5CEC8E2.12C2E%giac@rmnet.it>
+References: <C5CEC8E2.12C2E%giac@rmnet.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (8)
+To: Repubblicani@yahoogroups.com
+X-OriginalArrivalTime: 28 Feb 2009 12:01:40.0206 (UTC) FILETIME=[508BD8E0:01C9999C]
+X-Originating-IP: 85.33.2.25
+X-eGroups-Msg-Info: 1:6:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: danhyp
+Sender: Repubblicani@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list Repubblicani@yahoogroups.com; contact Repubblicani-owner@yahoogroups.com
+Delivered-To: mailing list Repubblicani@yahoogroups.com
+List-Id: <Repubblicani.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:Repubblicani-unsubscribe@yahoogroups.com>
+Date: Sat, 28 Feb 2009 12:01:32 +0100
+Subject: Re: [Repubblicani] periodici ... rinnovamenti
+Reply-To: Repubblicani@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-ff-u
+Content-Type: multipart/alternative; boundary="6G1F69c8NrvpbffQat9sx-2Sf7Z8yXOwFRCKqbM"
+
+
+
+
+
+On 28/02/09 at 10.56 davide giacalone wrote:
+
+>Nello specifico della questione sollevata, però, c¹è poco da progettare,
+>essendo sufficiente rispettare la Costituzione.
+
+
+
+
+Qui sta il punto: è impossibile che la nostra Costituzione, stilata sessant'anni fa, possa, oggi, farsi rispettare.
+
+
+Si tratta di cosa impossibile perché, nell'arco di questi sessant'anni, a causa del carattere statico della nostra organizzazione statale, e quindi del permanere per lunghissimo tempo delle sempre stesse persone nei sempre stessi ambienti e ruoli, si sono create delle situazioni anomale, di infertilità e ristagno di idee, quando non di vera e propria putrefazione, che non sarà possibile sanare se non spostando altrove, in massa, quelle persone, per permettere ad altre con altre esperienze e conoscenze di apportare il loro contributo arricchente e rinnovatore.
+
+Se ci riflettiamo le parole ci aiutano a capire.
+
+
+Il nostro presente concetto di Stato deriva da una cultura antica, che dovrebbe essere desueta da tempo, che vede e considera le cose come fossero eternamente immobili ed immutabili. In realtà, così come non esiste l'assoluto, così come i dogmi sono pensieri irrazionali e non descriventi qualcosa di reale, allo stesso modo non esiste nulla, nemmeno la Terra su cui poggiamo, che non si muova e muti e sovverta periodicamente.
+
+Precisamente occorre rendere pacifica quindi amica, regolarizzandola, quella sovversione che altrimenti, ad un certo punto, non potrà che avvenire comunque, manifestandosi però violenta e nemica.
+
+Oggi ci troviamo all'esatto punto in cui da Status occorre passare a qualcosa che sia Dinamicus.
+
+
+Questa ricerca è il compito primario di quelle persone che intendono non solo guarire la società dai suoi mali ma pure stabilire quell'intimo contatto con l'Universo, con la realtà Tutta, sempre cangiante e dalle infinite forme, che hanno sempre cercato fin dal loro primo respiro.
+
+
+Danilo D'Antonio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

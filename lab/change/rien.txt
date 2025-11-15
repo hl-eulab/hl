@@ -1,0 +1,156 @@
+Date:    09/06/2009 11.00
+From:    Laboratorio Eudemonia
+To:      rientrodolce@yahoogroups.com
+Copy:    
+Subject: Re: [rientrodolce] sul Seminario di Assisi e un po sul personale.
+
+Received: (qmail 30301 invoked from network); 9 Jun 2009 11:00:30 -0700
+Received: from n60c.bullet.mail.sp1.yahoo.com (98.136.45.59) by 206.41.120.28 with SMTP; 9 Jun 2009 11:00:30 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1244570428; bh=U7lJObm0ipMcAakXn4F+SjZdXCsf6aSbtPRpFYyWh5M=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:Message-ID:In-Reply-To:References:X-Mailer:To:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type:Content-Transfer-Encoding; b=BLkiQnr0Y8IZopy/pCHzYpoXvoHvTO0DKJjerDmCHOItySlu6ajp08ylnFga1tvDlMk1YXLZzhF8lIF7i+GTOaL1buBGJyHKfrd5pR6rXnmoLB/ZCHezOWMEoix4ClvV
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=NHMnqbZqKgi1xAI+jZO/F59H9sBI4uwX257MtHZCEKeR7STgKzbmemySZ4Hx68QXhTNXeBuV7U2S6Y9RM/9I90ZOHvXwKyVRaSxW+kf2AdO5hgWwL0exr23wLcKQq6fE;
+Received: from [69.147.65.147] by n60.bullet.mail.sp1.yahoo.com with NNFMP; 09 Jun 2009 18:00:28 -0000
+Received: from [98.137.34.40] by t10.bullet.mail.sp1.yahoo.com with NNFMP; 09 Jun 2009 18:00:28 -0000
+X-Yahoo-Newman-Id: 13644549-m17653
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: rientrodolce@yahoogroups.com
+X-Received: (qmail 81996 invoked from network); 9 Jun 2009 18:00:21 -0000
+X-Received: from unknown (69.147.108.201) by m4.grp.sp2.yahoo.com with QMQP; 9 Jun 2009 18:00:21 -0000
+X-Received: from unknown (HELO cp-out8.libero.it) (212.52.84.108) by mta2.grp.re1.yahoo.com with SMTP; 9 Jun 2009 18:00:21 -0000
+X-Received: from mail.libero.it (151.80.0.235) by cp-out8.libero.it (8.5.107) id 4A28E7E500B13404; Tue, 9 Jun 2009 19:54:09 +0200
+Message-ID: <200906091954060515.0052B0A3@mail.libero.it>
+In-Reply-To: <261798.42490.qm@web24402.mail.ird.yahoo.com>
+References: <957681.80737.qm@web33408.mail.mud.yahoo.com> <261798.42490.qm@web24402.mail.ird.yahoo.com>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: rientrodolce@yahoogroups.com
+X-Originating-IP: 212.52.84.108
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: dan_hyperlinker
+Sender: rientrodolce@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list rientrodolce@yahoogroups.com; contact rientrodolce-owner@yahoogroups.com
+Delivered-To: mailing list rientrodolce@yahoogroups.com
+List-Id: <rientrodolce.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:rientrodolce-unsubscribe@yahoogroups.com>
+Date: Tue, 09 Jun 2009 19:54:06 +0200
+Subject: Re: [rientrodolce] sul Seminario di Assisi e un po sul personale.
+Reply-To: rientrodolce@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-tradt-u
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+On 02/06/2009 at 16.58 Luca Pardi wrote:
+
+>Sapete cosa mi diceva settimane fa un mio collega di sicura fede
+>sviluppista? Quelli come te sono cosÃ¬
+>perchÃ¨ non riescono piÃ¹ a fare ricerca come la facevano prima e allora
+>sputano nel piatto dove mangiano.
+>Un tempo sarei diventato una belva. Gli ho risposto - verissimo, per una
+>critica della ricerca (che avrÃ  come
+>tutto pur bisogno di una critica) ci vogliono proprio ricercatori che non
+>riescono piÃ¹ a fare i ricercatori,
+>che hanno perso motivazione e passione per una cosa che li ha ormai
+>disgustati. -
+
+
+
+
+Caro Luca, 
+
+pur con ritardo, ho letto con gran piacere queste tuo intervento. Ti ringrazio per la tua presa di posizione nei confronti di una scienza che se ne va per i fatti propri senza curarsi di nulla.
+
+Ultimamente, quando leggo appelli in favore di una generica ricerca, mi vien da desiderare si prediliga, per il cinque per mille, qualsiasi altra realtà associativa piuttosto che scientifica. Non si può certo generalizzare, tuttavia da un po' di tempo ho una repulsione per questo tipo di scienziati e vorrei che prima si aggiustasse la società e poi si procedesse nella ricerca.
+
+
+Non essendo la prima volta che leggo tue parole veraci e coraggiose, puoi però capire quanto abbia provato sconcerto e mi sia dispiaciuto non aver letto un tuo intervento parimenti genuino anche in merito alla stranota iniziativa, superficiale quanto prepotente, che pretende difendere il territorio per nulla informando su quanto realmente accade, per nulla discernendo gli esseri umani da enti pubblici ed imprese e calpestando di conseguenza loro fondamentali diritti.
+
+Già da un po', divenuto nomade in fuga dall'Abruzzo causa gli sviluppisti, mi trovo a vivere in Maremma. Ebbene qui sono venuto a contatto con fatti umani davvero tristi. L'ultima storia con la quale mi sono imbattuto è quella di un livornese che ha dovuto abbandonare il suo territorio per realizzare altrove il suo sogno di allevare cavali vivendo su un su terreno. In Toscana non gli viene permesso da uno statalismo ambientalista, od ambientalismo statalista, che di fatto ha tolto ai poveri per dare ai ricchi.
+
+Ho conosciuto parecchi giovani che sono costretti ad abbandonare il loro territorio, pur avendo della terra sulla quale potrebbero vivere e pure fare un qualche lavoro se fosse loro concesso costruire una casetta, per il semplice ma schiacciante fatto che viene loro impedito da questo abominevole connubio toscano fatto di statalismo ed ambientalismo che richiama i ricchi e scaccia i poveri. I primi, pagando, possono perfino aprire una pseudo azienda agricola per stabilirsi su un terreno e far quel che vogliono, dal villone al campo da tennis fino alla piscina. I secondi, non disponendo di denaro da gettar via in una avventura economica agraria già in partenza risaputa facilmente fallimentare, sono costretti ad emigrare per non rinchiudersi in un condominio.
+
+
+Questo non va assolutamente bene. Se è perfettamente giusto richiamare all'ordine enti pubblici ed imprese dal non massacrare ulteriormente il territorio coi loro massicci interventi, è ancor più giusto NON soffocare l'essere umano rinchiudendolo in strette gabbie impedendogli di vivere sulla propria terra.
+
+Se gli ambientalisti/statalisti non volevano una proliferazione di abitazioni sul loro territorio avrebbero dovuto intervenire per tempo dando l'allarme sulla sovrappopolazione. Così non hanno fatto, gli sciagurati, ed ora non pretendano che per salvare il panorama davanti la loro casetta od orticello, per non rovinare un loro quadretto che si son costruiti nella loro mente, le persone debbano abbandonare la loro terra ed i loro cari.
+
+
+Quella gente che ha proclamato uno stop al consumo di territorio privo del benché minimo discernimento su cosa fosse effettivamente giusto e cos'altro non lo fosse, sta usando migliaia di membri di associazioni, che ne sanno, poveretti, perfino meno di loro, per operare una FORZA politica che calpesterà i diritti di tante persone, di tanti giovani. V'è qualcosa di più prepotente e poco saggio di questo uso dittatoriale della maggioranza?
+
+Il giorno che coloro che hanno firmato si renderanno conto di cosa hanno firmato, autorizzando pure un ulteriore andazzo liberticida di questo tipo, assisterò con piacere, con davvero mucho gusto, alla rivalsa che avranno su promotori che avrebbero dovuto andarsene a giocare a bocce piuttosto che condurre la loro POLLITICA.
+
+
+Ecco, caro Luca, ti stimo molto (e questo non è un tipo di dichiarazione che faccio di frequente) ma stavolta non posso non essere triste per questo tuo mancato intervento. Anche perché: ci si può forse stupire se agendo in questo modo in sede elettorale non si raccolgano molti voti? Si faccia qualcosa per la gente. La si liberi dallo statalismo, non solo ambientalista ma di ogni tipo. Si mettano invece i dovuti lacci ad enti pubblici ed imprese. Ed allora sì che il successo arriverà.
+
+
+Un caro saluto,
+
+
+Danilo D'Antonio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+_________________________________________________________________________
+
+Per ricevere un’unica e-mail giornaliera oppure solo gli avvisi, scrivi a li.al@tiscali.it 
+
+SITO DELL'ASSOCIAZIONE RIENTRODOLCE
+http://www.rientrodolce.org
+
+SOTTOSCRIVI L'APPELLO A MARCO PANNELLA SUL PROBLEMA DEMOGRAFICO:
+http://www.radicalparty.org/demography_appeal/form.php?lang=it
+Link utili di Yahoo! Gruppi  
+
+<*> Per andare all'homepage del gruppo vai alla pagina:
+    http://it.groups.yahoo.com/group/rientrodolce/
+
+<*> Le tue impostazioni email:
+    Email singoli|Tradizionali
+
+<*> Per cambiare le impostazioni online visita il sito:
+    http://it.groups.yahoo.com/group/rientrodolce/join
+    (necessaria l'ID Yahoo!)
+
+<*> Per cambiare le impostazioni tramite email:
+    mailto:rientrodolce-digest@yahoogroups.com 
+    mailto:rientrodolce-fullfeatured@yahoogroups.com
+
+<*> Per annullare l'iscrizione al gruppo scrivi a:
+    rientrodolce-unsubscribe@yahoogroups.com
+
+<*> L'utilizzo da parte tua di Yahoo! Gruppi è soggetto alle:
+    http://it.docs.yahoo.com/info/utos.html

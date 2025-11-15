@@ -1,0 +1,40 @@
+/* ABRUZZO style sheet */
+
+
+a  { text-decoration: none }
+
+
+a.lightlink {color: white; font-weight: medium; text-decoration: none}
+.lightlink:hover {color: yellow; text-decoration: underline}
+
+a.lightlinka {color: navy; font-weight: medium; text-decoration: underline}
+.lightlinka:hover {color: green; background: white; text-decoration: underline}
+
+a.lightlinkcmb {color: orange; font-weight: bold; text-decoration: none}
+.lightlinkcmb:hover {color: white; text-decoration: underline}
+
+a.lightlinkcmb_1 {color: white; font-weight: medium; text-decoration: none}
+.lightlinkcmb_1:hover {background: white; color: navy; text-decoration: underline}
+
+a.lightlinkcmb_2 {color: navy; font-weight: bold; text-decoration: none}
+.lightlinkcmb_2:hover {color: red; text-decoration: none}
+
+a.lightlinkcmb_3 {color: white; font-weight: bold; text-decoration: none}
+.lightlinkcmb_3:hover {color: red; text-decoration: none}
+
+a.lightlinkz {color: white; font-weight: medium; text-decoration: none}
+.lightlinkz:hover {color: yellow; text-decoration: underline}
+
+
+a.underline {text-decoration: underline}
+.underline:hover {text-decoration: none}
+
+a.signature {text-decoration: none}
+.signature:hover {text-decoration: underline}
+
+.noline {text-decoration: none}
+.noline:hover {text-decoration: underline}
+
+
+
+

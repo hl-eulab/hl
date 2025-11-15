@@ -1,0 +1,23 @@
+Received: from fep03-svc.tin.it [212.216.176.34] by quipo.it with ESMTP (SMTPD32-5.05) id AD09A7B800FC; Thu, 18 Jan 2001 15:26:17 +0100
+Received: from andreac ([212.216.247.27]) by fep03-svc.tin.it (InterMail vM.4.01.03.13 201-229-121-113) with SMTP id <20010118142827.VGIL21777.fep03-svc.x(at)yc> for x(at)yit> Thu, 18 Jan 2001 15:28:27 +0100
+Message-ID: <005c01c0815a$8019fb40$1cx(at)y>
+From: "Fausto Bertinotti" <fausto.bertx(at)yazione.it>
+To: "Laboratorio Eudemonia" x(at)yit>
+Subject: ringraziamento
+Date: Thu, 18 Jan 2001 15:25:25 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0059_01C08162.E19B3FC0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6600
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6600
+X-RCPT-TO: x(at)yit>
+X-UIDL: 276747319
+Status: U
+ 
+
+grazie per l'indicazione che ho passato ai nostri esperti di settore.
+ 
+Cordiali saluti
+ 
+Fausto Bertinotti

@@ -1,0 +1,135 @@
+Date:    19/07/2009 3.17
+From:    Laboratorio Eudemonia
+To:      nuovomondo@yahoogroups.com
+Copy:    
+Subject: [NUOVOMONDO] Quanta sofferenza ancora?
+
+Received: (qmail 25824 invoked from network); 19 Jul 2009 03:17:21 -0700
+Received: from n58c.bullet.mail.sp1.yahoo.com (98.136.45.57) by 206.41.120.28 with SMTP; 19 Jul 2009 03:17:21 -0700
+Received-SPF: none (206.41.120.28: domain at returns.groups.yahoo.com does not designate permitted sender hosts)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1247998644; bh=nqBPLQx0XY6N8hY1yeAOgCPBDsjJzDvYpYOBeKOtjqU=; h=Received:Received:X-Yahoo-Newman-Id:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Message-ID:X-Mailer:To:X-OriginalArrivalTime:X-Originating-IP:X-eGroups-Msg-Info:From:X-Yahoo-Profile:Sender:MIME-Version:Mailing-List:Delivered-To:List-Id:Precedence:List-Unsubscribe:Date:Subject:Reply-To:X-Yahoo-Newman-Property:Content-Type; b=BDahZS+TJ/2WZO1nF853z3M4qeeFgiKZeihR/7uMTtNG3FUpNcm3Oef8oS/D8ekMkrvJcj8EkTn5lCkdU0ST5b5kqXlboEMZDH3XB6WpgvXrzKR4sj+fJ3PxWBkNx0xD
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=lima; d=yahoogroups.com;	b=tn6kzGIP8NWFs7WL6n25q/y5lEi277KP2m5fG5ZWd4egJboDSihSYC2siTlbBtpCDn/u9mx1JWX0IHO4wCs3vMLjLCuTCCFagEpgMpA4EZ3NNZocN53DxNE5bL84Ibex;
+Received: from [69.147.65.147] by n58.bullet.mail.sp1.yahoo.com with NNFMP; 19 Jul 2009 10:17:24 -0000
+Received: from [69.147.108.194] by t10.bullet.mail.sp1.yahoo.com with NNFMP; 19 Jul 2009 10:17:24 -0000
+X-Yahoo-Newman-Id: 17013671-m5236
+X-Sender: eulab@hyperlinker.com
+X-Apparently-To: nuovomondo@yahoogroups.com
+X-Received: (qmail 12340 invoked from network); 19 Jul 2009 10:17:18 -0000
+X-Received: from unknown (69.147.108.201) by m3.grp.re1.yahoo.com with QMQP; 19 Jul 2009 10:17:18 -0000
+X-Received: from unknown (HELO smtp-out113.alice.it) (85.37.17.113) by mta2.grp.re1.yahoo.com with SMTP; 19 Jul 2009 10:17:18 -0000
+X-Received: from FBCMMO05.fbc.local ([192.168.184.136]) by smtp-out113.alice.it with Microsoft SMTPSVC(6.0.3790.3959);	Sun, 19 Jul 2009 12:16:57 +0200
+X-Received: from FBCMCL01B04.fbc.local ([192.168.69.85]) by FBCMMO05.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Sun, 19 Jul 2009 12:16:49 +0200
+X-Received: from out.alice.it ([79.47.176.97]) by FBCMCL01B04.fbc.local with Microsoft SMTPSVC(6.0.3790.3959);	Sun, 19 Jul 2009 12:16:48 +0200
+Message-ID: <200907191216490000.009BF4ED@out.alice.it>
+X-Mailer: Courier 3.50.00.09.1098 (http://www.rosecitysoftware.com) (P)
+To: nuovomondo@yahoogroups.com
+X-OriginalArrivalTime: 19 Jul 2009 10:16:48.0574 (UTC) FILETIME=[06AFBDE0:01CA085A]
+X-Originating-IP: 85.37.17.113
+X-eGroups-Msg-Info: 1:12:0:0:0
+From: "Laboratorio Eudemonia" <eulab@hyperlinker.com>
+X-Yahoo-Profile: danhyp
+Sender: nuovomondo@yahoogroups.com
+MIME-Version: 1.0
+Mailing-List: list nuovomondo@yahoogroups.com; contact nuovomondo-owner@yahoogroups.com
+Delivered-To: mailing list nuovomondo@yahoogroups.com
+List-Id: <nuovomondo.yahoogroups.com>
+Precedence: bulk
+List-Unsubscribe: <mailto:nuovomondo-unsubscribe@yahoogroups.com>
+Date: Sun, 19 Jul 2009 12:16:49 +0200
+Subject: [NUOVOMONDO] Quanta sofferenza ancora?
+Reply-To: nuovomondo@yahoogroups.com
+X-Yahoo-Newman-Property: groups-email-ff-u
+Content-Type: multipart/alternative; boundary="mYL8vkHBIy40oBoE5zcTWun07IdKTrxSy5a4FVt"
+
+
+
+
+
+-------------------------
+Quanta sofferenza ancora?
+-------------------------
+
+
+
+L'umana società è anch'essa un essere vivente. E' come un organismo biologico.
+E, come in un organismo, in una società il male si afferma stabilmente quando essa è debole.
+
+Una società è debole quando i suoi ordinamenti sono fondati sull'esclusione, ingiustizia e prevaricazione. In una società escludente, ingiusta ed iniqua viene a mancare l'importante rapporto di fiducia e stima reciproca che altrimenti si stabibilirebbe naturalmente tra i suoi membri. Di conseguenza viene a mancare quell'unione che solo può esser concessa dal rapporto solidale. E, senza unione, la forza abbandona la società.
+
+
+A quel punto, in una società stabilmente debole, ogni genere di male si afferma altrettanto stabilmente. In un corpo debole, disunito, astioso ed insoddisfatto, i malviventi trovano ogni genere di alimento. Il male letteralmente s'ingozza in un corpo debole!
+
+
+Ebbene: esclusione, ingiustizia e prevaricazione da parte dei singoli possono nascere solo in conseguenza dell'esclusione, ingiustizia e prevaricazione esercitata da coloro i quali hanno osato accaparrarsi i milioni di importanti ed onnipresenti ruoli della Funzione Pubblica! Con una finta organizzazione democratica, con uno Stato elitario che ancora ruba il posto alla Collettività a 63 anni dal Referendum che affermò la Repubblica, gli INDIVIDUI altro non posson fare che seguire il pessimo esempio degli STATALI!
+
+Precisamente è il vecchio antidemocratico, antirepubblicano, ANTISOLIDALE ORDINAMENTO che assegna a vita i ruoli, poteri e redditi della Repubblica ad avviare la devianza sociale che poi si afferma ovunque. Perché è l'ordinamento pubblico il perno di una società. Ed essa non può che adeguarsi ad esso.
+
+
+Quale valore possiamo allora attribuire alla pretesa che scompaia la MAFIA PRIVATA senza prima aver dissolto la MAFIA PUBBLICA?
+
+Quale valore possiamo allora attribuire alla pretesa che vi sia partecipazione popolare quando ancora sussiste un ordinamento che IMPEDISCE TALE PARTECIPAZIONE?
+
+Quale valore possiamo allora attribuire alla pretesa che si affermi un Nuovo Mondo quando ancora non ci si è accorti di far parte del Vecchio Mondo?
+
+
+...
+
+
+Quanta gente ha sofferto finora per questo complessivo stato di cose? Quanta disperazione ci ha inondati in questi 63 anni di opportunità disattese? E quanta gente dovrà ancora soffrire prima che quello storto e rugginoso perno sia definitivamente rimosso e sostituito con uno diritto di inossidabile acciaio?
+
+
+...
+
+
+Domani saranno passati quant'anni da quandi i primi esseri umani hanno calcato il suolo della Luna.
+Se siamo riusciti in questo, possiamo noi non riuscire a dissolvere la MAFIA PUBBLICA?
+
+NO! Noi ce la faremo. Noi l'abbiamo anzi già iniziato a fare in questo preciso momento!
+
+
+
+Danilo D'Antonio, il 19/07 del quarantesimo anno della Nuova Era
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
