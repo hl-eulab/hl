@@ -1,8 +1,10 @@
 <HTML>
 
-<!-- Copyright © Laboratorio Eudemonia -->
+<!-- Copyright Â© Laboratorio Eudemonia -->
 
 <HEAD>
+
+<meta charset="UTF-8">
 
 <link rel=stylesheet href="calstyle1.css" type="text/css">
 
@@ -31,7 +33,7 @@
 
 <font face="verdana" color="navy" size="2">
 
-Il tuo messaggio è stato inviato.
+Il tuo messaggio Ã¨ stato inviato.
 
 <br><br>
 
