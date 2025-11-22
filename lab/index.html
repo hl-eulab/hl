@@ -1,67 +1,31 @@
-<HTML>
+<!DOCTYPE html>
+<html>
 
-<!-- Author: Copyright © HyperLinker -->
+<head>
+    <meta charset="UTF-8">
+    <title>HyperLinker.org Domain Redirect Script</title>
+    
+    <script>
+        const hostname = window.location.hostname;
+        const redirectMap = {
+            'caos-immobiliare.hyperlinker.org': 'https://hyperlinker.org/repita/camps/immo/index.html',
+            'repita.hyperlinker.org': 'https://hyperlinker.org/repita/index.htm',
+            'ars.hyperlinker.org': 'https://hyperlinker.org/ars/index.htm',
+            'change.hyperlinker.org': 'https://hyperlinker.org/change/index.htm',
+        };
 
-<HEAD>
+        if (redirectMap[hostname]) {
+            window.location.replace(redirectMap[hostname]);
+        }
+    </script>
 
-<meta charset="utf-8">
+    <style>
+        /* ... il tuo codice CSS */
+    </style>
+</head>
 
-<link rel=stylesheet href="hyperlinker_style.css" type="text/css">
+<body>
+redirect to ...
+    </body>
+</html>
 
-<meta name="description" content="">
-
-<meta name="keywords" content="">
-
-<TITLE>Hyper Linker</TITLE>
-
-</HEAD>
-
-<BODY bgcolor="white" BGPROPERTIES="FIXED" text="navy" LINK="navy" VLINK="navy">
-
-<CENTER><TABLE WIDTH="100%" HEIGHT="96%"><TR><TD ALIGN="CENTER" VALIGN="MIDDLE">
-
-<font face="arial" size="7" color="navy"><b>
-
-<a class="asimple" href="repita/index.htm">
-
-THERE IS NO DEMOCRACY, NO REPUBLIC,<br>
-WITHOUT A PUBLIC JOBS BANK
-
-</a>
-
-</b></font>
-
-<br><br><br><br>
-
-<font face="arial" size="5" color="navy"><b>
-
-Let the competent take their turn <i>pro tempore</i> in every public office, high or low.
-
-<br><br>
-
-What counts is not so much who governs, but the revolving circle that surrounds them.
-
-</b></font>
-
-<br><br><br><br>
-
-<font face="arial" size="6" color="navy"><b><i>
-
-<a class="asimple" href="hl_it.htm">Danilo D'Antonio</a>
-
-</i></b></font>
-
-</TD></TR></TABLE></CENTER>
-
-<center>
-
-<font face="verdana" size="2" color="#8f8f8f">
-
-Copyright every year by the <a class="simple_grey" href="eulab/index.htm" target="eulab">Eudaemony Laboratory</a>
-
-</font>
-
-</center>
-
-</BODY>
-</HTML>
