@@ -8,20 +8,22 @@
     <script>
         const hostname = window.location.hostname;
         const redirectMap = {
-            'caos-immobiliare.hyperlinker.org': '/repita/camps/immo/index.htm',
-            'repita.hyperlinker.org': '/repita/index.htm',
+            'caos-immobiliare.hyperlinker.org': 'https://hyperlinker.org/repita/camps/immo/index.html',
+            'repita.hyperlinker.org': 'https://hyperlinker.org/repita/index.htm',
         };
 
         if (redirectMap[hostname]) {
             window.location.replace(redirectMap[hostname]);
         }
     </script>
+
     <style>
         /* ... il tuo codice CSS */
     </style>
 </head>
 
 <body>
-redirect to
+redirect to ...
     </body>
 </html>
+
