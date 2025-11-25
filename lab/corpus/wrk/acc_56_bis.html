@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Layout Flexbox Moderno</title>
+    <style>
+        /* 1. SETUP CENTRATURA TOTALE */
+        html, body {
+            height: 100%; /* Essenziale per la centratura verticale in HTML5 */
+            margin: 0;
+            padding: 0;
+            background-color: white;
+        }
+
+        /* 2. CENTRATURA GLOBALE (Flexbox sul Body) */
+        body {
+            display: flex;
+            justify-content: center; /* Centra orizzontalmente */
+            align-items: center; /* Centra verticalmente */
+            font-family: Arial, sans-serif;
+        }
+        
+        /* 3. CONTENITORE PRINCIPALE (Sostituisce la tabella interna) */
+        .contenitore-centrale {
+            width: 900px; /* Larghezza Fissa, come hai richiesto */
+            display: flex; /* Attiva Flexbox per le colonne */
+            align-items: center; /* Allinea verticalmente Immagine e Testo */
+            
+            /* Sostituisce cellpadding */
+            padding: 24pt; 
+            /* Sostituisce cellspacing (gestito da gap) */
+            gap: 24pt; 
+            
+            /* Opzionale: bordo per delimitare l'area */
+            border: 1px solid #eee; 
+        }
+
+        /* 4. DEFINIZIONE DELLE COLONNE CON WIDTH FISSO */
+        .colonna-immagine {
+            width: 30%; /* L'equivalente del tuo <td width="30%"> */
+            text-align: center;
+        }
+
+        .colonna-testo {
+            width: 70%; /* L'equivalente del tuo <td width="70%"> */
+            text-align: center;
+            font-size: 18px; /* Dimensione del font per il testo normale */
+        }
+        
+        /* Stili degli elementi interni */
+        .colonna-immagine img {
+            max-width: 90%; /* L'immagine occupa il 90% della sua colonna */
+            height: auto;
+            border: 2px solid black;
+        }
+        
+        .asa-title {
+            font-size: 48px; /* Dimensione del font ASA ingrandita */
+        }
+
+        /* Stili dei link */
+        a.none { color: black; text-decoration: none; }
+        a.none:hover { text-decoration: underline; }
+        a.gold { color: #AA8800; text-decoration: none; }
+        a.gold:hover { text-decoration: underline; }
+
+    </style>
+</head>
+<body>
+
+    <div class="contenitore-centrale">
+        
+        <div class="colonna-immagine">
+            <a href="https://arweave.net/s1NioAMph5Kyo6tV6lDpfZ8h0K6vnssAKibToDghryg" target="s1NioAMph5Kyo6tV6lDpfZ8h0K6vnssAKibToDghryg" title="Certificato e Licenza con accesso ai Documenti costituenti la Collezione: 'Che c'è di onorevole in tutto questo?'">
+                <img src="dpr.svg" alt="Logo D.P.R.380/2001">
+            </a>
+        </div>
+        
+        <div class="colonna-testo">
+            <a class="none" href="https://explorer.perawallet.app/asset/3336219214/" target="3336219214" title="Registrazione del bene digitale tramite Algorand Standard Asset">
+                <div class="asa-title">ASA: 3336219214</div>
+            </a>
+            <br><br>
+            <a class="gold" href="https://explorer.perawallet.app/asset/3304294960/" target="ACC_56">
+            Lettera Aperta inviata alla Corte Costituzionale<br>
+            in data 27/02 nell’anno 56 della Nuova Era Terrestre<br>
+            per denunciare l'assenza di una vera Repubblica e Democrazia
+            </a>
+            <br><br>
+            Titolo dell'opera: "<i>Una seria questione d'illegalità</i>"
+            <br><br>
+            Opera immessa su network perenne <a class="gold" href="https://coinmarketcap.com/currencies/arweave/" target="arweave">Arweave</a><br>e certificata su blockchain <a class="gold" href="https://coinmarketcap.com/currencies/algorand/" target="algorand">Algorand</a>
+            <br><br>
+            Somma richiesta: 7.000.000 (sette milioni) di Algorand<br>
+            La licenza è nell'ultima pagina della Lettera
+            <br><br>
+            In vendita presso <i><a class="none" href="../../../bottega/index.htm" target="bottega" title="Bottega alla Buona Sorte">La Bottega della Buona Sorte</a></i>
+        </div>
+
+    </div>
+
+</body>
+</html>
