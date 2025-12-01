@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calendario Speciale</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        .calendar-strip {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+            overflow-x: auto;
+            padding: 20px;
+            max-width: 100vw;
+        }
+        
+        .day-square {
+            width: 60px;
+            height: 60px;
+            background: white;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-size: 12px;
+            transition: all 0.3s ease;
+            flex-shrink: 0;
+        }
+        
+        .today {
+            background: #007cba;
+            color: white;
+            border-color: #005a87;
+            transform: scale(1.1);
+            font-weight: bold;
+        }
+        
+        .day-number {
+            font-size: 16px;
+            font-weight: bold;
+        }
+        
+        .day-name {
+            font-size: 10px;
+            text-align: center;
+            line-height: 1.1;
+        }
+    </style>
+</head>
+<body>
+    <div class="calendar-strip" id="calendarStrip"></div>
+
+    <script>
+        // La tua speciale nomenclatura dei giorni
+        const dayNames = {
+            0: 'Soledì',
+            1: 'Lunadì',
+            2: 'Atomdì', 
+            3: 'Acquadì',
+            4: 'Ventodì',
+            5: 'Fuocodì',
+            6: 'Terradì'
+        };
+
+        function createCalendarStrip() {
+            const calendarStrip = document.getElementById('calendarStrip');
+            calendarStrip.innerHTML = '';
+
+            const today = new Date();
+            const daysToShow = 30; // Totale giorni da mostrare
+            const daysEachSide = Math.floor(daysToShow / 2);
+
+            // Crea i giorni precedenti
+            for (let i = daysEachSide; i > 0; i--) {
+                const pastDate = new Date(today);
+                pastDate.setDate(today.getDate() - i);
+                createDaySquare(pastDate, false);
+            }
+
+            // Crea il giorno odierno (centrale)
+            createDaySquare(today, true);
+
+            // Crea i giorni successivi
+            for (let i = 1; i <= daysEachSide; i++) {
+                const futureDate = new Date(today);
+                futureDate.setDate(today.getDate() + i);
+                createDaySquare(futureDate, false);
+            }
+
+            // Scrolla per centrare il giorno odierno
+            centerToday();
+        }
+
+        function createDaySquare(date, isToday) {
+            const calendarStrip = document.getElementById('calendarStrip');
+            const daySquare = document.createElement('div');
+            
+            const dayNumber = date.getDate();
+            const dayOfWeek = date.getDay();
+            const dayName = dayNames[dayOfWeek];
+            
+            daySquare.className = isToday ? 'day-square today' : 'day-square';
+            
+            daySquare.innerHTML = `
+                <div class="day-number">${dayNumber}</div>
+                <div class="day-name">${dayName}</div>
+            `;
+            
+            calendarStrip.appendChild(daySquare);
+        }
+
+        function centerToday() {
+            const calendarStrip = document.getElementById('calendarStrip');
+            const todayElement = document.querySelector('.today');
+            
+            if (todayElement) {
+                const containerWidth = calendarStrip.clientWidth;
+                const todayOffset = todayElement.offsetLeft;
+                const todayWidth = todayElement.clientWidth;
+                
+                calendarStrip.scrollLeft = todayOffset - (containerWidth / 2) + (todayWidth / 2);
+            }
+        }
+
+        // Inizializza il calendario
+        createCalendarStrip();
+
+        // Aggiorna ogni giorno a mezzanotte
+        function scheduleDailyUpdate() {
+            const now = new Date();
+            const tomorrow = new Date(now);
+            tomorrow.setDate(tomorrow.getDate() + 1);
+            tomorrow.setHours(0, 0, 0, 0);
+            
+            const timeUntilMidnight = tomorrow - now;
+            
+            setTimeout(() => {
+                createCalendarStrip();
+                // Programma il prossimo aggiornamento
+                setInterval(createCalendarStrip, 24 * 60 * 60 * 1000);
+            }, timeUntilMidnight);
+        }
+
+        // Avvia l'aggiornamento automatico
+        scheduleDailyUpdate();
+
+        // Ricentra quando la finestra viene ridimensionata
+        window.addEventListener('resize', centerToday);
+    </script>
+</body>
+</html>

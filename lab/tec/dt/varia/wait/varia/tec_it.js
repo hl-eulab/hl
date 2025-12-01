@@ -13,7 +13,7 @@ moy = new Array("primo mese", "secondo mese", "terzo mese", "quarto mese", "quin
 
 dow = new Array("Soled&igrave;", "Lunad&igrave;", "Atomd&igrave;", "Acquad&igrave;", "Ventod&igrave;", "Fuocod&igrave;", "Terrad&igrave;")
 
-document.write("<a class='tec_it_1' href='http://earthcal.hyperlinker.org' style='text-decoration: none' target='IlCalendariodellaTerra' title='Il Calendario della Terra'>Oggi &egrave; " + dow[today.getDay()] + " " + today.getDate() + ", " + moy[today.getMonth()] + ", anno " + ney + ", " + noy[yos] + "</a>")
+document.write("<a href='http://earthcal.hyperlinker.org' style='text-decoration: none' target='IlCalendariodellaTerra' title='Il Calendario della Terra'>Oggi &egrave; " + dow[today.getDay()] + " " + today.getDate() + ", " + moy[today.getMonth()] + ", anno " + ney + ", " + noy[yos] + "</a>")
 
 // second string computation
 
@@ -32,9 +32,7 @@ var delta = today - first_day;
 // convert the number of milliseconds to days (86400000 milliseconds in a day)
 var day_of_year = Math.floor(delta / 86400000) + 1;
 
-
-
-document.write("<br><a class='tec_it_2' href='http://earthcal.hyperlinker.org' style='text-decoration: none' target='IlCalendariodellaTerra' title='Il Calendario della Terra'><i>Potere dell'animo del giorno: " + pod[day_of_year] + "</i></a>")
+document.write("<br><a href='http://earthcal.hyperlinker.org' style='text-decoration: none' target='IlCalendariodellaTerra' title='Il Calendario della Terra'><i>Potere dell'animo del giorno: " + pod[day_of_year] + "</i></a>")
 
 // end
 

@@ -1,0 +1,63 @@
+.calendar-strip {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    overflow-x: auto;
+    padding: 20px;
+    max-width: 90vw;
+    margin: 20px 0;
+}
+
+.day-square {
+    width: 69px;
+    height: 69px;
+    background: white;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+}
+
+.today {
+    background: #007cba;
+    color: white;
+    border-color: #005a87;
+    transform: scale(1.1);
+    font-weight: bold;
+}
+
+.weekday {
+    background: white;
+    color: #133984;
+    border-color: #133984;
+}
+
+.terradi {
+    background: white;
+    color: #009240;
+    border-color: #009240;
+}
+
+.soledi {
+    background: white;
+    color: #da251d;
+    border-color: #da251d;
+}
+
+.day-number {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.day-name {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.1;
+    margin-top: 4px;
+}

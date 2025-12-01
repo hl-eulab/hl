@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Earth Calendar</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: white;
+            flex-direction: column;
+        }
+        .centered {
+            text-align: center;
+            font-family: Nimbus Roman; 
+            font-weight: bold;
+        }
+        a {
+            color: black;
+            text-decoration: none;
+        }
+        a:hover {
+            color: black;
+            text-decoration: underline;
+        }
+        a:active {
+            color: black;
+            text-decoration: none;
+        }
+        a:visited {
+            color: black;
+        }
+    </style>
+    <!-- CSS per il calendario -->
+    <link rel="stylesheet" href="calendar-styles.css">
+</head>
+<body>
+
+<div class="centered">
+    <div style="font-size: 56px;">
+        <a href='https://earthcal.hyperlinker.org' target='TEC' title='Il Calendario della Terra'>
+            <strong>__Il Calendario della Terra__</strong>
+        </a>
+    </div>
+
+    <br><br><br>
+
+    <div style="font-size: 32px;">
+        <script src="sptn.js"></script>
+        <br>
+    </div>
+
+    <div style="font-size: 36px;">
+        <script src="tec.js"></script>
+        <script src="sp_random.js"></script>
+    </div>
+
+    <br><br>
+
+    <div style="font-size: 32px;">
+        <i>ora locale <span id="orologio"></span></i>
+    </div>
+</div>
+
+<!-- CALENDARIO STRISCIA -->
+<div class="calendar-strip" id="calendarStrip"></div>
+
+<div class="centered">
+    <br><br>
+
+    <div style="font-size: 44px;">
+        <a href='epoch.html' target='epoch' title='Epoch Time'>
+            <strong>__Epoch Time: <span id="epoch"></span>__</strong>
+        </a>
+    </div>
+</div>
+
+<!-- TUTTI GLI SCRIPT ESTERNI -->
+<script src="clock.js"></script>
+<script src="epoch.js"></script>
+<script src="days_strip.js"></script>
+
+</body>
+</html>
