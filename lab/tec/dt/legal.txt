@@ -1,0 +1,24 @@
+
+TEC_IT_2.JS
+
+Copyright © 34 Laboratorio Eudemonia
+
+Script per la data breve de
+Il Calendario della Terra
+http://earthcal.hyperlinker.org/
+earthcal(at)hyperlinker.org
+
+Questo script può essere utilizzato per visualizzare la data breve de "Il Calendario della Terra" tanto sul desktop del proprio computer quanto sul proprio sito web. Tale script può essere modificato a patto che la data de "Il Calendario della Terra", con la sua originale nomenclatura, rimanga immutata, salvaguardando appieno il suo standard, ed a patto che sia riportata per intero questa nota e siano rispettati tutti i termini di questo accordo.
+
+Il nome "Il Calendario della Terra" ed il logo del suo almanacco, con l'originale nomenclatura, sono marchi del Laboratorio Eudemonia. L'utilizzo commerciale, od anche semplicemente pubblico, di entrambi, quindi anche della nuova nomenclatura adottata da "Il Calendario della Terra", è concesso a condizione della sottoscrizione e del pieno rispetto della specifica licenza disponibile su:
+
+http://earthcal.hyperlinker.org
+
+Copyright e marchio: http://legale.hyperlinker.org
+
+Nessuna garanzia di buon funzionamento è fornita a questo script. Lo si usi dunque a proprio rischio e pericolo. Note sulla sua installazione, e gli eventuali aggiornamenti, sono reperibili su:
+
+http://earthcal.hyperlinker.org
+
+TEC_IT_2.JS - Script Version 1.0.2
+
