@@ -1,69 +1,80 @@
-// agenda.js - Logica principale dell'agenda TEC
-// VERSIONE TEC: usa solo API TEC, niente duplicazioni
+// agenda.js - Logica principale dell'agenda TEC (AGGIORNATO)
 
-// ===== FUNZIONI DI VISUALIZZAZIONE =====
+// Funzione per ottenere il lunedì di una settimana data una data
+function getMondayOfWeek(date) {
+    const d = new Date(date);
+    const day = d.getDay();
+    const diff = d.getDate() - day + (day === 0 ? -6 : 1); // adjust when day is Sunday
+    return new Date(d.setDate(diff));
+}
 
-// Aggiorna data corrente nell'header
+// Funzione per aggiornare la data corrente nell'header
 function updateCurrentDateDisplay() {
     const currentDate = TEC.getFormattedDate();
     document.getElementById('currentDateDisplay').textContent = 
         "Today is " + currentDate.formatted;
 }
 
-// Genera griglia settimana TEC
+// Funzione per generare la griglia della settimana (CORRETTA)
 async function generateWeekGrid(date = new Date()) {
     const weekGrid = document.getElementById('weekGrid');
     
-    // Mostra loader
+    // Mostra loader durante il caricamento
     weekGrid.innerHTML = `
         <div style="grid-column: 1 / -1; text-align: center; padding: 40px; color: #666;">
             <div style="margin: 20px auto; width: 40px; height: 40px; border: 3px solid #f3f3f3; border-top: 3px solid #000; border-radius: 50%; animation: spin 1s linear infinite;"></div>
-            <p>Loading TEC week...</p>
+            <p>Loading week...</p>
         </div>
     `;
     
+    // USA LA DATA PASSATA COME PARAMETRO, non sempre oggi!
     const targetDate = new Date(date);
     const today = new Date();
     
-    // Verifica database TEC
+    // Troviamo il Moonday (Lunedì) della settimana TARGET
+    const monday = getMondayOfWeek(targetDate);
+    
+    // Verifica se il database è inizializzato
     if (!earthCalendarDB || !earthCalendarDB.isInitialized()) {
-        throw new Error('Database TEC non inizializzato. Attendere.');
+        throw new Error('Database non inizializzato. Attendere o ricaricare la pagina.');
     }
     
-    // Carica dati settimana TEC
+    // Carica dati dal database per la settimana TARGET
     let weekData = null;
     try {
         weekData = await earthCalendarDB.loadWeek(targetDate);
-        console.log('Dati settimana TEC caricati:', weekData.key);
+        console.log('Dati settimana caricati:', weekData.key, 'per data:', targetDate);
     } catch (error) {
-        console.error('Errore caricamento dati TEC:', error);
+        console.error('Errore caricamento dati:', error);
         
-        // Fallback: crea in memoria
+        // Se c'è un errore col database, prova a creare una settimana vuota in memoria
         try {
-            const monday = TEC.getMondayOfWeek(targetDate);
-            weekData = earthCalendarDB.createEmptyWeek(monday);
-            console.log('Usando settimana TEC vuota in memoria');
+            const startDate = getMondayOfWeek(targetDate);
+            const tecYear = startDate.getFullYear() - 1969;
+            const weekKey = earthCalendarDB.getWeekKey(startDate);
+            
+            weekData = earthCalendarDB.createEmptyWeek(startDate, tecYear, parseInt(weekKey.split('-')[1]));
+            console.log('Usando settimana vuota di fallback (in memoria) per:', startDate);
         } catch (fallbackError) {
-            throw new Error('Impossibile caricare dati TEC: ' + fallbackError.message);
+            console.error('Errore anche nel fallback:', fallbackError);
+            showStatus('Errore caricamento dati. Ricaricare la pagina.', 5000);
+            throw error;
         }
     }
     
-    // Ottieni Moonday TEC
-    const monday = TEC.getMondayOfWeek(targetDate);
-    
-    // Genera 7 giorni TEC
+    // Generiamo i 7 giorni della settimana TARGET
     let weekGridHTML = '';
     
     for (let i = 0; i < 7; i++) {
-        const currentDay = new Date(monday);
-        currentDay.setDate(monday.getDate() + i);
+        const currentDate = new Date(monday);
+        currentDate.setDate(monday.getDate() + i);
         
-        const tecDate = TEC.getDateForDay(currentDay);
-        const tecDateKey = TEC.getTECDateKey(currentDay); // "DD-MM-YY"
-        const isToday = currentDay.toDateString() === today.toDateString();
-        const isWeekend = i >= 5; // Earthday (5) e Sunday (6) sono weekend
+        const tecDate = TEC.getDateForDay(currentDate);
+        const isToday = currentDate.toDateString() === today.toDateString();
+        const isWeekend = i >= 5; // Earthday (6) e Sunday (7) sono weekend
         
-        const dayData = weekData.days[tecDateKey] || {
+        const dateKey = currentDate.toISOString().split('T')[0];
+        const dayData = weekData.days[dateKey] || {
             notes: '',
             charCount: 0,
             saved: true
@@ -73,11 +84,11 @@ async function generateWeekGrid(date = new Date()) {
             <div class="day-card ${isToday ? 'today' : ''} ${isWeekend ? 'weekend' : ''}" 
                  id="day${i + 1}" 
                  data-day="${tecDate.dayName.toLowerCase()}" 
-                 data-tecdate="${tecDateKey}" 
+                 data-date="${dateKey}" 
                  data-weekkey="${weekData.key}">
                 <div class="day-header">
                     <div class="day-name">${tecDate.dayName}</div>
-                    <div class="day-number">${tecDate.monthName}, day ${tecDate.dayNumber}</div>
+                    <div class="day-number">${tecDate.monthName}, day ${tecDate.dayNumber}${isToday ? ' • Today' : ''}</div>
                 </div>
                 <div class="day-content">
                     <textarea class="notes-textarea ${isWeekend ? 'weekend' : ''} ${dayData.saved ? 'saved' : ''}" 
@@ -93,66 +104,71 @@ async function generateWeekGrid(date = new Date()) {
     
     weekGrid.innerHTML = weekGridHTML;
     
-    // Aggiungi listener TEC
+    // Aggiungi event listener per il conteggio caratteri
     addCharacterCountListeners();
     
     return weekData;
 }
 
-// Griglia con gestione errori
+// Funzione safe per generare la griglia con gestione errori
 async function safeGenerateWeekGrid(date = new Date()) {
     try {
         const weekData = await generateWeekGrid(date);
         return { success: true, data: weekData };
     } catch (error) {
-        console.error('Errore generazione griglia TEC:', error);
+        console.error('Errore generazione griglia:', error);
         
+        // Mostra messaggio d'errore nella griglia
         const weekGrid = document.getElementById('weekGrid');
         if (weekGrid) {
             weekGrid.innerHTML = `
                 <div style="grid-column: 1 / -1; text-align: center; padding: 40px; color: #666;">
-                    <h3>Unable to load TEC week data</h3>
+                    <h3>Unable to load week data</h3>
                     <p>${error.message || 'Unknown error'}</p>
                     <button class="nav-btn" onclick="loadCurrentWeek()" style="margin-top: 20px;">
-                        Load Current TEC Week
+                        Load Current Week
                     </button>
                 </div>
             `;
         }
         
-        showStatus('Error loading TEC data. Click "Current Week" to reload.', 5000);
+        showStatus('Error loading data. Click "Current Week" to reload.', 5000);
         return { success: false, error: error };
     }
 }
 
-// ===== GESTIONE INPUT =====
-
-// Aggiungi listener per conteggio caratteri
+// Funzione per aggiungere listener al conteggio caratteri
 function addCharacterCountListeners() {
     const textareas = document.querySelectorAll('.notes-textarea');
     
     textareas.forEach(textarea => {
+        // Aggiorna il conteggio iniziale
         updateCharCount(textarea);
         
+        // Aggiungi listener per input
         textarea.addEventListener('input', function() {
             updateCharCount(this);
             
-            const tecDate = this.closest('.day-card').dataset.tecdate;
+            // Salva automaticamente dopo 2 secondi
+            const date = this.closest('.day-card').dataset.date;
             const notes = this.value;
             
+            // Verifica che il database sia pronto
             if (earthCalendarDB && earthCalendarDB.isInitialized()) {
-                earthCalendarDB.saveDayNotes(tecDate, notes).then((saved) => {
+                earthCalendarDB.saveDayNotes(date, notes).then((saved) => {
                     if (saved) {
                         updateSaveIndicator(this, true);
                         showStatus('Notes saved automatically', 1500);
                     }
                 });
             } else {
+                // Database non pronto, mostra avviso
                 updateSaveIndicator(this, false);
-                showStatus('TEC Database not ready. Changes not saved.', 2000);
+                showStatus('Database not ready. Changes not saved.', 2000);
             }
         });
         
+        // Aggiungi listener per focus/blur
         textarea.addEventListener('focus', function() {
             this.parentElement.parentElement.style.borderColor = '#000000';
         });
@@ -165,14 +181,14 @@ function addCharacterCountListeners() {
     });
 }
 
-// Aggiorna conteggio caratteri
+// Funzione per aggiornare il conteggio caratteri
 function updateCharCount(textarea) {
     const charCount = textarea.value.length;
     const footer = textarea.closest('.day-card').querySelector('.char-count');
     footer.textContent = `${charCount}/1000 chars`;
 }
 
-// Aggiorna indicatore salvataggio
+// Funzione per aggiornare l'indicatore di salvataggio
 function updateSaveIndicator(textarea, isSaved) {
     const saveIndicator = textarea.closest('.day-card').querySelector('.save-indicator');
     if (isSaved) {
@@ -186,109 +202,7 @@ function updateSaveIndicator(textarea, isSaved) {
     }
 }
 
-// ===== NAVIGAZIONE TEC =====
-
-let currentWeekDate = new Date();
-
-async function loadPreviousWeek() {
-    const newDate = new Date(currentWeekDate);
-    newDate.setDate(currentWeekDate.getDate() - 7);
-    currentWeekDate = newDate;
-    
-    await safeGenerateWeekGrid(currentWeekDate);
-    updateCurrentDateDisplay();
-    showStatus('Previous TEC week loaded');
-}
-
-async function loadNextWeek() {
-    const newDate = new Date(currentWeekDate);
-    newDate.setDate(currentWeekDate.getDate() + 7);
-    currentWeekDate = newDate;
-    
-    await safeGenerateWeekGrid(currentWeekDate);
-    updateCurrentDateDisplay();
-    showStatus('Next TEC week loaded');
-}
-
-async function loadCurrentWeek() {
-    currentWeekDate = new Date();
-    const result = await safeGenerateWeekGrid(currentWeekDate);
-    if (result.success) {
-        updateCurrentDateDisplay();
-        showStatus('Current TEC week loaded');
-    }
-}
-
-// ===== ESPORTAZIONE/IMPORTAZIONE =====
-
-async function exportAllData() {
-    try {
-        if (!earthCalendarDB || !earthCalendarDB.isInitialized()) {
-            showStatus('TEC Database not ready.');
-            return;
-        }
-        
-        const jsonData = await earthCalendarDB.exportAllData();
-        
-        const blob = new Blob([jsonData], { type: 'application/json' });
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = `tec-agenda-backup-${TEC.getTECDateKey()}.json`;
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
-        
-        showStatus('All TEC agenda data exported');
-    } catch (error) {
-        console.error('Errore export TEC:', error);
-        showStatus('Error during export: ' + (error.message || 'Unknown error'));
-    }
-}
-
-async function importAllData() {
-    if (!earthCalendarDB || !earthCalendarDB.isInitialized()) {
-        showStatus('TEC Database not ready.');
-        return;
-    }
-    
-    const input = document.createElement('input');
-    input.type = 'file';
-    input.accept = '.json';
-    
-    input.onchange = async (event) => {
-        const file = event.target.files[0];
-        if (!file) return;
-        
-        if (!confirm('WARNING: This will replace ALL your TEC data. Continue?')) {
-            return;
-        }
-        
-        const reader = new FileReader();
-        
-        reader.onload = async (e) => {
-            try {
-                const jsonData = e.target.result;
-                const result = await earthCalendarDB.importAllData(jsonData);
-                showStatus(`TEC data imported! ${result.imported} weeks loaded.`);
-                
-                await loadCurrentWeek();
-            } catch (error) {
-                console.error('Errore import TEC:', error);
-                showStatus('Error during import: ' + error.message);
-            }
-        };
-        
-        reader.readAsText(file);
-    };
-    
-    input.click();
-}
-
-// ===== UTILITY =====
-
-// Mostra messaggi di stato
+// Funzione per mostrare messaggi di stato
 function showStatus(message, duration = 3000) {
     const statusEl = document.getElementById('statusMessage');
     statusEl.textContent = message;
@@ -299,72 +213,181 @@ function showStatus(message, duration = 3000) {
     }, duration);
 }
 
-// ===== INIZIALIZZAZIONE =====
+// Navigazione tra settimane
+let currentWeekDate = new Date();
 
+async function loadPreviousWeek() {
+    // Crea una nuova data (immutabile)
+    const newDate = new Date(currentWeekDate);
+    newDate.setDate(currentWeekDate.getDate() - 7);
+    currentWeekDate = newDate;
+    
+    await safeGenerateWeekGrid(currentWeekDate);
+    updateCurrentDateDisplay();
+    showStatus('Previous week loaded');
+}
+
+async function loadNextWeek() {
+    // Crea una nuova data (immutabile)
+    const newDate = new Date(currentWeekDate);
+    newDate.setDate(currentWeekDate.getDate() + 7);
+    currentWeekDate = newDate;
+    
+    await safeGenerateWeekGrid(currentWeekDate);
+    updateCurrentDateDisplay();
+    showStatus('Next week loaded');
+}
+
+async function loadCurrentWeek() {
+    currentWeekDate = new Date();
+    const result = await safeGenerateWeekGrid(currentWeekDate);
+    if (result.success) {
+        updateCurrentDateDisplay();
+        showStatus('Current week loaded');
+    }
+}
+
+// Funzioni export/import
+async function exportAllData() {
+    try {
+        // Verifica che il database sia inizializzato
+        if (!earthCalendarDB || !earthCalendarDB.isInitialized()) {
+            showStatus('Database not ready. Please wait.');
+            return;
+        }
+        
+        const jsonData = await earthCalendarDB.exportAllData();
+        
+        // Crea blob e scarica
+        const blob = new Blob([jsonData], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `earth-calendar-backup-${new Date().toISOString().split('T')[0]}.json`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        
+        showStatus('Backup exported successfully');
+    } catch (error) {
+        console.error('Errore export:', error);
+        showStatus('Error during export: ' + (error.message || 'Unknown error'));
+    }
+}
+
+async function importData() {
+    // Verifica che il database sia inizializzato
+    if (!earthCalendarDB || !earthCalendarDB.isInitialized()) {
+        showStatus('Database not ready. Please wait.');
+        return;
+    }
+    
+    // Creiamo un input file nascosto
+    const input = document.createElement('input');
+    input.type = 'file';
+    input.accept = '.json';
+    
+    input.onchange = async (event) => {
+        const file = event.target.files[0];
+        if (!file) return;
+        
+        // Chiedi conferma (sostituirà tutti i dati!)
+        if (!confirm('WARNING: This will replace ALL your existing data. Continue?')) {
+            return;
+        }
+        
+        const reader = new FileReader();
+        
+        reader.onload = async (e) => {
+            try {
+                const jsonData = e.target.result;
+                const result = await earthCalendarDB.importAllData(jsonData);
+                showStatus(`Database imported successfully! ${result.imported} weeks loaded.`);
+                
+                // Ricarica la settimana corrente
+                await loadCurrentWeek();
+            } catch (error) {
+                console.error('Errore import:', error);
+                showStatus('Error during import: ' + error.message);
+            }
+        };
+        
+        reader.readAsText(file);
+    };
+    
+    input.click();
+}
+
+// Inizializzazione
 function initAgenda() {
     updateCurrentDateDisplay();
     
-    // Attendi database TEC
+    // Aspetta che il database sia inizializzato PRIMA di generare la griglia
     const checkDBReady = () => {
         if (earthCalendarDB && earthCalendarDB.isInitialized()) {
-            // Database TEC pronto
+            // Database pronto, carica la settimana corrente
             loadCurrentWeek();
             
-            // Event listener per navigazione
+            // Aggiungi event listeners per i bottoni di navigazione
             document.getElementById('todayWeek').addEventListener('click', loadCurrentWeek);
             document.getElementById('prevWeek').addEventListener('click', loadPreviousWeek);
             document.getElementById('nextWeek').addEventListener('click', loadNextWeek);
             
-            // Controlli
+            // Bottoni di controllo
             document.getElementById('saveAllBtn').addEventListener('click', async () => {
-                showStatus('Forcing TEC save...');
+                showStatus('Forcing save...');
                 
+                // Verifica che il database sia pronto
                 if (!earthCalendarDB.isInitialized()) {
-                    showStatus('TEC Database not ready');
+                    showStatus('Database not ready');
                     return;
                 }
                 
+                // Forza salvataggio di tutte le textarea modificate
                 const textareas = document.querySelectorAll('.notes-textarea:not(.saved)');
                 let savedCount = 0;
                 
                 for (const textarea of textareas) {
-                    const tecDate = textarea.closest('.day-card').dataset.tecdate;
+                    const date = textarea.closest('.day-card').dataset.date;
                     const notes = textarea.value;
                     
                     try {
-                        await earthCalendarDB.saveDayNotes(tecDate, notes);
+                        await earthCalendarDB.saveDayNotes(date, notes);
                         updateSaveIndicator(textarea, true);
                         savedCount++;
                     } catch (error) {
-                        console.error('Errore salvataggio TEC:', error);
+                        console.error('Errore salvataggio:', error);
                     }
                 }
                 
-                showStatus(`${savedCount} TEC notes saved`);
+                showStatus(`${savedCount} notes saved successfully`);
             });
             
-            // Export/Import
-            document.getElementById('exportAllBtn').addEventListener('click', exportAllData);
-            document.getElementById('importAllBtn').addEventListener('click', importAllData);
+            document.getElementById('exportWeekBtn').addEventListener('click', exportAllData);
+            document.getElementById('importWeekBtn').addEventListener('click', importData);
             
         } else {
+            // Database non ancora pronto, riprova dopo 500ms
+            console.log('Waiting for database initialization...');
             setTimeout(checkDBReady, 500);
         }
     };
     
+    // Avvia il check
     checkDBReady();
     
-    // Esponi globalmente
+    // Esponi le funzioni globalmente
     window.showStatus = showStatus;
     window.updateSaveIndicator = updateSaveIndicator;
     window.loadCurrentWeek = loadCurrentWeek;
     window.loadPreviousWeek = loadPreviousWeek;
     window.loadNextWeek = loadNextWeek;
     window.exportAllData = exportAllData;
-    window.importAllData = importAllData;
+    window.importData = importData;
 }
 
-// Avvia quando DOM è pronto
+// Attendi che il DOM sia completamente caricato
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initAgenda);
 } else {

@@ -86,7 +86,7 @@
         .week-grid { 
             display: grid; 
             grid-template-columns: repeat(7, 1fr); 
-            gap: 14px;
+            gap: 20px; 
             margin-bottom: 50px; 
         }
         
@@ -113,7 +113,7 @@
         
         /* Header giorno */
         .day-header { 
-            padding: 10px 15px; 
+            padding: 15px 20px; 
             border-bottom: 1px solid #e0e0e0; 
             background-color: #f8f8f8; 
         }
@@ -141,7 +141,7 @@
             flex: 1; 
             width: 100%; 
             min-height: 400px; 
-            padding: 15px; 
+            padding: 20px; 
             font-family: inherit; 
             font-size: 14px; 
             line-height: 1.6; 
@@ -165,7 +165,7 @@
         
         /* Footer giorno */
         .day-footer { 
-            padding: 8px 15px; 
+            padding: 12px 20px; 
             border-top: 1px solid #e0e0e0; 
             background-color: #f8f8f8; 
             display: flex; 
@@ -287,7 +287,7 @@
         @media (max-width: 1200px) { 
             .week-grid { 
                 grid-template-columns: repeat(4, 1fr); 
-                gap: 11px;
+                gap: 15px; 
             } 
             .notes-textarea { 
                 min-height: 350px; 
@@ -297,7 +297,6 @@
         @media (max-width: 900px) { 
             .week-grid { 
                 grid-template-columns: repeat(2, 1fr); 
-                gap: 14px;
             } 
             .day-card { 
                 min-height: 450px; 
@@ -330,7 +329,7 @@
             } 
             .week-grid { 
                 grid-template-columns: 1fr; 
-                gap: 14px;
+                gap: 20px; 
             } 
             .day-card { 
                 min-height: 400px; 
@@ -357,14 +356,14 @@
         
         @media (max-width: 480px) { 
             .day-header { 
-                padding: 8px 12px;
+                padding: 12px 15px; 
             } 
             .notes-textarea { 
                 min-height: 200px; 
-                padding: 12px;
+                padding: 15px; 
             } 
             .day-footer { 
-                padding: 6px 12px;
+                padding: 10px 15px; 
             } 
             .controls { 
                 flex-direction: column; 
@@ -378,53 +377,10 @@
                 top: 10px; 
             } 
         }
-
-        /* Desktop largo */
-        @media (min-width: 1400px) {
-            .container {
-                max-width: 1600px;
-                padding: 0 40px;
-            }
-            
-            .week-grid {
-                gap: 18px;
-            }
-            
-            .day-card {
-                min-height: 550px;
-            }
-            
-            .notes-textarea {
-                min-height: 450px;
-                font-size: 15px;
-                padding: 17px;
-            }
-            
-            .day-header {
-                padding: 13px 17px;
-            }
-            
-            .day-name {
-                font-size: 20px;
-            }
-            
-            .day-footer {
-                padding: 10px 17px;
-            }
-            
-            .controls {
-                gap: 20px;
-            }
-            
-            .btn {
-                padding: 16px 32px;
-                font-size: 15px;
-            }
-        }
     </style>
 </head>
 <body>
-    <!-- STATUS MESSAGE -->
+    <!-- STATUS MESSAGE (Floating) -->
     <div id="statusMessage" class="status-message"></div>
 
     <div class="container">
@@ -437,7 +393,7 @@
         <!-- WEEK NAVIGATION -->
         <div class="week-nav">
             <div class="week-display" id="currentDateDisplay">
-                <!-- Popolato dinamicamente -->
+                <!-- Verrà popolato dinamicamente via JavaScript -->
             </div>
             <div class="nav-controls">
                 <button class="nav-btn" id="prevWeek">← Previous Week</button>
@@ -446,18 +402,18 @@
             </div>
         </div>
 
-        <!-- WEEK GRID - 7 DAYS TEC -->
+        <!-- WEEK GRID - 7 DAYS -->
         <div class="week-grid" id="weekGrid">
-            <!-- Popolato dinamicamente via JavaScript -->
+            <!-- I giorni verranno popolati dinamicamente via JavaScript -->
         </div>
 
         <!-- CONTROLS -->
         <div class="controls">
-            <button class="btn" id="exportAllBtn">
-                Export All Data
+            <button class="btn" id="exportWeekBtn">
+                Export Entire Week
             </button>
-            <button class="btn" id="importAllBtn">
-                Import All Data
+            <button class="btn" id="importWeekBtn">
+                Import Week Data
             </button>
             <button class="btn btn-save-all" id="saveAllBtn">
                 Save All Changes
@@ -468,7 +424,7 @@
         <footer class="footer">
             <div class="footer-content">
                 <div class="footer-copyright">
-                    The Earth Calendar Perennial Weekly Agenda • Version 1.0 TEC
+                    The Earth Calendar Perennial Weekly Agenda • Version 1.0
                 </div>
                 <div class="footer-links">
                     <a href="https://earthcal.hyperlinker.org" class="footer-link" target="_blank">The Earth Calendar site</a>
@@ -479,7 +435,7 @@
         </footer>
     </div>
 
-    <!-- JavaScript files - ORDINE CORRETTO TEC -->
+    <!-- JavaScript files - ORDINE CORRETTO -->
     <script src="tec_date.js"></script>
     <script src="db.js"></script>
     <script src="agenda.js"></script>

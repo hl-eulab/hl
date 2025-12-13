@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Earth Calendar - Perennial Journal</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌍</text></svg">
+    <style>
+        /* Reset e base */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html, body { 
+            height: 100%; 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif; 
+            font-size: 16px; 
+            line-height: 1.6; 
+            color: #000000; 
+            background-color: #ffffff; 
+        }
+        
+        /* Container principale */
+        .container { 
+            display: flex; 
+            flex-direction: column; 
+            min-height: 100vh; 
+            max-width: 1200px; 
+            margin: 0 auto; 
+            padding: 0 20px; 
+        }
+        
+        /* Header */
+        .header { 
+            padding: 40px 0 20px 0; 
+            border-bottom: 2px solid #000000; 
+            margin-bottom: 30px; 
+        }
+        .site-title { 
+            font-weight: 400; 
+            font-size: 32px; 
+            letter-spacing: -0.5px; 
+            margin-bottom: 8px; 
+            color: #000000; 
+        }
+        .site-subtitle { 
+            font-weight: 400; 
+            font-size: 18px; 
+            color: #666666; 
+        }
+        
+        /* Data corrente */
+        .current-date { 
+            font-size: 18px; 
+            font-weight: 500; 
+            color: #000000; 
+            margin-bottom: 30px; 
+            padding-bottom: 20px; 
+            border-bottom: 1px solid #e0e0e0; 
+        }
+        
+        /* Editor principale */
+        .journal-editor-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 40px;
+        }
+        
+        .journal-textarea {
+            flex: 1;
+            width: 100%;
+            min-height: 500px;
+            padding: 25px;
+            font-family: inherit;
+            font-size: 16px;
+            line-height: 1.7;
+            color: #000000;
+            background-color: #ffffff;
+            border: 1px solid #e0e0e0;
+            border-radius: 2px;
+            resize: vertical;
+            transition: border-color 0.2s;
+        }
+        
+        .journal-textarea:focus {
+            outline: none;
+            border-color: #000000;
+            background-color: #fcfcfc;
+        }
+        
+        /* Statistiche */
+        .journal-stats {
+            font-size: 14px;
+            color: #666666;
+            margin-top: 15px;
+            display: flex;
+            gap: 20px;
+        }
+        
+        /* Controlli */
+        .journal-controls {
+            display: flex;
+            gap: 15px;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #e0e0e0;
+        }
+        
+        .journal-btn {
+            padding: 14px 28px;
+            font-size: 14px;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background-color: #ffffff;
+            color: #000000;
+            border: 1px solid #000000;
+            border-radius: 2px;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        
+        .journal-btn:hover {
+            background-color: #000000;
+            color: #ffffff;
+        }
+        
+        .journal-btn-back {
+            background-color: #f8f8f8;
+        }
+        
+        /* Messaggio di stato */
+        .status-message { 
+            position: fixed; 
+            top: 20px; 
+            right: 20px; 
+            padding: 15px 25px; 
+            background-color: #000000; 
+            color: #ffffff; 
+            border-radius: 2px; 
+            font-size: 14px; 
+            z-index: 1000; 
+            opacity: 0; 
+            transform: translateY(-10px); 
+            transition: all 0.3s; 
+            max-width: 400px; 
+        }
+        
+        .status-message.show { 
+            opacity: 1; 
+            transform: translateY(0); 
+        }
+        
+        /* Footer */
+        .footer { 
+            padding: 40px 0; 
+            border-top: 2px solid #000000; 
+            margin-top: 40px; 
+            font-size: 14px; 
+            color: #666666; 
+        }
+        
+        .footer-content { 
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center; 
+            flex-wrap: wrap; 
+            gap: 20px; 
+        }
+        
+        .footer-links { 
+            display: flex; 
+            gap: 25px; 
+        }
+        
+        .footer-link { 
+            color: #666666; 
+            text-decoration: none; 
+            transition: color 0.2s; 
+        }
+        
+        .footer-link:hover { 
+            color: #000000; 
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container { 
+                padding: 0 15px; 
+            }
+            
+            .header { 
+                padding: 30px 0 15px 0; 
+            }
+            
+            .site-title { 
+                font-size: 28px; 
+            }
+            
+            .site-subtitle { 
+                font-size: 16px; 
+            }
+            
+            .journal-textarea {
+                padding: 20px;
+                min-height: 400px;
+                font-size: 15px;
+            }
+            
+            .journal-controls {
+                flex-direction: column;
+            }
+            
+            .journal-btn {
+                width: 100%;
+            }
+            
+            .footer-content {
+                flex-direction: column;
+                text-align: center;
+                gap: 15px;
+            }
+            
+            .footer-links {
+                justify-content: center;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .journal-textarea {
+                padding: 15px;
+                min-height: 350px;
+            }
+            
+            .journal-stats {
+                flex-direction: column;
+                gap: 5px;
+            }
+            
+            .status-message {
+                left: 20px;
+                right: 20px;
+                top: 10px;
+            }
+        }
+        
+        /* Per schermi larghi */
+        @media (min-width: 1400px) {
+            .container {
+                max-width: 1400px;
+                padding: 0 40px;
+            }
+            
+            .journal-textarea {
+                min-height: 600px;
+                font-size: 17px;
+                line-height: 1.8;
+            }
+        }
+        
+        @media (min-width: 2000px) {
+            .container {
+                max-width: 1600px;
+            }
+            
+            .journal-textarea {
+                min-height: 700px;
+                font-size: 18px;
+                padding: 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Messaggio di stato -->
+    <div id="statusMessage" class="status-message"></div>
+
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1 class="site-title">The Earth Calendar</h1>
+            <div class="site-subtitle">Perennial Journal</div>
+        </header>
+
+        <!-- Data corrente -->
+        <div class="current-date" id="currentDateDisplay">
+            <!-- Popolato via JavaScript -->
+        </div>
+
+        <!-- Editor principale -->
+        <div class="journal-editor-container">
+            <textarea class="journal-textarea" id="journalTextarea" 
+                      placeholder="Begin writing your journal here..."></textarea>
+            
+            <!-- Statistiche -->
+            <div class="journal-stats">
+                <span id="charCount">0 characters</span>
+                <span id="lastSaved">Not saved yet</span>
+            </div>
+            
+            <!-- Controlli -->
+            <div class="journal-controls">
+                <a href="../index.html" class="journal-btn journal-btn-back">
+                    ← Back to Weekly Agenda
+                </a>
+                
+                <button class="journal-btn" id="exportJournalBtn">
+                    Export Journal
+                </button>
+                
+                <button class="journal-btn" id="importJournalBtn">
+                    Import Journal
+                </button>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <div class="footer-copyright">
+                    The Earth Calendar Perennial Journal • Version 1.0
+                </div>
+                <div class="footer-links">
+                    <a href="https://earthcal.hyperlinker.org" class="footer-link" target="_blank">The Earth Calendar site</a>
+                    <a href="https://hyperlinker.org/tec/dt/api/index.html" class="footer-link" target="_blank">APIs available here</a>
+                    <a href="https://epoch.hyperlinker.org" class="footer-link" target="_blank">Concordance with Epoch Time</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="../tec_date.js"></script>
+    <script src="journal_db.js"></script>
+    <script src="journal.js"></script>
+</body>
+</html>
