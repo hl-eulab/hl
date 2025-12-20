@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Earth Calendar - Logbook & Goals</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <!-- Messaggio di stato -->
+    <div id="statusMessage"></div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-left">
+            <h1>The Earth Calendar</h1>
+            <p>Logbook & Goals</p>
+        </div>
+        <div class="header-right">
+            <div id="tecDateCompact">Loading...</div>
+        </div>
+    </header>
+
+    <!-- Doppio editor: Logbook (sinistra) e Goals (destra) -->
+    <main class="dual-container">
+        <!-- Colonna sinistra: Logbook -->
+        <section class="column">
+            <div class="column-header">
+                <h2>Logbook</h2>
+            </div>
+            <div class="journal-card">
+                <textarea id="journalTextarea" class="dual-textarea"></textarea>
+                <div class="journal-stats">
+                    <div class="stats-row">
+                        <span class="char-count">0 characters</span>
+                        <span class="save-indicator">Unsaved</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Colonna destra: Goals -->
+        <section class="column">
+            <div class="column-header">
+                <h2>Goals</h2>
+            </div>
+            <div class="journal-card">
+                <textarea id="goalsTextarea" class="dual-textarea"></textarea>
+                <div class="journal-stats">
+                    <div class="stats-row">
+                        <span class="char-count">0 characters</span>
+                        <span class="save-indicator">Unsaved</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Controlli -->
+    <nav class="controls">
+        <a href="../wkly/index.html">Weekly Agenda</a>
+        <a href="../sptnl/index.html">Septennial Agenda</a>
+    </nav>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>
+            <a href="../../index.htm" target="_blank"><b>The Earth Calendar</b></a> 
+            - Logbook & Goals - Version 1.1
+            <br>
+            Full concordance with <a href="../../dt/index.html" target="_blank"><b>Epoch Time</b></a>
+        </p>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="tec_date.js"></script>
+    <script src="journal_db.js"></script>
+    <script src="goals_db.js"></script>
+    <script src="journal.js"></script>
+    <script src="goals.js"></script>
+
+</body>
+</html>

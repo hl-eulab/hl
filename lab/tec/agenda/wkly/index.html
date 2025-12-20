@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- Aggiunto meta tag viewport per compatibilità -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Earth Calendar - Weekly Agenda</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <!-- Messaggio di stato -->
+    <div id="statusMessage"></div>
+
+    <!-- Header -->
+    <div class="header">
+        <h1>The Earth Calendar</h1>
+        <p>Weekly Agenda</p>
+    </div>
+
+    <!-- Navigazione settimana -->
+    <div class="week-nav">
+        <div id="currentDateDisplay">Loading...</div>
+        <div>
+            <button id="prevWeek">&larr; Previous</button>
+            <button id="todayWeek">Current Week</button>
+            <button id="nextWeek">Next &rarr;</button>
+        </div>
+    </div>
+
+    <!-- Griglia 7 giorni -->
+    <div id="weekGrid">
+        <!-- Popolato via JavaScript -->
+    </div>
+
+    <!-- Controlli -->
+    <div class="controls">
+        <a href="../srvc/index.html">Data Management</a>
+        <a href="../jrnl/index.html">Logbook & Goals</a>
+        <a href="../sptnl/index.html">Septennial Agenda</a>
+        <a href="#" id="saveAllLink">Save All Changes</a>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <p>
+            <a href="../../index.htm" target="_blank"><b>The Earth Calendar</b></a> 
+            - Weekly Agenda - Version 1.1
+            <br>
+            Full concordance with <a href="../../dt/index.html" target="_blank"><b>Epoch Time</b></a>
+        </p>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="tec_date.js"></script>
+    <script src="db.js"></script>
+    <script src="agenda.js"></script>
+    <script src="septen.js"></script>
+
+</body>
+</html>

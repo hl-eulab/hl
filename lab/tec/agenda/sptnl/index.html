@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Earth Calendar - Septennial Agenda</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <!-- Messaggio di stato -->
+    <div id="statusMessage"></div>
+
+    <!-- Header -->
+    <div class="header">
+        <h1>The Earth Calendar</h1>
+        <p>Septennial Agenda</p>
+    </div>
+
+    <!-- Navigazione settennio -->
+    <div class="week-nav">
+        <div id="currentSeptenniumDisplay">Loading Septennium...</div>
+        <div>
+            <button id="prevSeptennium">&larr; Previous</button>
+            <button id="currentSeptennium">Current Septennium</button>
+            <button id="nextSeptennium">Next &rarr;</button>
+        </div>
+    </div>
+
+    <!-- Griglia 7 anni -->
+    <div id="yearGrid">
+        <!-- Popolato via JavaScript -->
+    </div>
+
+    <!-- Controlli -->
+    <div class="controls">
+        <a href="../srvc/index.html">Data Management</a>
+        <a href="../wkly/index.html">Weekly Agenda</a>
+        <a href="../jrnl/index.html">Logbook & Goals</a>
+        <a href="#" id="saveAllLink">Save All Changes</a>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <p>
+            <a href="../../index.htm" target="_blank"><b>The Earth Calendar</b></a> 
+            - Septennial Agenda - Version 1.0
+            <br>
+            Full concordance with <a href="../../dt/index.html" target="_blank"><b>Epoch Time</b></a>
+        </p>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="tec_date.js"></script>
+    <script src="db.js"></script>
+    <script src="septennial.js"></script>
+
+</body>
+</html>

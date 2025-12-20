@@ -1,0 +1,224 @@
+/* ===== RESET BASE ===== */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 16px; 
+    line-height: 1.6; 
+    color: #000; 
+    background: #fff; 
+    padding: 15px;
+    max-width: 1800px;
+    margin: 0 auto;
+}
+
+/* ===== HEADER ===== */
+.header { 
+    padding: 25px 0; 
+    border-bottom: 2px solid #000; 
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.header-left {
+    flex: 1;
+}
+
+.header-right {
+    text-align: right;
+}
+
+.header h1 { 
+    font-size: 42px; 
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.header p { 
+    font-size: 22px; 
+    color: #666; 
+}
+
+/* ===== DATA TEC COMPATTA ===== */
+#tecDateCompact {
+    font-size: 22px;
+    font-weight: bold;
+    color: #000;
+}
+
+#tecDateCompact .tec-day {
+    display: inline;
+    margin-right: 8px;
+}
+
+#tecDateCompact .tec-date-numbers {
+    display: inline;
+}
+
+/* ===== DOPPIO CONTAINER (REPLICA ESATTA TABELLA) ===== */
+.dual-container {
+    display: flex;
+    gap: 15px;
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+.column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ===== HEADER COLONNA ===== */
+.column-header {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.column-header h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #000;
+}
+
+/* ===== JOURNAL CARD (REPLICA ESATTA COMPORTAMENTO TABELLA) ===== */
+.journal-card {
+    border: 1px solid #ccc;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    height: calc(550px + 40px); /* Altezza totale: textarea (550px) + stats (40px) */
+}
+
+/* ===== TEXTAREA DOPPIA (COMPORTAMENTO RESIZE COME TABELLA) ===== */
+.dual-textarea {
+    width: 100%;
+    height: 550px; /* Altezza iniziale */
+    min-height: 300px; /* Permette il resize verso l'alto */
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    line-height: 1.7;
+    color: #000;
+    background: #fff;
+    border: none;
+    border-bottom: 1px solid #ccc; /* Simula la separazione */
+    resize: vertical;
+    overflow: auto;
+    flex-shrink: 1; /* Permette di ridursi/espandersi */
+    flex-grow: 0; /* Non cresce oltre */
+}
+
+.dual-textarea:focus {
+    outline: 1px solid #000;
+    background: #fcfcfc;
+}
+
+/* ===== STATISTICHE (POSIZIONE FISSA IN FONDO) ===== */
+.journal-stats {
+    padding: 8px 10px;
+    background: #f8f8f8;
+    font-size: 14px;
+    color: #666;
+    flex-shrink: 0; /* Mai si riduce */
+    margin-top: auto; /* Spinge in fondo */
+}
+
+.stats-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.save-indicator.saved { 
+    color: #000;
+    font-weight: bold;
+}
+
+/* ===== CONTROLLI (2 LINK AFFIANCATI) ===== */
+.controls {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 25px;
+    padding-top: 15px;
+    border-top: 1px solid #ccc;
+}
+
+.controls a {
+    color: #000;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px 0;
+}
+
+.controls a:hover {
+    text-decoration: underline;
+}
+
+/* ===== FOOTER ===== */
+.footer { 
+    padding: 25px 0; 
+    border-top: 2px solid #000; 
+    margin-top: 10px; 
+    font-size: 18px; 
+    color: #666;
+    text-align: center;
+}
+
+.footer a { 
+    color: #666; 
+    text-decoration: none; 
+}
+
+.footer a:hover { 
+    color: #000; 
+    text-decoration: underline;
+}
+
+/* ===== MESSAGGIO DI STATO ===== */
+#statusMessage { 
+    position: fixed; 
+    top: 20px; 
+    right: 20px; 
+    padding: 15px 25px; 
+    background: #000; 
+    color: #fff; 
+    font-size: 14px; 
+    display: none;
+    z-index: 1000;
+}
+
+#statusMessage.show { 
+    display: block;
+}
+
+/* ===== SCROLLBAR PERSONALIZZATA ===== */
+.dual-textarea::-webkit-scrollbar {
+    width: 8px; /* Riduci lo spessore da 16px a 8px */
+}
+
+.dual-textarea::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Colore di sfondo molto chiaro */
+}
+
+.dual-textarea::-webkit-scrollbar-thumb {
+    background: #888; /* Grigio medio invece di nero */
+    border-radius: 4px; /* Angoli arrotondati */
+}
+
+.dual-textarea::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Leggermente più scuro al passaggio del mouse */
+}
+
+/* Per Firefox */
+.dual-textarea {
+    scrollbar-width: thin; /* Scrollbar sottile */
+    scrollbar-color: #888 #f1f1f1; /* Colori per Firefox */
+}
