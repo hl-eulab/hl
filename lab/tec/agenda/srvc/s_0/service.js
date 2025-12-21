@@ -36,7 +36,6 @@
             'rut.hyperlinker.org': 'https://hyperlinker.org/corpus/rut_56.html',
             'corpus.hyperlinker.org': 'https://hyperlinker.org/corpus/index.html',
             'epoch.hyperlinker.org': 'https://hyperlinker.org/tec/dt/index.html',
-            'sopruso.hyperlinker.org': 'https://hyperlinker.org/repita/camps/immo/index.html',
         };
         if (redirectMap[hostname]) {
             window.location.replace(redirectMap[hostname]);
