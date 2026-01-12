@@ -11,7 +11,7 @@ noy = new Array("of the Moon", "of the Atom", "of the Water", "of the Wind", "of
 
 moy = new Array("First month", "Second month", "Third month", "Fourth month", "Fifth month", "Sixth month", "Seventh month", "Eighth month", "Ninth month", "Tenth month", "Eleventh month", "Twelfth month")
 
-dow = new Array("Sunday", "Mooday", "Atomday", "Waterday", "Winday", "Fireday", "Earthday")
+dow = new Array("Sunday", "Moonday", "Atomday", "Waterday", "Winday", "Fireday", "Earthday")
 
 document.write("Today is " + dow[today.getDay()] + " " + today.getDate() + ", " + moy[today.getMonth()] + ", year " + ney + ", " + noy[yos] + "")
 
