@@ -9,7 +9,7 @@ var yos = ney%7
 
 noy = new Array("of the Moon", "of the Atom", "of the Water", "of the Wind", "of the Fire", "of the Earth", "of the Sun")
 
-moy = new Array("First month", "Second month", "Third month", "Fourth month", "Fifth month", "Sixth month", "Seventh month", "Eighth month", "Ninth month", "Tenth month", "Eleventh month", "Twelfth month")
+moy = new Array("first month", "second month", "third month", "fourth month", "fifth month", "sixth month", "seventh month", "eighth month", "ninth month", "tenth month", "eleventh month", "twelfth month")
 
 dow = new Array("Sunday", "Moonday", "Atomday", "Waterday", "Winday", "Fireday", "Earthday")
 
