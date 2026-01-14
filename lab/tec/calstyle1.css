@@ -59,6 +59,9 @@ a.procedi {text-decoration: none}
 a.none {text-decoration: none}
 .none:hover {background: white; text-decoration: none}
 
+a.line {text-decoration: none}
+.line:hover {background: white; text-decoration: underline}
+
 
 
 
