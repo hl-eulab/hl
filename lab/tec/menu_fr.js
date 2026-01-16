@@ -12,72 +12,75 @@ link = "home.htm"
 if (page == link)
     document.write("<font color='#0950b1'>Home | </font>");
       else
-    document.write("<a class='linkub' HREF='index_it.htm'>Home</a> | ")
+    document.write("<a class='linkub' HREF='index.htm'>Home</a> | ")
 
-link = "presentazione.htm"
+link = "introduction.htm"
 if (page == link)
-    document.write("<font color='#0950b1'>Presentazione | </font>");
+    document.write("<font color='#0950b1'>Introduction | </font>");
       else
-    document.write("<a class='linkub' HREF='presentazione.htm'>Presentazione</a> | ")
+    document.write("<a class='linkub' HREF='introduction.htm'>Introduction</a> | ")
 
-link = "pubblicazioni.htm"
+link = "publishings.htm"
 if (page == link)
-    document.write("<font color='#0950b1'>Libro ed almanacco | </font>");
+    document.write("<font color='#0950b1'>Book & almanac | </font>");
       else
-    document.write("<a class='linkub' HREF='pubblicazioni.htm'>Libro ed almanacco</a> | ")
+    document.write("<a class='linkub' HREF='publishings.htm'>Book & almanac</a> | ")
 
-link = "stampe.htm"
+link = "prints.htm"
 if (page == link)
-    document.write("<font color='#0950b1'>Stampe | </font>");
+    document.write("<font color='#0950b1'>Prints | </font>");
       else
-    document.write("<a class='linkub' HREF='stampe.htm'>Stampe</a> | ")
+    document.write("<a class='linkub' HREF='prints.htm'>Prints</a> | ")
 
-link = "linee.htm"
+link = "lines.htm"
 if (page == link)
-    document.write("<font color='#0950b1'>Linee di codice | </font>");
+    document.write("<font color='#0950b1'>Code lines | </font>");
       else
-    document.write("<a class='linkub' HREF='linee.htm'>Linee di codice</a> | ")
+    document.write("<a class='linkub' HREF='lines.htm'>Code lines</a> | ")
 
-link = "ruota.htm"
+link = "wheel.htm"
 if (page == link)
-    document.write("<font color='#0950b1'>La ruota dell'anno<br></font>");
+    document.write("<font color='#0950b1'>Year's wheel<br></font>");
       else
-    document.write("<a class='linkub' HREF='ruota.htm'>La ruota dell'anno</a><br>")
+    document.write("<a class='linkub' HREF='wheel.htm'>Year's wheel</a><br>")
 
-link = "riscontri.htm"
+link = "feedbacks.htm"
 if (page == link)
-    document.write("<font color='#0950b1'>Riscontri | </font>");
+    document.write("<font color='#0950b1'>Feedbacks | </font>");
       else
-    document.write("<a class='linkub' HREF='riscontri.htm'>Riscontri</a> | ")
+    document.write("<a class='linkub' HREF='feedbacks.htm'>Feedbacks</a> | ")
 
-link = "storia.htm"
+link = "story.htm"
 if (page == link)
-    document.write("<font color='#0950b1'>La storia | </font>");
+    document.write("<font color='#0950b1'>The story | </font>");
       else
-    document.write("<a class='linkub' HREF='storia.htm'>La storia</a> | ")
+    document.write("<a class='linkub' HREF='story.htm'>The story</a> | ")
 
-link = "webliografia.htm"
+link = "webliography.htm"
 if (page == link)
-    document.write("<font color='#0950b1'>Webliografia | </font>");
+    document.write("<font color='#0950b1'>Webliography | </font>");
       else
-    document.write("<a class='linkub' HREF='webliografia.htm'>Webliografia</a> | ")
+    document.write("<a class='linkub' HREF='webliography.htm'>Webliography</a> | ")
 
-link = "noi.htm"
+link = "we.htm"
 if (page == link)
-    document.write("<font color='#0950b1'>Chi siamo | </font>");
+    document.write("<font color='#0950b1'>About us | </font>");
       else
-    document.write("<a class='linkub' HREF='noi.htm'>Chi siamo</a> | ")
+    document.write("<a class='linkub' HREF='we.htm'>About us</a> | ")
 
-link = "licenza_1.htm"
+link = "license_1.htm"
 if (page == link)
-    document.write("<font color='#0950b1'>Licenza</font>");
+    document.write("<font color='#0950b1'>License</font>");
       else
-    document.write("<a class='linkub' HREF='licenza_1.htm'>Licenza</a>")
+    document.write("<a class='linkub' HREF='license_1.htm'>License</a>")
 
 
 
-// link = "proposte.htm"
+// link = "campaigns.htm"
 // if (page == link)
-//     document.write("<font color='#0950b1'>Proposte</font>");
+//     document.write("<font color='#0950b1'>Campaigns</font>");
 //       else
-//     document.write("<a class='linkub' HREF='proposte.htm'>Proposte</a>")
+//     document.write("<a class='linkub' HREF='campaigns.htm'>Campaigns</a>")
+
+
+
