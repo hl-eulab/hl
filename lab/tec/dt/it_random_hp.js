@@ -29,7 +29,7 @@ if (dayOfWeek >= 1 && dayOfWeek <= 5) {
     // Il modulo (pod.length - 1) assicura che l'indice sia valido per l'array
     var indice = (seed % (pod.length - 1)) + 1;
 
-    document.write("<br><i>Human power of the day: " + pod[indice] + "</i>");
+    document.write("<br><i>Potere umano del giorno: " + pod[indice] + "</i>");
 }
 
 // end
