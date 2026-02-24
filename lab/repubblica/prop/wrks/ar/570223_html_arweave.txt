@@ -1,0 +1,37 @@
+
+
+jowa@fedora:~$ npx arweave-deploy deploy 570223.html --key-file ~/arweave-wallet.json
+
+File
+
+Path: 570223.html
+Size: 12.75 kB
+
+Transaction
+
+ID: 0KMBKOLzB1U_vPaN1Ao7PjrTnziXuVHR2cpRC2y5vF8
+Price: 0.000944696119 AR
+
+Tags:
+
+ - Content-Type:text/html
+ - User-Agent:ArweaveDeploy/1.9.1
+
+Wallet
+
+Address: _ZZWhX4F8irujUWJtTsdV0bBzbCkemqblel3bK3cEAc
+Current balance: 2.091454485201 AR
+Balance after uploading: 2.090509789082 AR
+
+Carefully check the above details are correct, then Type CONFIRM to complete this upload CONFIRM
+Your file is deploying! 🚀
+Once your file is mined into a block it'll be available on the following URL
+
+https://arweave.net/0KMBKOLzB1U_vPaN1Ao7PjrTnziXuVHR2cpRC2y5vF8
+
+You can check its status using 'arweave status 0KMBKOLzB1U_vPaN1Ao7PjrTnziXuVHR2cpRC2y5vF8'
+        
+jowa@fedora:~$ 
+
+
+
