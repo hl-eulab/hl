@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>La Repubblica: una promessa mai mantenuta</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body {
+  width: 100%; height: 100%;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tiktok-frame {
+  width: 100vmin;
+  max-width: 420px;
+  aspect-ratio: 9/16;
+  background: #0a0a0a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 48px 34px 48px 38px;
+  position: relative;
+  overflow: hidden;
+}
+.bg-line {
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  background: #e8c84a;
+}
+.label {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: #e8c84a;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  opacity: 0;
+  animation: fadeUp 0.5s ease forwards 0.1s;
+}
+.title {
+  font-family: 'Playfair Display', serif;
+  font-size: 24px;
+  font-weight: 900;
+  color: #f5f0e8;
+  line-height: 1.25;
+  opacity: 0;
+  animation: fadeUp 0.6s ease forwards 0.3s;
+}
+.divider {
+  width: 0;
+  height: 2px;
+  background: #e8c84a;
+  margin: 18px 0;
+  opacity: 0;
+  animation: expandW 0.5s ease forwards 0.7s;
+}
+.lines-block {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+.line {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #b0a898;
+  line-height: 1.5;
+  opacity: 0;
+  transform: translateX(-10px);
+  animation: slideIn 0.5s ease forwards;
+}
+.line .accent { font-weight: 700; color: #f5f0e8; }
+.line .highlight { font-weight: 700; color: #e8c84a; }
+.finale {
+  margin-top: 18px;
+  font-family: 'Playfair Display', serif;
+  font-size: 17px;
+  font-weight: 900;
+  color: #e8c84a;
+  line-height: 1.4;
+  opacity: 0;
+  animation: fadeUp 0.7s ease forwards;
+}
+.firma {
+  margin-top: 16px;
+  font-family: 'Playfair Display', serif;
+  font-size: 13px;
+  font-style: italic;
+  color: #555;
+  opacity: 0;
+  animation: fadeUp 0.5s ease forwards;
+}
+.progress {
+  position: absolute;
+  bottom: 0; left: 0;
+  height: 2px;
+  background: #e8c84a;
+  width: 0%;
+  animation: progress 11s linear forwards 0.3s;
+}
+.replay-btn {
+  position: absolute;
+  bottom: 20px; right: 20px;
+  background: transparent;
+  border: 1px solid #333;
+  color: #666;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 11px;
+  padding: 6px 14px;
+  border-radius: 20px;
+  cursor: pointer;
+  letter-spacing: 1px;
+}
+.replay-btn:hover { border-color: #e8c84a; color: #e8c84a; }
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes slideIn {
+  from { opacity: 0; transform: translateX(-10px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes expandW {
+  from { opacity: 0; width: 0; }
+  to   { opacity: 1; width: 48px; }
+}
+@keyframes progress { to { width: 100%; } }
+</style>
+</head>
+<body>
+<div class="tiktok-frame" id="frame">
+  <div class="bg-line"></div>
+  <div class="progress" id="prog"></div>
+
+  <div class="label">Riflessione politica</div>
+  <div class="title">La Repubblica:<br>una promessa<br>mai mantenuta</div>
+  <div class="divider"></div>
+
+  <div class="lines-block">
+    <div class="line" style="animation-delay:1.0s">Ti dicono che vivi in una <span class="accent">REPUBBLICA</span>. <span class="highlight">Mentono.</span></div>
+    <div class="line" style="animation-delay:1.7s">È tuttora il vecchio <span class="accent">STATO MONARCHICO</span> lasciato permanere intatto da 80 anni.</div>
+    <div class="line" style="animation-delay:2.5s">Ragiona: il <span class="highlight">"Posto Fisso"</span> non è altro che il <span class="accent">SEQUESTRO</span> della Res Publica.</div>
+    <div class="line" style="animation-delay:3.3s">L'assunto a vita nel finto-pubblico impiego: è un <span class="accent">PICCOLO o GRANDE MONARCA</span>.</div>
+    <div class="line" style="animation-delay:4.1s">Soluzione: <span class="highlight">ASSUNZIONI TEMPORANEE</span> per ottenere la vera <span class="accent">PARTECIPAZIONE</span>.</div>
+    <div class="line" style="animation-delay:4.9s">Ci si sussegue <span class="highlight">PRO TEMPORE</span> tra persone competenti e preparate.</div>
+    <div class="line" style="animation-delay:5.7s">Da una illusoria trasparenza, si passa ad un vitale processo di <span class="accent">OSMOSI</span> nelle Istituzioni.</div>
+  </div>
+
+  <div class="finale" style="animation-delay:6.6s">
+    Se vuoi diventare un vero cittadino:<br>ragionaci su. Quando capirai…<br><span style="color:#f5f0e8">ESULTERAI!</span>
+  </div>
+  <div class="firma" style="animation-delay:7.8s">— Danilo D'Antonio</div>
+
+  <button class="replay-btn" onclick="replay()">↺ REPLAY</button>
+</div>
+
+<script>
+function replay() {
+  const frame = document.getElementById('frame');
+  const prog = document.getElementById('prog');
+  const els = frame.querySelectorAll('.label,.title,.divider,.line,.finale,.firma');
+  els.forEach(el => { el.style.animation = 'none'; el.offsetHeight; el.style.animation = ''; });
+  prog.style.animation = 'none';
+  prog.offsetHeight;
+  prog.style.animation = 'progress 11s linear forwards 0.3s';
+}
+</script>
+</body>
+</html>
