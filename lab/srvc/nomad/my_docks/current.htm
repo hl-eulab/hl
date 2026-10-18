@@ -1,0 +1,568 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>my_docks_7</title>
+		<base target="_top"></base>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+		<meta name="geo.position" content="43.4735246; 7.5108595" />
+		<meta name="ICBM" content="43.4735246, 7.5108595" />
+	</head>
+	<body style="margin:0px;">
+		<script type="text/javascript">
+			google_api_key = ''; // Your project's Google Maps API key goes here (https://code.google.com/apis/console)
+			language_code = '';
+			document.writeln('<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3&amp;libraries=geometry&amp;language='+(self.language_code?self.language_code:'')+'&amp;key='+(self.google_api_key?self.google_api_key:'')+'"><'+'/script>');
+			
+			thunderforest_api_key = ''; // To display OpenStreetMap tiles from ThunderForest, you need a key (http://www.thunderforest.com/docs/apikeys/)
+		</script>
+		
+		<!--
+			If you want to transplant this map into another Web page, by far the best method is to
+			simply include it in a IFRAME tag (see http://www.gpsvisualizer.com/faq.html#google_html).
+			But, if you must paste the code into another page, be sure to include all of these parts:
+			   1. The "div" tags that contain the map and its widgets, below
+			   2. Three sections of JavaScript code:
+			      a. The Google code (maps.google.com or googleapis.com) code, above
+			      b. "gv_options" and the code that calls a .js file on maps.gpsvisualizer.com
+			      c. The "GV_Map" function, which contains all the geographic info for the map
+		-->
+		<div style="margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0px;">
+			<div id="gmap_div" style="width:700px; height:700px; margin:0px; margin-right:12px; background-color:#f0f0f0; float:left; overflow:hidden;">
+				<p align="center" style="font:10px Arial;">This map was created using <a target="_blank" href="http://www.gpsvisualizer.com/">GPS Visualizer</a>'s do-it-yourself geographic utilities.<br /><br />Please wait while the map data loads...</p>
+			</div>
+				
+			<div id="gv_infobox" class="gv_infobox" style="font:11px Arial; border:solid #666666 1px; background-color:#ffffff; padding:4px; overflow:auto; display:none; max-width:400px;">
+				<!-- Although GPS Visualizer didn't create an legend/info box with your map, you can use this space for something else if you'd like; enable it by setting gv_options.infobox_options.enabled to true -->
+			</div>
+
+
+
+			<div id="gv_marker_list" class="gv_marker_list" style="background-color:#ffffff; overflow:auto; display:none;"><!-- --></div>
+
+			<div id="gv_clear_margins" style="height:0px; clear:both;"><!-- clear the "float" --></div>
+		</div>
+
+		
+		<!-- begin GPS Visualizer setup script (must come after maps.google.com code) -->
+		<script type="text/javascript">
+			/* Global variables used by the GPS Visualizer functions (20180927103054): */
+			gv_options = {};
+			
+			// basic map parameters:
+			gv_options.center = [43.4735246,7.5108595];  // [latitude,longitude] - be sure to keep the square brackets
+			gv_options.zoom = 4;  // higher number means closer view; can also be 'auto' for automatic zoom/center based on map elements
+			gv_options.map_type = 'GV_OSM';  // popular map_type choices are 'GV_STREET', 'GV_SATELLITE', 'GV_HYBRID', 'GV_TERRAIN', 'GV_OSM', 'GV_TOPO_US', 'GV_TOPO_WORLD' (http://www.gpsvisualizer.com/misc/google_map_types.html)
+			gv_options.map_opacity = 1.00;  // number from 0 to 1
+			gv_options.full_screen = true;  // true|false: should the map fill the entire page (or frame)?
+			gv_options.width = 700;  // width of the map, in pixels
+			gv_options.height = 700;  // height of the map, in pixels
+			
+			gv_options.map_div = 'gmap_div';  // the name of the HTML "div" tag containing the map itself; usually 'gmap_div'
+			gv_options.doubleclick_zoom = true;  // true|false: zoom in when mouse is double-clicked?
+			gv_options.doubleclick_center = true;  // true|false: re-center the map on the point that was double-clicked?
+			gv_options.scroll_zoom = true; // true|false; or 'reverse' for down=in and up=out
+			gv_options.page_scrolling = true; // true|false; does the map relenquish control of the scroll wheel when embedded in scrollable pages?
+			gv_options.autozoom_adjustment = 0;
+			gv_options.centering_options = { 'open_info_window':true, 'partial_match':true, 'center_key':'center', 'default_zoom':null } // URL-based centering (e.g., ?center=name_of_marker&zoom=14)
+			gv_options.street_view = false; // true|false: allow Google Street View on the map
+			gv_options.tilt = false; // true|false: allow Google to show 45-degree tilted aerial imagery?
+			gv_options.animated_zoom = false; // true|false: may or may not work properly
+			gv_options.disable_google_pois = false;  // true|false: if you disable clickable POIs, you also lose the labels on parks, airports, etc.
+			
+			// widgets on the map:
+			gv_options.zoom_control = 'large'; // 'large'|'small'|'none'
+			gv_options.recenter_button = true; // true|false: is there a 'click to recenter' option in the zoom control?
+			gv_options.scale_control = true; // true|false
+			gv_options.map_opacity_control = 'utilities';  // 'map'|'utilities'|'both'|false: where does the opacity control appear?
+			gv_options.map_type_control = {};  // widget to change the background map
+			  gv_options.map_type_control.placement = 'both'; // 'map'|'utilities'|'both'|false: where does the map type control appear?
+			  gv_options.map_type_control.filter = false;  // true|false: when map loads, are irrelevant maps ignored?
+			  gv_options.map_type_control.excluded = [];  // comma-separated list of quoted map IDs that will never show in the list ('included' also works)
+			gv_options.center_coordinates = true;  // true|false: show a "center coordinates" box and crosshair?
+			gv_options.measurement_tools = true;  // true|false: does it appear on the map itself?
+			gv_options.measurement_options = { visible:false, distance_color:'', area_color:'' };
+			gv_options.crosshair_hidden = true;  // true|false: hide the crosshair initially?
+			gv_options.mouse_coordinates = false;  // true|false: show a "mouse coordinates" box?
+			gv_options.utilities_menu = { 'maptype':true, 'opacity':true, 'measure':true, 'export':true };
+			gv_options.allow_export = false;  // true|false
+			
+			gv_options.infobox_options = {}; // options for a floating info box (id="gv_infobox"), which can contain anything
+			  gv_options.infobox_options.enabled = true;  // true|false: enable or disable the info box altogether
+			  gv_options.infobox_options.position = ['LEFT_TOP',52,6];  // [Google anchor name, relative x, relative y]
+			  gv_options.infobox_options.draggable = true;  // true|false: can it be moved around the screen?
+			  gv_options.infobox_options.collapsible = true;  // true|false: can it be collapsed by double-clicking its top bar?
+
+			// marker-related options:
+			gv_options.default_marker = { color:'red',icon:'googlemini',scale:1 }; // icon can be a URL, but be sure to also include size:[w,h] and optionally anchor:[x,y]
+			gv_options.vector_markers = false; // are the icons on the map in embedded SVG format?
+			gv_options.marker_tooltips = true; // do the names of the markers show up when you mouse-over them?
+			gv_options.marker_shadows = true; // true|false: do the standard markers have "shadows" behind them?
+			gv_options.marker_link_target = '_blank'; // the name of the window or frame into which markers' URLs will load
+			gv_options.info_window_width = 300;  // in pixels, the width of the markers' pop-up info "bubbles" (can be overridden by 'window_width' in individual markers)
+			gv_options.thumbnail_width = 0;  // in pixels, the width of the markers' thumbnails (can be overridden by 'thumbnail_width' in individual markers)
+			gv_options.photo_size = [0,0];  // in pixels, the size of the photos in info windows (can be overridden by 'photo_width' or 'photo_size' in individual markers)
+			gv_options.hide_labels = false;  // true|false: hide labels when map first loads?
+			gv_options.labels_behind_markers = false; // true|false: are the labels behind other markers (true) or in front of them (false)?
+			gv_options.label_offset = [0,0];  // [x,y]: shift all markers' labels (positive numbers are right and down)
+			gv_options.label_centered = false;  // true|false: center labels with respect to their markers?  (label_left is also a valid option.)
+			gv_options.driving_directions = false;  // put a small "driving directions" form in each marker's pop-up window? (override with dd:true or dd:false in a marker's options)
+			gv_options.garmin_icon_set = 'gpsmap'; // 'gpsmap' are the small 16x16 icons; change it to '24x24' for larger icons
+			gv_options.marker_list_options = {};  // options for a dynamically-created list of markers
+			  gv_options.marker_list_options.enabled = false;  // true|false: enable or disable the marker list altogether
+			  gv_options.marker_list_options.floating = true;  // is the list a floating box inside the map itself?
+			  gv_options.marker_list_options.position = ['RIGHT_BOTTOM',6,38];  // floating list only: position within map
+			  gv_options.marker_list_options.min_width = 160; // minimum width, in pixels, of the floating list
+			  gv_options.marker_list_options.max_width = 160;  // maximum width
+			  gv_options.marker_list_options.min_height = 0;  // minimum height, in pixels, of the floating list
+			  gv_options.marker_list_options.max_height = 310;  // maximum height
+			  gv_options.marker_list_options.draggable = true;  // true|false, floating list only: can it be moved around the screen?
+			  gv_options.marker_list_options.collapsible = true;  // true|false, floating list only: can it be collapsed by double-clicking its top bar?
+			  gv_options.marker_list_options.include_tickmarks = false;  // true|false: are distance/time tickmarks included in the list?
+			  gv_options.marker_list_options.include_trackpoints = false;  // true|false: are "trackpoint" markers included in the list?
+			  gv_options.marker_list_options.dividers = false;  // true|false: will a thin line be drawn between each item in the list?
+			  gv_options.marker_list_options.desc = false;  // true|false: will the markers' descriptions be shown below their names in the list?
+			  gv_options.marker_list_options.icons = true;  // true|false: should the markers' icons appear to the left of their names in the list?
+			  gv_options.marker_list_options.thumbnails = false;  // true|false: should markers' thumbnails be shown in the list?
+			  gv_options.marker_list_options.folders_collapsed = false;  // true|false: do folders in the list start out in a collapsed state?
+			  gv_options.marker_list_options.folders_hidden = false;  // true|false: do folders in the list start out in a hidden state?
+			  gv_options.marker_list_options.collapsed_folders = []; // an array of folder names
+			  gv_options.marker_list_options.hidden_folders = []; // an array of folder names
+			  gv_options.marker_list_options.count_folder_items = false;  // true|false: list the number of items in each folder?
+			  gv_options.marker_list_options.wrap_names = true;  // true|false: should marker's names be allowed to wrap onto more than one line?
+			  gv_options.marker_list_options.unnamed = '[unnamed]';  // what 'name' should be assigned to  unnamed markers in the list?
+			  gv_options.marker_list_options.colors = false;  // true|false: should the names/descs of the points in the list be colorized the same as their markers?
+			  gv_options.marker_list_options.default_color = '';  // default HTML color code for the names/descs in the list
+			  gv_options.marker_list_options.limit = 0;  // how many markers to show in the list; 0 for no limit
+			  gv_options.marker_list_options.center = false;  // true|false: does the map center upon a marker when you click its name in the list?
+			  gv_options.marker_list_options.zoom = false;  // true|false: does the map zoom to a certain level when you click on a marker's name in the list?
+			  gv_options.marker_list_options.zoom_level = 11;  // if 'zoom' is true, what level should the map zoom to?
+			  gv_options.marker_list_options.info_window = true;  // true|false: do info windows pop up when the markers' names are clicked in the list?
+			  gv_options.marker_list_options.url_links = false;  // true|false: do the names in the list become instant links to the markers' URLs?
+			  gv_options.marker_list_options.toggle = false;  // true|false: does a marker disappear if you click on its name in the list?
+			  gv_options.marker_list_options.help_tooltips = false;  // true|false: do "tooltips" appear on marker names that tell you what happens when you click?
+			  gv_options.marker_list_options.id = 'gv_marker_list';  // id of a DIV tag that holds the list
+			  gv_options.marker_list_options.header = ''; // HTML code; be sure to put backslashes in front of any single quotes, and don't include any line breaks
+			  gv_options.marker_list_options.footer = ''; // HTML code
+			gv_options.marker_filter_options = {};  // options for removing waypoints that are out of the current view
+			  gv_options.marker_filter_options.enabled = false;  // true|false: should out-of-range markers be removed?
+			  gv_options.marker_filter_options.movement_threshold = 8;  // in pixels, how far the map has to move to trigger filtering
+			  gv_options.marker_filter_options.limit = 0;  // maximum number of markers to display on the map; 0 for no limit
+			  gv_options.marker_filter_options.update_list = true;  // true|false: should the marker list be updated with only the filtered markers?
+			  gv_options.marker_filter_options.sort_list_by_distance = false;  // true|false: should the marker list be sorted by distance from the center of the map?
+			  gv_options.marker_filter_options.min_zoom = 0;  // below this zoom level, don't show any markers at all
+			  gv_options.marker_filter_options.zoom_message = '';  // message to put in the marker list if the map is below the min_zoom threshold
+			gv_options.synthesize_fields = {}; // for example: {label:'{name}'} would cause all markers' names to become visible labels
+				
+
+			
+			// Load GPS Visualizer's Google Maps functions (this must be loaded AFTER gv_options are set):
+			if (window.location.toString().indexOf('https://') == 0) { // secure pages require secure scripts
+				document.writeln('<script src="https://gpsvisualizer.com/google_maps/functions3.js" type="text/javascript"><'+'/script>');
+			} else {
+				document.writeln('<script src="http://maps.gpsvisualizer.com/google_maps/functions3.js" type="text/javascript"><'+'/script>');
+			}
+			
+		</script>
+		<style type="text/css">
+			/* Put any custom style definitions here (e.g., .gv_marker_info_window, .gv_marker_info_window_name, .gv_marker_list_item, .gv_tooltip, .gv_label, etc.) */
+			#gmap_div .gv_marker_info_window {
+				font-size:11px !important;
+			}
+			#gmap_div .gv_label {
+				opacity:0.90; filter:alpha(opacity=90);
+				color:white; background-color:#333333; border:1px solid black; padding:1px;
+				font:9px Verdana !important;
+				font-weight:normal !important;
+			}
+			
+		</style>
+		
+		<!-- end GPSV setup script and styles; begin map-drawing script (they must be separate) -->
+		<script type="text/javascript">
+			function GV_Map() {
+			  
+				GV_Setup_Map();
+				
+				
+				
+				GV_Draw_Marker({lat:36.6505070,lon:22.8995010,name:'Demonia',desc:'Greece',color:'',icon:''});
+				GV_Draw_Marker({lat:40.0330110,lon:24.0164830,name:'Tigania Beach',desc:'Greece',color:'',icon:''});
+				GV_Draw_Marker({lat:42.6860270,lon:13.5283710,name:'Rocca',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.6606730,lon:13.7133350,name:'Regina',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.6589900,lon:13.7167250,name:'Acquaviva',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.7420020,lon:13.9777400,name:'Giglio',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.8483860,lon:12.2948160,name:'Motorhome parking Goro',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.8461200,lon:12.4633200,name:'Motorhome parking Porto Tolle',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.0012400,lon:12.4211400,name:'Parcheggio Comunale Boccasette',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.9465400,lon:12.1773300,name:'Parcheggio Comunale close to the Church and museum',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.9233200,lon:12.2340000,name:'Area Comunale at Sportpark near Castle di Alfonso D\'Este-Centre 300 m',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.0502800,lon:12.0694800,name:'Area Comunale - quiet location-supermarket 400 m centre 1 km',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.9571600,lon:11.7558100,name:'Parcheggio Comunale Ponte di Polesella',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5336800,lon:12.0426000,name:'Montefiascone, Zepponami, Cooperativa Vinicola',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4847000,lon:12.2498000,name:'Bomarzo, in pieno centro, angoli e strade strette',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4712400,lon:12.1723400,name:'Vitorchiano',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5102700,lon:12.2947100,name:'Attigliano',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5107100,lon:12.3265900,name:'Giove',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4221500,lon:11.8751600,name:'Tuscania, Area Comunale',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4260500,lon:12.1577500,name:'Bagnaia, Area Comunale',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4700100,lon:11.7591000,name:'Canino, Parking Incoop',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4301600,lon:11.6325000,name:'Vulci, Parcheggio del Castello dell\'Abbadia',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4805810,lon:11.6965500,name:'Roggi',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.6482520,lon:11.9871570,name:'Bolsena, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4901040,lon:12.2504430,name:'Bomarzo, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4705990,lon:11.7552440,name:'Canino, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.6373450,lon:11.6799530,name:'Pitigliano',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.3222670,lon:11.5895780,name:'Montalto Marina, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.3951530,lon:12.8643630,name:'Rieti, Via Fonte Cottorella, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2650000,lon:-7.1294440,name:'rr',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2861110,lon:-7.1700000,name:'xxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2252780,lon:-7.1666670,name:'x6546xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2144440,lon:-7.1752780,name:'x6454xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2083330,lon:-7.1738890,name:'x7798x',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2061110,lon:-7.2269440,name:'xxuhhjx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2008330,lon:-7.2922220,name:'x986xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1766670,lon:-7.3566670,name:'xuy78xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0141670,lon:-7.9247220,name:'xxhgkjx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1194440,lon:-7.6208330,name:'x4332dsxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1538890,lon:-7.5533330,name:'xjhklixx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1580560,lon:-7.5466670,name:'x872xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1777780,lon:-7.4730560,name:'trtyyuxxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1769440,lon:-7.4697220,name:'x98765231xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2302780,lon:-7.4263890,name:'ytyuuixxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1994440,lon:-7.4191670,name:'ioumnmfewxxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1988890,lon:-7.4147220,name:'xxxrt',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1972220,lon:-7.4041670,name:'xxxhgnm,',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.5916670,lon:-7.1227780,name:'Tharsis',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1697220,lon:-7.2708330,name:'xxxrerfjk',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.3852780,lon:-7.3513890,name:'xxx897871',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.3216670,lon:-7.3197220,name:'xxx4465887',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.3063890,lon:-7.3316670,name:'xxxwql',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.3019440,lon:-7.3380560,name:'xxx879654545',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2597220,lon:-7.3391670,name:'xxxiuoik',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2530560,lon:-7.3461110,name:'xxxdeferrt',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2313890,lon:-7.3983330,name:'xxytuiuiox',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2141670,lon:-7.3972220,name:'x444xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2122220,lon:-7.3897220,name:'xx987854x',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1738890,lon:-7.3836110,name:'xxx5454158',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0400000,lon:-8.0500000,name:'xx8979865456x',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0863890,lon:-8.1680560,name:'x875887xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0863890,lon:-8.1680560,name:'xoioixx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2750000,lon:-8.3122220,name:'xooxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2397220,lon:-8.3772220,name:'xhnx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2372220,lon:-8.3941670,name:'xxiiix',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1163890,lon:-8.6752780,name:'xxxyuiui',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0816670,lon:-8.9122220,name:'Vila do Bispo',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0908330,lon:-8.9305560,name:'natura',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0961110,lon:-8.9341670,name:'natura',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1052780,lon:-8.9380560,name:'scogliera',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1688890,lon:-8.9008330,name:'xuiioioxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1969440,lon:-8.9113890,name:'xx987845x',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.5983330,lon:-8.8169440,name:'xxnbux',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6530560,lon:-8.8008330,name:'xytuytuxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.7194440,lon:-8.7800000,name:'xxx98745',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8288890,lon:-8.7908330,name:'xxposadDx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8666670,lon:-8.7925000,name:'xxOIWEQÒOWEx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8966670,lon:-8.7975000,name:'xxSAD2348SDAx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.5066670,lon:-8.4352780,name:'xSIUAUIOxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4886110,lon:-7.8555560,name:'xgfd8gds5a4xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6100000,lon:-7.8305560,name:'iosdaoioidsxxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6580560,lon:-7.7461110,name:'xlkjlkdaslxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6325000,lon:-7.6733330,name:'xx,kjkjewx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6380560,lon:-7.6619440,name:'xxf21g5er88x',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6472220,lon:-7.6669440,name:'xxdc8g85g1x',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.5977780,lon:-7.6444440,name:'xioòàlkòeqrwfxx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6433330,lon:-7.5608330,name:'xtoiuoiw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6327780,lon:-7.5111110,name:'xtfghw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6702780,lon:-7.5047220,name:'xtw87878xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6722220,lon:-7.5038890,name:'xtwyuuyu8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6727780,lon:-7.5000000,name:'xt54458w8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6777780,lon:-7.4941670,name:'xt65yjhjhw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6327780,lon:-7.5111110,name:'xt65yjhj987879hw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.5386110,lon:-7.5391670,name:'xt65yjh89756jhw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.5552780,lon:-7.5372220,name:'xt65654654yjhjhw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.5538890,lon:-7.5277780,name:'xt65889yjhjhw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.5566670,lon:-7.5286110,name:'xt65yjhjh87/8w8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.3313890,lon:-7.4669440,name:'xt65y987jhjhw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.3263890,lon:-7.4555560,name:'xt65yioioiuijhjhw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2738890,lon:-7.5091670,name:'xt65yjhjhw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.3644440,lon:-7.4386110,name:'xt65yjyujhjhjhw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4688890,lon:-7.4900000,name:'xt65yjyiuyiuhjhw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.7025000,lon:-7.4397220,name:'xt65yjiuiuhjhw8xx',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.9650000,lon:-7.2311110,name:'x987809t65y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.3744440,lon:-7.4402780,name:'xt6kujkjkl5y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4072220,lon:-7.4261110,name:'xt0890865y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4108330,lon:-7.4369440,name:'xt65jhjkdrty',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4180560,lon:-7.4438890,name:'xt6ythj5y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4222220,lon:-7.4544440,name:'xt6er4345y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4213890,lon:-7.4591670,name:'xtàòfghg65y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4680560,lon:-7.5055560,name:'xhjht65y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.7041670,lon:-7.4455560,name:'xt664545y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4508330,lon:-7.4438890,name:'xt6545465y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4597220,lon:-7.4491670,name:'xtoiuopi65y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4727780,lon:-7.4736110,name:'xt65455y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.5202780,lon:-7.4194440,name:'xt878799865y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.7166670,lon:-7.4602780,name:'xtuyui9865y',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1988920,lon:-7.4148110,name:'Vila Real',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1747590,lon:-7.4213310,name:'Marisma',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0531550,lon:-7.7441890,name:'Fuseta',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0233880,lon:-8.9947640,name:'Sal Vicente',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0817610,lon:-8.9127340,name:'Vila Do Bispo internet',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1928980,lon:-8.9025560,name:'Carrapateira Praia',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1694040,lon:-8.9010970,name:'Carrapateira Surf',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.9494960,lon:-7.2954300,name:'Ficalho',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4459300,lon:-7.0000000,name:'Pereiro',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.4750760,lon:-7.4746090,name:'Alcoutim',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.5154560,lon:-8.4440990,name:'A Velha',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.4274530,lon:-7.3834320,name:'Monsarraz bay',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.4424350,lon:-7.3802490,name:'Monsarraz',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.3831960,lon:-7.3587720,name:'Mourao Lake',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.3431070,lon:-7.3741140,name:'Luz',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.0855300,lon:-7.5464150,name:'Brinches Lake',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.3314280,lon:-7.4674160,name:'Alcarias',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.9583080,lon:-8.0680560,name:'Ervidel Lake',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.0105140,lon:-7.8607590,name:'Biblioteca Beja',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.0075000,lon:-7.8622110,name:'Campismo Beja',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.0053140,lon:-7.8580780,name:'Feira Park Beja',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.0110690,lon:-7.8751620,name:'Parque Hotel',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.0183230,lon:-7.8666960,name:'sef',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.1644310,lon:-7.8991350,name:'Megapark Pesados Cuba',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.1480500,lon:-7.9477740,name:'Parque merendas',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8358290,lon:-7.7036110,name:'natura',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8305560,lon:-7.6238890,name:'natura',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8102200,lon:-7.6447340,name:'Pulo do Lobo',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.9411380,lon:-7.6044830,name:'Serpa Camping',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.9402690,lon:-7.6005450,name:'Serpa Biblioteca',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.9358010,lon:-7.6363780,name:'natura',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.9949670,lon:-7.4622220,name:'Pias barragem',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8922220,lon:-7.4697110,name:'terra adelino',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8988890,lon:-7.4383230,name:'Veigas barragem',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8902780,lon:-7.4069440,name:'terra estevan',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8544610,lon:-7.3774890,name:'terra alfonso',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8540230,lon:-7.3227260,name:'festa Crespo',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8724830,lon:-7.3241770,name:'Joao II',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8738800,lon:-7.3191560,name:'ex terra trindade',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8937300,lon:-7.3339430,name:'Joao',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.1127690,lon:-7.6305450,name:'praia do barragem',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.1124920,lon:-7.6238780,name:'orada park',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.1155560,lon:-7.6208440,name:'Guadiana',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.1979220,lon:-7.4930500,name:'lago di Brinches',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.2022480,lon:-7.4776810,name:'praia',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.2725080,lon:-7.5380560,name:'natura',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.2675040,lon:-7.3969390,name:'Estrela Point',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.3358160,lon:-7.3908440,name:'tranquillity lake base',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.3444280,lon:-7.4063890,name:'extraordinary',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.3436950,lon:-7.3865490,name:'embarcadero de Luz',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.3411110,lon:-7.3472220,name:'natura',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.3366540,lon:-7.3461540,name:'natura',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.3833590,lon:-7.3445030,name:'Mourao internet point',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.3930470,lon:-7.3313890,name:'zingari felici',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.3990170,lon:-7.3654940,name:'Ermida de Mourao',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.4266670,lon:-7.3830450,name:'Monsaraz Bay',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:38.4200590,lon:-7.5299800,name:'Renguengos Park',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.8848090,lon:-8.1609560,name:'Centro sportivo Aljustrel',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0567460,lon:-8.8550160,name:'Praia das Furnas, Vila do Bispo',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0667350,lon:-8.8097320,name:'Praia da Boca do Rio, Budens',desc:'Portugal',color:'',icon:''});
+				GV_Draw_Marker({lat:47.6985100,lon:10.2303600,name:'Buchenberg',desc:'Germany',color:'',icon:''});
+				GV_Draw_Marker({lat:47.6254670,lon:8.3146560,name:'Lauchringen',desc:'Germany',color:'',icon:''});
+				GV_Draw_Marker({lat:56.4819100,lon:8.7863600,name:'Vinderup Center',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:57.2747200,lon:9.9522200,name:'Autocamperplads i Brønderslev',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:57.0252500,lon:10.1119300,name:'Primitive lejrplads Nørkærsvej Limfjord',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:56.9093900,lon:10.2599500,name:'Mulbjerge - Dokedal',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:56.8906900,lon:9.1671200,name:'Rønbjerg havn',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:57.0180300,lon:8.9852800,name:'Strandparking Amtoftvej',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:56.5539500,lon:8.3085100,name:'Lemvig Havn',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:56.4524600,lon:9.0470300,name:'Motorhome parking Skive',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:56.5615800,lon:9.0280200,name:'Lundberg Autoglas',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:56.1378000,lon:8.9658800,name:'Markedspladsen Møllegade Herning',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.9984000,lon:9.3512200,name:'Motorhome parking Nørre Snede Midtjylland',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.8431900,lon:10.0385400,name:'Alrø i Horsens Fjord',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:56.0960100,lon:10.5142200,name:'Sletterhage Fyr',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.6763200,lon:9.3884800,name:'Vingsted Skyttevej Bredsten',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.6210600,lon:8.4753000,name:'Parking Krogen Vestervold Varde',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.3994500,lon:9.1551500,name:'Inga Ejnar Gejl Skodborg Rødding',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.3572500,lon:9.1870700,name:'Niels Brændekilde ApS Jels Rødding',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.3243200,lon:8.7578400,name:'P-plads Syd Stampemøllevej Ribe',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.2550200,lon:9.5257300,name:'Egon Nowak Neder Åstrup Haderslev',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:54.8270300,lon:9.3310500,name:'Frøslev Øst Sønderjyske Motorvej Padborg',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:54.8782700,lon:9.4148900,name:'Holdbi Kro Kruså',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:54.9410400,lon:8.8080600,name:'Schackenborg Slot Møgeltønder',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.0609000,lon:8.9489600,name:'Tømningsplads Løgumkloster',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.3804700,lon:10.0466700,name:'Meny Aarup',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.3659900,lon:10.4666800,name:'Tarup Campingcenter Odense',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.3498400,lon:11.1231200,name:'OK Tankstation Korsør',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.3410500,lon:11.5857400,name:'Tystrupvej Syd - Fuglebjerg',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.5926200,lon:11.3405700,name:'Buerup Kunst og Håndværk - Jyderup',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.4963800,lon:11.5508100,name:'Poulsen Handel og Service - Munke Bjergby',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.4423500,lon:11.8067500,name:'Mogens Madsen - Ringsted',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.4498000,lon:11.8010900,name:'Autocamper P-plads - Ringsted',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.9691800,lon:11.9531600,name:'Kirsten Culmsee, Ellingbugt - Hundested',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.8122900,lon:12.3696100,name:'Autocamperpladsen - Farum',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.7852800,lon:12.3769400,name:'Autocamperpladsen - Værløse',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.4424700,lon:11.8081700,name:'Lars Mathiesen - Ringsted',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.0808600,lon:11.9590600,name:'Udby Kro - Lundby',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.1652900,lon:11.9585900,name:'Circle K / Statiol Motorvejscenter Tappernøje Øst - Tappernøje',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.1698000,lon:11.9572100,name:'Circle K / Statiol Motorvejscenter Tappernøje Vest - Tappernøje',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.2317000,lon:11.7536200,name:'Parking Rådmandshaven - Næstved',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.2772400,lon:14.8050900,name:'Kæmpestranden - Allinge',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.2797000,lon:14.7549300,name:'Hammershus Havn - Allinge',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:55.2805800,lon:14.7602700,name:'P-plads Hammerbrudet - Allinge',desc:'Denmark',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8494900,lon:15.4188500,name:'Kostanjevica na Krki',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.9862500,lon:15.4659200,name:'Brestanica',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:46.0088200,lon:15.3149300,name:'PZA Castle Sevnica',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:46.0428700,lon:15.5917500,name:'Gasilski Dom',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.0000000,lon:15.0000000,name:'Postajališče za avtodome Dolenjc',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.7744700,lon:14.3573800,name:'Parking Cerkniško Jezero',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:46.2208900,lon:14.6095300,name:'Parking Sportna Dvorana',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:46.1466700,lon:14.6013900,name:'Car Service Station Glavan',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:46.3929700,lon:14.5005400,name:'Zgornje Jezersko',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:46.5139900,lon:15.0765400,name:'Camper Stop Slovenj Gradec',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:46.4524300,lon:15.3313200,name:'Motorhome parking Zrece',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:46.2121800,lon:15.2618200,name:'Motorhome parking Celje',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:46.4060700,lon:16.1601600,name:'Motorhome parking Ormoz',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:46.5551600,lon:16.2192900,name:'Gostilna Trnek',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.7336200,lon:14.0693500,name:'Tourist Farm Lojtrnik',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:46.0363600,lon:14.4621600,name:'Motorhome parking Ljubljana',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.7111100,lon:14.4725200,name:'Stari trg pri Ložu',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.9535200,lon:15.0592100,name:'PZA Mirna',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.7361630,lon:14.0522820,name:'Senožeče',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.7791180,lon:15.0739340,name:'Vavta vas',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8914670,lon:13.6057990,name:'Miren',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8722990,lon:13.6162000,name:'Parking for Cerje Monument Museum',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8221020,lon:13.8425000,name:'Štanjel Parking',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8215500,lon:14.2886390,name:'Unec Parking',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.7948370,lon:14.2890280,name:'Cerknica small Parking',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.7907980,lon:14.3043000,name:'Rakov Škocjan Parking',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.7011100,lon:14.2087250,name:'Slovenska Vas Eko Museum Parking',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8288000,lon:14.9311000,name:'Žužemberk Camper Stop',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.7598000,lon:15.2014000,name:'Gornja Težka Voda Restaurant',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8344990,lon:15.4142000,name:'Kostanjevica na Krki Museum Parking',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8385010,lon:15.4327000,name:'Kostanjevica Cave Parking',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.7140850,lon:15.1277590,name:'Uršna Sela Train Station',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.6980020,lon:15.0504000,name:'Podstenice Memorial Parking',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.6724010,lon:15.1020000,name:'Črmošnjice Camper Stop',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8447990,lon:15.1579000,name:'Dolenje Kamenje Restaurant Parking',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.9034000,lon:15.0423000,name:'Dolenja Nemška Vas Parking',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:45.9047850,lon:15.0029270,name:'Trebnje Gas Station Parking',desc:'Slovenia',color:'',icon:''});
+				GV_Draw_Marker({lat:36.6369440,lon:-6.3922220,name:'Punta Candor',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:36.6380560,lon:-6.3911110,name:'00',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.0516670,lon:-6.6222220,name:'Laguna del Jaral',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1313890,lon:-6.8263890,name:'Mazagon Playa',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1744440,lon:-6.9505560,name:'Plaza de la Canaleta',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2130560,lon:-6.9405560,name:'Monumento a Colon',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2672220,lon:-6.9580560,name:'jjk',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1980560,lon:-7.0116670,name:'Chiringuito',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2044440,lon:-7.0286110,name:'Playa La Bota',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2672220,lon:-6.9580560,name:'Repsol LPG',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.2655560,lon:-6.9586110,name:'Lidl',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6058590,lon:-0.7270580,name:'',desc:'Spain, playa',color:'',icon:''});
+				GV_Draw_Marker({lat:37.6187010,lon:-0.7139800,name:'',desc:'Spain, playa',color:'',icon:''});
+				GV_Draw_Marker({lat:36.2458130,lon:-5.2995820,name:'',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.1567810,lon:-3.7534330,name:'aguas termales, good place but a lot of bad people',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:37.5587100,lon:-1.4089620,name:'german finca for autocaravanas, 6 euro per night',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:43.4019820,lon:-4.3528860,name:'Oyambre',desc:'Spain',color:'',icon:''});
+				GV_Draw_Marker({lat:29.6723292,lon:-8.9729061,name:'Blue Rocks, Tafraoute, Morocco',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4596390,lon:12.0653210,name:'Terme Bagnaccio, Viterbo, Italia',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4205760,lon:12.0738840,name:'Terme Bulicame, Viterbo, Italia',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4208250,lon:12.0651710,name:'Terme Romane Carletti, Viterbo, Italia',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.7478730,lon:12.2404410,name:'Lido delle Nazioni, Comacchio',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5432770,lon:13.6464200,name:'Area Camper Tossicia',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5250370,lon:13.5542550,name:'Pietracamela',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4993670,lon:13.5597730,name:'Prati di Tivo',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.3653300,lon:13.3181660,name:'L\'Aquila, Strada Statale 17 Ovest, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4087950,lon:12.8767810,name:'Rieti, Piazza Lago Di Ventina, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4562360,lon:12.9792850,name:'Terminillo, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4437200,lon:12.9903780,name:'Terminillo, Cinque Confini, Parking in alta quota',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4128110,lon:12.8667280,name:'Rieti, Via Angelo Maria Ricci, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.3965830,lon:12.8623620,name:'Rieti, Via Domenico Raccuini, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5639480,lon:12.9614870,name:'Leonessa, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4637650,lon:12.9028690,name:'Cantalice, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.3629370,lon:13.1854050,name:'Sella di Corno',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.2725330,lon:12.9245520,name:'Rocca Sinibalda, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.2699760,lon:13.0627430,name:'Lago del Salto, Borgo San Pietro',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5021150,lon:12.8517010,name:'Sorgenti Santa Susanna',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4146780,lon:13.0751180,name:'Antrodoco, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.3947150,lon:13.0292240,name:'Canetra',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5633900,lon:13.5681910,name:'Fano Adriano, Statale 80, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5198020,lon:13.4224040,name:'Ortolano',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5094260,lon:13.4075850,name:'Lago Di Provvidenza',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.3660120,lon:13.4530060,name:'Tempera, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4382690,lon:13.3403660,name:'Pizzoli, Ex Cava Di Sabbia',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5177100,lon:12.5250900,name:'Narni, Via Della Valletta, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.6922340,lon:12.5419720,name:'Acquasparta, Località Fonti Amerino, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5352210,lon:12.7631500,name:'Piediluco, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4986710,lon:12.6597210,name:'Stroncone, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5576220,lon:12.7214770,name:'Cascate delle Marmore',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.7134870,lon:12.8324710,name:'Scheggino, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.7142510,lon:12.8300410,name:'Scheggino, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.5517670,lon:12.4189010,name:'Amelia, Parking',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.9368900,lon:13.6915300,name:'Offida - Area Comunale - luce gratis',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.8193100,lon:13.6989600,name:'Vibrata - Area Comunale',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.1040200,lon:13.8394900,name:'Marina di Altidona',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.8675000,lon:13.1966400,name:'Castelluccio - Parcheggio la Baita',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.0810300,lon:13.8206300,name:'Campofilone',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4240900,lon:13.7427500,name:'Fonte Vedica',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4070100,lon:13.7446800,name:'Refugio Mucciante',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4855300,lon:13.7069600,name:'Castelli - Area Comunale',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4429800,lon:13.5591200,name:'Campo Imperatore - Osservatorio Astronomico',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.4243200,lon:13.5264200,name:'Fonte Cerreto - Parcheggio Funivia del Gran Sasso',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.4661600,lon:13.5554400,name:'Area Comunale, Via Lumumba, Castelfidardo',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.5242900,lon:13.4364600,name:'Via Martin Luther King 1, Offagna - luce',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.5517200,lon:13.5143200,name:'Area Sosta, Via Franco Scataglini, Baraccola',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.5782300,lon:13.5080600,name:'Parking, Via Enrico Sacripanti, Ancona',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.6462100,lon:13.0488500,name:'Coricamper, Via Pecciameglio, Corinaldo - luce gratis',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.6773300,lon:12.9616500,name:'Area Sosta Camper, Via Cappuccini, Mondavio - luce gratis',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.8455200,lon:13.0112700,name:'Area Comunale, Viale Kennedy, Fano',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.1981100,lon:12.3907600,name:'Area Comunale La Rocca, Piazzale La Rocca, Cesenatico',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.4865700,lon:12.2840500,name:'Parcheggio Comunale, Viale Lungomare, Marina di Ravenna',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.6961100,lon:11.8144500,name:'Area Comunale (Parcheggio camper via Mazzini angolo via Bassi) Via Giuseppe Mazzini 46, Portomaggiore',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.0224400,lon:11.5358900,name:'Area Comunale, Via Aldo Moro, Castelguglielmo',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.0796900,lon:11.5993500,name:'Area Comunale, Via della Pace, Lendinara',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.1983800,lon:11.2100600,name:'Area Comunale, Via Guglielmo Oberdan, Cerea',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.3571300,lon:10.7380400,name:'Parcheggio Comunale - Via Gorizia, Valeggio sul Mincio',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.4982600,lon:10.7390000,name:'Parcheggio del Mincio - Via Mincio, Lazise',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.6407300,lon:10.8703900,name:'Parcheggio Comunale (nuovo di zecca 100m oltre il vecchio sito che è ancora disponibile) - Via Santuario, Brentino',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8154500,lon:10.9555300,name:'c/o Camping Miralago - Via Porto Camarelle, Baitoni',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.9575100,lon:11.0322000,name:'Area Comunale - SP 20 Loc Cei, Villa Lagarina',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.9421600,lon:11.1093100,name:'Parcheggio Comunale - Via Pietro Vanzetti, Besenello',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.9560600,lon:11.3291400,name:'Passo Vezzano - Strada per Luserna, Levico Terme',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:46.0962600,lon:11.0549200,name:'Parking Lago di Terlago - Via al Lago, Terlago',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:46.3540400,lon:11.1028600,name:'Punto Sosta Camper - Lago di Coredo',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8154500,lon:10.9555300,name:'Area Comunale Al Zengio - Via al Dosset, Brentonico - luce 3 euro',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.9236500,lon:10.6514300,name:'Area Comunale - Via Ugo Foscolo, Guastalla - luce 3 euro',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.4922800,lon:13.3129100,name:'Area sosta - Via Niccoli, Santa Maria Nuova - luce gratis',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.8396800,lon:12.3571400,name:'Parcheggio Comunale - Via Circonvallazione Sud, Montecopiolo - luce 1 euro x kWh',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:43.9047500,lon:12.2408200,name:'Area Comunale - Via Circonvallazione, Perticara - luce gratis',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.1822300,lon:11.9500900,name:'Area Communale - Via Biondina, Castrocaro Terme - luce 0.10 euro x ora',desc:'',color:'',icon:''});
+				GV_Draw_Marker({lat:44.6533200,lon:10.9100400,name:'Parking - Via Emilia Ovest, Modena',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.5413900,lon:10.8264300,name:'Area Sosta Camper Club - Via Cameazzo 6, Fiorano Modenese - luce 1 euro x 4 ore',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.5998900,lon:10.4149600,name:'Parking Ciano D\'Enza - Via Vigo, Canossa - luce gratis',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.7085600,lon:10.2306900,name:'Area Comunale - Via Giuseppe di Vittorio, Sala Baganza - luce',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.8981900,lon:11.0614500,name:'Via Luigi Galvani, 41037 Mirandola, Emilia Romagna',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.0122400,lon:11.2937100,name:'Via Argine Po, 46028 Sermide, Lombardia',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.2371100,lon:11.4636500,name:'Via 4 Novembre, 35044 Montagnana, Veneto',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.4170100,lon:11.5533600,name:'Via Calbin 24, 36024 Mossano, Veneto',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.9981900,lon:12.8603100,name:'Via Pier Paolo Pasolini, 33098 Valvasone, Friuli',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:46.0165000,lon:13.3930700,name:'SP109, 33044 Oleis, Friuli',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.9464100,lon:13.5111800,name:'Via degli Alpini, 34070 Capriva del Friuli',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.8069800,lon:13.4893800,name:'Via delle Acacie 17, 34079 Staranzano, Friuli',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:44.8468100,lon:10.2901820,name:'Rotonda Fiera di Parma',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.2685330,lon:13.0624620,name:'Borgo San Pietro',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.2219010,lon:12.9325000,name:'Stop sul Lago',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:42.2062490,lon:12.9480910,name:'Colle di Tora',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:45.9990000,lon:13.3914270,name:'Rimessaggio Friuli - Via Cividale n. 45 Case di Manzano - Udine',desc:'Italy',color:'',icon:''});
+				GV_Draw_Marker({lat:46.4243580,lon:11.2507030,name:'Zona Artigianale, 12, 39052 Caldaro BZ - outdoor-living.it - 0471 962540',desc:'Italy',color:'',icon:''});
+				
+				GV_Finish_Map();
+					
+			  
+			}
+			GV_Map(); // execute the above code
+			// http://www.gpsvisualizer.com/map_input?form=google
+		</script>
+		
+		
+		
+	</body>
+
+</html>

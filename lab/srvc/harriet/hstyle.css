@@ -1,0 +1,31 @@
+/* The Harriet Solit Web Site style sheet */
+
+
+
+span.signature {font-family: verdana; font-size: 8pt; color: navy; font-weight: bold}
+
+a.signature {color: navy; text-decoration: none}
+
+.signature:hover {color: red; text-decoration: underline}
+
+a.language {font-family: verdana; font-size: 8pt}
+
+
+
+a.language {color: #6d28aa; text-decoration: none}
+.language:hover {color: white; text-decoration: none; background: #6d28aa}
+
+a.artist1 {color: navy; text-decoration: underline}
+.artist1:hover {color: blue; text-decoration: none; background: yellow}
+a.artist2 {color: navy; text-decoration: underline}
+.artist2:hover {color: blue; text-decoration: none; background: #ff80ff}
+a.artist3 {color: navy; text-decoration: underline}
+.artist3:hover {color: blue; text-decoration: none; background: lightgreen}
+
+
+
+
+a.gallery {color: navy; text-decoration: underline}
+
+.gallery:hover {color: red; text-decoration: none; background: #dfdfdf}
+
